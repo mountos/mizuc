@@ -1,8 +1,8 @@
 import { defineThemeConfig } from './types'
 
 export default defineThemeConfig({
-  site: 'https://nordlys.fjelloverflow.dev',
-  title: 'Mizuc 迷走客',
+  site: 'https://mizuc.com',
+  title: '迷走客',
   description: '去探險，去感受，這個真實而獨特的世界。',
   author: '迷走客',
   navbarItems: [
@@ -15,7 +15,7 @@ export default defineThemeConfig({
       children: [
         { label: 'Landing page', href: '/' },
         { label: '404 page', href: '/404' },
-        { label: 'Author: FjellOverflow', href: '/authors/FjellOverflow/' },
+        { label: 'Author: Mizuc', href: '/authors/Mizuc/' },
         { label: 'Tag: documentation', href: '/tags/documentation/' }
       ]
     }
@@ -23,7 +23,7 @@ export default defineThemeConfig({
   footerItems: [
     {
       icon: 'tabler--brand-github',
-      href: 'https://github.com/FjellOverflow/nordlys',
+      href: 'https://github.com/mountos/mizuc',
       label: 'Github'
     },
     {
@@ -34,8 +34,8 @@ export default defineThemeConfig({
   ],
 
   // optional settings
-  locale: 'en',
-  mode: 'dark',
+  locale: 'zh-TW',
+  mode: 'white',
   modeToggle: true,
   colorScheme: 'scheme-mono',
   openGraphImage: undefined,
