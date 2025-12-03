@@ -2,9 +2,9 @@ import { defineThemeConfig } from './types'
 
 export default defineThemeConfig({
   site: 'https://nordlys.fjelloverflow.dev',
-  title: 'Nordlys',
-  description: 'A minimal Astro blog theme',
-  author: 'FjellOverflow',
+  title: 'Mizuc 迷走客',
+  description: '去探險，去感受，這個真實而獨特的世界。',
+  author: '迷走客',
   navbarItems: [
     { label: 'Blog', href: '/posts/' },
     { label: 'Projects', href: '/projects/' },
