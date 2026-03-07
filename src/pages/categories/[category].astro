@@ -1,0 +1,52 @@
+---
+import PageLayout, {
+  type Props as PageLayoutProps
+} from '@/layouts/PageLayout.astro'
+import { getPosts } from '@/util/posts'
+import { toDateString } from '@/util'
+
+export async function getStaticPaths() {
+  const allPosts = await getPosts()
+  const categories = [...new Set(allPosts.map((p) => p.data.category).filter(c => !!c))]
+  
+  return categories.map((category) => ({
+    params: { category: category?.toLowerCase().replace(/ /g, '-') },
+    props: { category, posts: allPosts.filter((p) => p.data.category === category) }
+  }))
+}
+
+const { category, posts } = Astro.props
+
+const frontmatter: PageLayoutProps['frontmatter'] = {
+  title: `Category: ${category}`,
+  activeHeaderLink: 'Blog'
+}
+---
+
+<PageLayout {frontmatter}>
+  <h1>Category: {category}</h1>
+  <p class="mb-8 opacity-75">{posts.length} posts found in this category.</p>
+
+  <ul class="space-y-4 sm:space-y-8">
+    {
+      posts.map((post) => (
+        <li class="flex flex-col gap-1 sm:gap-2">
+          <time
+            datetime={post.data.publishedDate.toISOString()}
+            class="text-sm opacity-75 sm:text-base"
+          >
+            {toDateString(post.data.publishedDate)}
+          </time>
+          <a
+            href={`/posts/${post.id}/`}
+            class="clickable text-xl font-normal no-underline sm:text-2xl"
+            data-astro-prefetch
+          >
+            {post.data.title}
+          </a>
+          <p class="line-clamp-2 opacity-75">{post.data.description}</p>
+        </li>
+      ))
+    }
+  </ul>
+</PageLayout>

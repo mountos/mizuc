@@ -7,6 +7,7 @@ export default defineThemeConfig({
   author: '迷走客',
   navbarItems: [
     { label: 'Blog', href: '/posts/' },
+    { label: 'Categories', href: '/categories/' },
     { label: 'Projects', href: '/projects/' },
     { label: 'Tags', href: '/tags/' },
     { label: 'About', href: '/about/' },

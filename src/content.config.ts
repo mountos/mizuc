@@ -14,8 +14,10 @@ const posts = defineCollection({
       canonicalURL: z.string().optional(),
       openGraphImage: image().optional(),
       tags: z.array(z.string()).default([]),
+      category: z.string().optional(),
       showToC: z.boolean().optional().default(true),
-      previewImage: image().optional()
+      previewImage: image().optional(),
+      heroImage: image().optional()
     })
 })
 

@@ -31,15 +31,38 @@ const frontmatter: PageLayoutProps['frontmatter'] = {
 ---
 
 <PageLayout {frontmatter}>
-  <div slot="top" class="mt-4">
+  <div slot="top" class="mt-4 flex flex-col gap-2">
     <a href="/posts/" class="clickable flex w-fit items-center gap-1">
       <span class="iconify tabler--arrow-left text-xl"></span>
       Back to all posts
     </a>
+    {
+      post.data.category && (
+        <a
+          href={`/categories/${post.data.category.toLowerCase().replace(/ /g, '-')}/`}
+          class="clickable w-fit text-sm font-medium uppercase tracking-wider opacity-75 no-underline hover:opacity-100"
+        >
+          <span class="iconify tabler--category align-middle" />
+          {post.data.category}
+        </a>
+      )
+    }
   </div>
 
   <h1 class="mt-2 mb-2 sm:my-4">{frontmatter.title}</h1>
   <TagsBar tags={resolveTags(post.data.tags)} />
+
+  {
+    post.data.heroImage && (
+      <div class="mt-4 sm:mt-8">
+        <img
+          src={post.data.heroImage.src}
+          alt={frontmatter.title}
+          class="aspect-video w-full rounded-lg object-cover shadow-lg"
+        />
+      </div>
+    )
+  }
 
   <div class="mt-4">
     <span class="opacity-75"

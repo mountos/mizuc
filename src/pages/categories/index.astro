@@ -1,0 +1,35 @@
+---
+import PageLayout, {
+  type Props as PageLayoutProps
+} from '@/layouts/PageLayout.astro'
+import { generateCategories, getCategoryUsage } from '@/util/categories'
+
+const categories = await generateCategories()
+
+const frontmatter: PageLayoutProps['frontmatter'] = {
+  title: 'Categories',
+  activeHeaderLink: 'Blog'
+}
+---
+
+<PageLayout {frontmatter}>
+  <h1>Categories</h1>
+  <div class="flex flex-wrap justify-between gap-4 sm:gap-8">
+    {
+      categories.map(async (category) => (
+        <a
+          class="clickable flex flex-col items-center gap-1 no-underline"
+          href={`/categories/${category.toLowerCase().replace(/ /g, '-')}/`}
+          data-astro-prefetch
+        >
+          <span class="iconify text-4xl sm:text-5xl tabler--category" />
+
+          <span class="text-base font-normal sm:text-lg">
+            {category} ({(await getCategoryUsage(category))})
+          </span>
+        </a>
+      ))
+    }
+    <div class="mr-auto"></div>
+  </div>
+</PageLayout>
