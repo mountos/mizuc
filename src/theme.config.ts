@@ -36,7 +36,7 @@ export default defineThemeConfig({
 
   // optional settings
   locale: 'zh-TW',
-  mode: 'white',
+  mode: 'light',
   modeToggle: true,
   colorScheme: 'scheme-mono',
   openGraphImage: undefined,

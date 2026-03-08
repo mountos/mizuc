@@ -41,7 +41,7 @@ showToC: true
 
 尤其當那顆雞蛋被拌入冰裡時，奇妙的凝固現象總是讓我看了嘖嘖稱奇。
 
-[![南澳冰店](../../src/assets/images/2018-11-shaved-ice-with-red-beans-milk-egg-in-nanao-Yilan-03-1-1.jpg)](https://mizuc.com/yilan-travel-take-train-to-nanao-to-eat-shaved-ice-with-red-beans-milk-egg/shaved-ice-with-red-beans-milk-egg-in-nanao-yilan-03/)
+[![南澳冰店](../../src/assets/images/2018-11-shaved-ice-with-red-beans-milk-egg-in-nanao-Yilan-03.jpg)](https://mizuc.com/yilan-travel-take-train-to-nanao-to-eat-shaved-ice-with-red-beans-milk-egg/shaved-ice-with-red-beans-milk-egg-in-nanao-yilan-03/)
 
 紅豆牛奶冰 + 雞蛋
 

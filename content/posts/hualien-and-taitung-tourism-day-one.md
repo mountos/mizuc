@@ -23,7 +23,7 @@ showToC: true
 
 車禍也就算了，偏偏還是軍用卡車跟貨櫃車發生追撞事故！兩輛巨無霸佔據著高速公路好幾線道，雖然還剩下一線道可供通行，不過華人名產插隊車可不是浪得虛名，所有車輛只能緩慢行駛也是意料中事。
 
-![國道三號](../../src/assets/images/2018-11-Hualien-and-taitung-tourism-four-days-01-3586828361-1541769925300-1-1.jpg)
+![國道三號](../../src/assets/images/2018-11-Hualien-and-taitung-tourism-four-days-01.jpg)
 
 國道三號車禍現場
 

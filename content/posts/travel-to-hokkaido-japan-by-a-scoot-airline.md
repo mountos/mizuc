@@ -35,7 +35,7 @@ Scoot 酷航飛日本北海道（Hokkaido Japan）起飛時間挺對我胃口，
 
 酷航目前號稱是全787機隊，不是中華民國臺灣省島上常見廉航用的空中巴士（Airbus）或之前常出事的 ATR，而是他們的競爭對手波音公司（Boeing）的 B787系列（發動機是很名牌的 rolls royce 勞斯萊斯），這系列飛機的載客量比空中巴士 A320 多了將近一倍，座位數在 320~375 之間，A320 約 180 左右。這也是我第一眼看見酷航機艙時的感覺：「擠」。
 
-[![Scoot Aviation Cabin Seat Boeing 787 201903](../../src/assets/images/2019-03-Scoot-Aviation-Cabin-Seat-Boeing-787-201903-1-scaled-1-scaled.jpeg)](../../src/assets/images/2019-03-Scoot-Aviation-Cabin-Seat-Boeing-787-201903-1-scaled-1-scaled.jpeg)
+[![Scoot Aviation Cabin Seat Boeing 787 201903](../../src/assets/images/2019-03-Scoot-Aviation-Cabin-Seat-Boeing-787-201903-1-scaled-1.jpeg)](../../src/assets/images/2019-03-Scoot-Aviation-Cabin-Seat-Boeing-787-201903-1-scaled-1.jpeg)
 
 酷航 B787 航班的機艙座位
 
@@ -49,7 +49,7 @@ Scoot 酷航飛日本北海道（Hokkaido Japan）起飛時間挺對我胃口，
 
 嘿，可別誤會有什麼豔遇，而是我座位正後方的那個幾乎是整路都在咳嗽、擤鼻涕。重點是我不曉得為何在臺灣省島上，經常會遇到這類型的組合，感冒的人不戴口罩，反而是沒感冒的朋友戴口罩（無語問蒼天）。
 
-[![Scoot aviation on the sky of Tamsui Taiwan](../../src/assets/images/2019-03-Scoot-aviation-on-the-sky-of-Yoshima-Island-Shikoku-Japan-1-scaled-1-scaled.jpeg)](../../src/assets/images/2019-03-Scoot-aviation-on-the-sky-of-Yoshima-Island-Shikoku-Japan-1-scaled-1-scaled.jpeg)
+[![Scoot aviation on the sky of Tamsui Taiwan](../../src/assets/images/2019-03-Scoot-aviation-on-the-sky-of-Yoshima-Island-Shikoku-Japan-1-scaled-1.jpeg)](../../src/assets/images/2019-03-Scoot-aviation-on-the-sky-of-Yoshima-Island-Shikoku-Japan-1-scaled-1.jpeg)
 
 飛過日本四國高空的 Scoot 酷航航班
 
@@ -65,7 +65,7 @@ Scoot 酷航飛日本北海道（Hokkaido Japan）起飛時間挺對我胃口，
 
 另外搭乘 B787 倒是發現一個有趣的新玩具（好啦，其實這玩意從8年前就開始商用了），機艙窗戶沒有遮陽板，反而多了一組控制鈕。這是一種液晶遮陽板，只要操作按鈕就能控制變色程度，甚至可以完全遮蔽光線。
 
-[![Scoot Aviation Boeing 787 Window At high altitude](../../src/assets/images/2019-03-Scoot-Aviation-Boeing-787-Window-At-high-altitude-1-scaled-1-scaled.jpeg)](../../src/assets/images/2019-03-Scoot-Aviation-Boeing-787-Window-At-high-altitude-1-scaled-1-scaled.jpeg)
+[![Scoot Aviation Boeing 787 Window At high altitude](../../src/assets/images/2019-03-Scoot-Aviation-Boeing-787-Window-At-high-altitude-1-scaled-1.jpeg)](../../src/assets/images/2019-03-Scoot-Aviation-Boeing-787-Window-At-high-altitude-1-scaled-1.jpeg)
 
 酷航 787 航班的可調光窗戶
 
