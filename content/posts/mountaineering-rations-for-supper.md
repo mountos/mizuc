@@ -4,7 +4,7 @@ author: "迷走客"
 description: "不登山的深夜，吃這個宵夜讓熱量爆炸"
 publishedDate: 2022-02-07
 tags: ["口糧","宵夜","泡麵","熱量","登山","餅乾","體重"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

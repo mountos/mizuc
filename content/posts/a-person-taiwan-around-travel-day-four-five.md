@@ -4,7 +4,7 @@ author: "迷走客"
 description: "臺灣環島：從臺南到淡水"
 publishedDate: 2022-01-31
 tags: ["中華民國","台南","台灣","旅行","環島","高速公路","鮮蝦餅"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

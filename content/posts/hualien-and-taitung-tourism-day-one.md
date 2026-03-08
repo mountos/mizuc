@@ -4,7 +4,7 @@ author: "迷走客"
 description: "花蓮、台東四日環島旅行：颱風攪局之第1日"
 publishedDate: 2006-08-01
 tags: ["中華民國","台七線","台東","台灣","國道五號","攝影機","武陵農場","海盜桶","環島","省道","車禍","雪山隧道"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true
@@ -23,7 +23,7 @@ showToC: true
 
 車禍也就算了，偏偏還是軍用卡車跟貨櫃車發生追撞事故！兩輛巨無霸佔據著高速公路好幾線道，雖然還剩下一線道可供通行，不過華人名產插隊車可不是浪得虛名，所有車輛只能緩慢行駛也是意料中事。
 
-![國道三號](../../src/assets/wp-images/2018-11-Hualien-and-taitung-tourism-four-days-01-3586828361-1541769925300-1-1.jpg)
+![國道三號](../../src/assets/images/2018-11-Hualien-and-taitung-tourism-four-days-01-3586828361-1541769925300-1-1.jpg)
 
 國道三號車禍現場
 
@@ -41,7 +41,7 @@ showToC: true
 
 後來又開過幾個隧道後，我們終於肯定接下來的一定才是正牌的雪山隧道。但是路牌上寫雪山隧道總長有 12.6 公里，會不會有點給他太長了些？
 
-![雪山隧道](../../src/assets/wp-images/2018-11-Hualien-and-taitung-tourism-four-days-02-1-1.jpg)
+![雪山隧道](../../src/assets/images/2018-11-Hualien-and-taitung-tourism-four-days-02-1-1.jpg)
 
 雪山隧道入口
 
@@ -61,7 +61,7 @@ showToC: true
 
 計算完後我內心又默默說了一次：「政府真是缺錢呀！」大概都被浪費跟貪汙花光了（遠目）。
 
-![雪山隧道](../../src/assets/wp-images/2018-11-Hualien-and-taitung-tourism-four-days-03-1-1.jpg)
+![雪山隧道](../../src/assets/images/2018-11-Hualien-and-taitung-tourism-four-days-03-1-1.jpg)
 
 雪山隧道的那道光
 
@@ -79,7 +79,7 @@ showToC: true
 
 根據中華民國氣象局公佈的酸雨值來看，宜蘭的空氣有時候甚至比台北市還糟糕，不過這邊就當給各位補充個常識好了，說太多只會招來網軍攻擊。
 
-![雪山隧道](../../src/assets/wp-images/2018-11-Hualien-and-taitung-tourism-four-days-04-1-1.jpg)
+![雪山隧道](../../src/assets/images/2018-11-Hualien-and-taitung-tourism-four-days-04-1-1.jpg)
 
 雪山隧道出口（宜蘭方向）
 
@@ -99,37 +99,37 @@ showToC: true
 
 無邊無際蔓延的水管似乎年久失修，斷的斷破的破，水都像噴泉般噴到馬路上，有些路段更像自動洗車機一般，十來條水柱在噴著，更誇張的，其中有一個地方的水管是橫跨過馬路上方的，水就這樣大量漏了下來，我也索性停在下方，就當洗車吧，忽然想到有開天窗的車經過的話，一定很精采。
 
-![省道台七線](../../src/assets/wp-images/2018-11-Hualien-and-taitung-tourism-four-days-05-1-1.jpg)
+![省道台七線](../../src/assets/images/2018-11-Hualien-and-taitung-tourism-four-days-05-1-1.jpg)
 
 往武陵農場路上的省道台七線
 
 往武陵的路上不斷印入眼簾的一片又一片田野風光，滿滿的綠意，恰好可以讓駕駛的疲累眼睛獲得短暫的休憩。
 
-![田園風光](../../src/assets/wp-images/2018-11-Hualien-and-taitung-tourism-four-days-06-1-1.jpg)
+![田園風光](../../src/assets/images/2018-11-Hualien-and-taitung-tourism-four-days-06-1-1.jpg)
 
 省道台七線上的田園風光
 
 話說回來，武陵的入園費也是爆貴的，比起太平山有過之而無不及，不僅要算人頭還要算車頭，入園後，在遊客中心對面有著一座吊橋「兆豐橋」，橋的對面有著茶園，還有無數隻翩然於花叢間的曙鳳蝶，極搶鏡頭。
 
-![兆豐橋](../../src/assets/wp-images/2018-11-Hualien-and-taitung-tourism-four-days-07-1-1.jpg)
+![兆豐橋](../../src/assets/images/2018-11-Hualien-and-taitung-tourism-four-days-07-1-1.jpg)
 
 武陵農場兆豐橋
 
 在山頭的一角處，有著平地不易見到的可愛雲朵，美麗的藍白漸層，更令人驚豔。
 
-![武陵農場](../../src/assets/wp-images/2018-11-Hualien-and-taitung-tourism-four-days-08-1-1.jpg)
+![武陵農場](../../src/assets/images/2018-11-Hualien-and-taitung-tourism-four-days-08-1-1.jpg)
 
 武陵農場的白雲飄飄
 
 正在汲取花蜜的曙鳳蝶，完全不查一旁的變態狂魔正拿著相機瘋狂偷拍著。
 
-![曙鳳蝶](../../src/assets/wp-images/2018-11-Hualien-and-taitung-tourism-four-days-09-1-1.jpg)
+![曙鳳蝶](../../src/assets/images/2018-11-Hualien-and-taitung-tourism-four-days-09-1-1.jpg)
 
 曙鳳蝶汲蜜
 
 笨蛋，人都殺到正面了，還一副渾然忘我的樣子，忽然想到一首歌「蝴蝶蝴蝶生的真美麗………」，蝴蝶的美麗色彩到底是誰決定的呢？
 
-![曙鳳蝶](../../src/assets/wp-images/2018-11-Hualien-and-taitung-tourism-four-days-10-1-1.jpg)
+![曙鳳蝶](../../src/assets/images/2018-11-Hualien-and-taitung-tourism-four-days-10-1-1.jpg)
 
 曙鳳蝶的美麗身姿
 
@@ -160,7 +160,7 @@ showToC: true
     *   第四日：知本溫泉→花蓮市→蘇花公路→雪山隧道→淡水。  
         
 
-[![](../../src/assets/wp-images/2018-12-Hualien-and-taitung-tourism-four-days-71-1-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-71/)
+[![](../../src/assets/images/2018-12-Hualien-and-taitung-tourism-four-days-71-1-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-71/)
 
 花蓮、台東四日環島路線地圖。
 

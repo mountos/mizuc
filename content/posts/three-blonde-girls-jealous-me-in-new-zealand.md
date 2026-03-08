@@ -4,7 +4,7 @@ author: "迷走客"
 description: "我被3個年輕金髮美女吃醋白眼屁股擠丨紐西蘭 New Zealand"
 publishedDate: 2013-11-20
 tags: ["Intercity","冰川","客運","法蘭茲約瑟夫","紐西蘭","美女","車站"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

@@ -4,7 +4,7 @@ author: "迷走客"
 description: "臺灣環島：從淡水到花蓮"
 publishedDate: 2022-01-29
 tags: ["七星潭","中華民國","六月","北海岸","台灣","基隆","旅行","海洋大學","環島","臺灣","蘇花公路","貓鼻頭燈塔"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

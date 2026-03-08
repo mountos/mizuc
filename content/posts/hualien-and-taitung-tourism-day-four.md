@@ -4,7 +4,7 @@ author: "迷走客"
 description: "花蓮、台東四日環島旅行：颱風攪局之第4日"
 publishedDate: 2006-08-05
 tags: ["7-Eleven","中華民國","北迴歸線","台東","台灣","塞車","大漢技術學院","東河包子","溫泉","知本","肉包","花蓮","雪山隧道","飯店"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

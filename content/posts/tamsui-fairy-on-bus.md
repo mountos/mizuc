@@ -4,7 +4,7 @@ author: "迷走客"
 description: "我在淡水公車上遇見一位「氣場」無敵活神仙"
 publishedDate: 2025-04-24
 tags: ["公車","活神仙","淡水","臭味","高中女生"]
-category: "行路趣聞"
+category: "walk"
 heroImage: ""
 draft: false
 showToC: true

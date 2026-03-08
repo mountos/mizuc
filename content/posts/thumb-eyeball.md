@@ -4,7 +4,7 @@ author: "迷走客"
 description: "感覺大拇指差點戳爆眼睛了"
 publishedDate: 2025-04-12
 tags: ["傷害","急診","直播間","眼睛"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

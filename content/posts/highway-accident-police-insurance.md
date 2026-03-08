@@ -4,7 +4,7 @@ author: "迷走客"
 description: "高速公路車禍：國道警察、保險公司交涉內幕"
 publishedDate: 2022-02-03
 tags: ["保險","恐嚇","理賠","車禍","高速公路"]
-category: "行路趣聞"
+category: "walk"
 heroImage: ""
 draft: false
 showToC: true

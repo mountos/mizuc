@@ -4,7 +4,7 @@ author: "迷走客"
 description: "夢之東沙：逝去、別離與重生"
 publishedDate: 2025-05-27
 tags: ["夢境","東沙島","海島","溺水意外","電機工程"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

@@ -4,7 +4,7 @@ author: "迷走客"
 description: "臺東鹿野高台熱氣球的觀賞時間注意事項"
 publishedDate: 2020-08-10
 tags: ["中華民國","光雕秀","台灣","嘉年華","塞車","日出","時間","氣溫","氣象","熱氣球","臺東","觀賞","門票","高台","鹿野"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

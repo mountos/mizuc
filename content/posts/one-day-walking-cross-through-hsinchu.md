@@ -4,7 +4,7 @@ author: "迷走客"
 description: "夏天旅行：從新竹徒步穿越桃園（失敗篇）"
 publishedDate: 2002-06-13
 tags: ["中華民國","台灣","徒步","新竹","新竹空軍基地","新豐","暑假","桃園","省道","西濱公路","馬路"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

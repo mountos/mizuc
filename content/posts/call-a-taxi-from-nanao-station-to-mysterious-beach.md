@@ -4,7 +4,7 @@ author: "迷走客"
 description: "南澳車站到神秘海灘交通建議：叫計程車接送吧｜宜蘭旅遊筆記"
 publishedDate: 2018-11-18
 tags: ["中華民國","南澳","南澳火車站","台灣","夏天","宜蘭","沙灘","海灘","火車","神秘海灘","計程車"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

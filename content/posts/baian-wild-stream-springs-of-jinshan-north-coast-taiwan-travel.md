@@ -4,7 +4,7 @@ author: "迷走客"
 description: "八煙野溪溫泉：從淡水到北海岸金山"
 publishedDate: 2004-01-09
 tags: ["中華民國","八煙","八煙野溪溫泉","北海岸","台灣","手電筒","秘境","野溪溫泉","金山","陽金公路"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

@@ -56,6 +56,7 @@ export interface ThemeConfig {
   scrollProgress: boolean
   scrollToTop: boolean
   tagIcons: Record<string, Icon>
+  categoryMapping: Record<string, string>
   expressiveCodeThemes: AstroExpressiveCodeOptions['themes']
 }
 
@@ -72,6 +73,7 @@ const defaults = {
   scrollProgress: false,
   scrollToTop: true,
   tagIcons: {},
+  categoryMapping: {},
   expressiveCodeThemes: [
     'vitesse-light',
     'vitesse-black'

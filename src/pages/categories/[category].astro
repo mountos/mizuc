@@ -4,27 +4,29 @@ import PageLayout, {
 } from '@/layouts/PageLayout.astro'
 import { getPosts } from '@/util/posts'
 import { toDateString } from '@/util'
+import { getCategoryLabel } from '@/util/categories'
 
 export async function getStaticPaths() {
   const allPosts = await getPosts()
-  const categories = [...new Set(allPosts.map((p) => p.data.category).filter(c => !!c))]
+  const categories = [...new Set(allPosts.map((p) => p.data.category).filter((c): c is string => !!c))]
   
   return categories.map((category) => ({
-    params: { category: category?.toLowerCase().replace(/ /g, '-') },
+    params: { category: category.toLowerCase() },
     props: { category, posts: allPosts.filter((p) => p.data.category === category) }
   }))
 }
 
 const { category, posts } = Astro.props
+const label = getCategoryLabel(category)
 
 const frontmatter: PageLayoutProps['frontmatter'] = {
-  title: `Category: ${category}`,
+  title: `Category: ${label}`,
   activeHeaderLink: 'Blog'
 }
 ---
 
 <PageLayout {frontmatter}>
-  <h1>Category: {category}</h1>
+  <h1>Category: {label}</h1>
   <p class="mb-8 opacity-75">{posts.length} posts found in this category.</p>
 
   <ul class="space-y-4 sm:space-y-8">

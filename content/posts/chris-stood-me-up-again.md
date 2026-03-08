@@ -4,7 +4,7 @@ author: "迷走客"
 description: "被羊好愚放鴿子後難找淡水停車位"
 publishedDate: 2010-11-10
 tags: ["停車位","放鴿子","求婚","淡水","羊好愚"]
-category: "行路趣聞"
+category: "walk"
 heroImage: ""
 draft: false
 showToC: true

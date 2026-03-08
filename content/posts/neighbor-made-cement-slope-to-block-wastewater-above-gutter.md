@@ -4,7 +4,7 @@ author: "迷走客"
 description: "惡鄰日誌：不專業中華電信道路施工製造的危險障礙"
 publishedDate: 2018-04-24
 tags: ["中華電信","惡鄰","水泥","道路施工"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

@@ -4,7 +4,7 @@ author: "迷走客"
 description: "迷走客旅行的日常打招呼：LINE 貼圖正式上線！"
 publishedDate: 2025-04-03
 tags: ["LINE","下載","背包客","表情","貼圖"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

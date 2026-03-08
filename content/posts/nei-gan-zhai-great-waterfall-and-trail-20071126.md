@@ -4,7 +4,7 @@ author: "迷走客"
 description: "淡水內柑宅古道（紅葉谷瀑布）寒冷冬天半日遊"
 publishedDate: 2007-11-26
 tags: ["三芝","中華民國","內柑宅古道","冬天","古道","台灣","手電筒","抽筋","氣溫","淡水","溪流","溯溪","瀑布","瀑潭","紅葉谷瀑布"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

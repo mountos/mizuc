@@ -4,7 +4,7 @@ author: "迷走客"
 description: "我從三國志戰略版畢業了：從萌新到告別的手遊感悟"
 publishedDate: 2023-03-15
 tags: ["三國志","工作室","戰略","手遊","老闆","聯盟"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

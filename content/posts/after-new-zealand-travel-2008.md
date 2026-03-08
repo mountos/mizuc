@@ -4,7 +4,7 @@ author: "迷走客"
 description: "紐西蘭旅行一年後 2008｜自助冒險"
 publishedDate: 2008-02-20
 tags: ["冒險","家鄉","時光","生活","神秘","紐西蘭"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

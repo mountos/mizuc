@@ -1,4 +1,9 @@
+import config from '@/theme.config'
 import { getPosts } from '@/util/posts'
+
+export const getCategoryLabel = (category: string): string => {
+  return config.categoryMapping[category] || category
+}
 
 export const generateCategories = async (): Promise<string[]> => {
   const allPosts = await getPosts()

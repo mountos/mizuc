@@ -4,7 +4,7 @@ author: "迷走客"
 description: "淡水地雷菜：小餐館的蔬鮮料理"
 publishedDate: 2012-08-21
 tags: ["南瓜湯","地雷","墨西哥捲餅","料理","沙拉","淡水","義大利麵","蔬鮮","薯條","餐廳","餐館","龍眼蜜"]
-category: "旅行指南"
+category: "guide"
 heroImage: ""
 draft: false
 showToC: true

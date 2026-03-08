@@ -4,7 +4,7 @@ author: "迷走客"
 description: "金崙溫泉旅館：台東開車自駕旅行第二日的濕氣與泡麵"
 publishedDate: 2012-04-22
 tags: ["GPS","中華民國","住宿","冷氣","台東","台灣","泡麵","浴缸","游泳池","溫泉","溫泉旅館","環島","金崙","雜貨店"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

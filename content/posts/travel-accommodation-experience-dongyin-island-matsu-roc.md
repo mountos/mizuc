@@ -4,7 +4,7 @@ author: "迷走客"
 description: "馬祖東引島住宿體驗與自由行旅遊心得"
 publishedDate: 2021-09-21
 tags: ["中華民國","交通","住宿","台灣","心得","旅遊","旅館","東引","東引島","民宿","自由行","蔣經國","餐館","馬祖","馬祖列島","體驗"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

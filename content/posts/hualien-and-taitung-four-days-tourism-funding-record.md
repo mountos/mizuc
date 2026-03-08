@@ -4,7 +4,7 @@ author: "迷走客"
 description: "花蓮、台東4天環島旅行：餐飲住宿加油及景點門票等旅費紀錄"
 publishedDate: 2006-08-05
 tags: ["中國石油","中華民國","冰淇淋","台東","台灣","大潤發","旅行","旅費","武陵農場","環島","花蓮","茶葉蛋","費用"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

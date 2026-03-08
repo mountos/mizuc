@@ -4,7 +4,7 @@ author: "迷走客"
 description: "我想像中的完美閱讀與寫作空間設計"
 publishedDate: 2022-12-29
 tags: ["咖啡","寫作","沙發","清水模","空間設計","閱讀"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

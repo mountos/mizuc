@@ -4,7 +4,7 @@ author: "迷走客"
 description: "新竹一日遊：夜晚行車的奇幻旅程"
 publishedDate: 2003-05-27
 tags: ["中正國際機場","中華民國","台灣","夜遊","學校","宿舍","實驗","新竹","沙灘","火力發電廠","焚化爐","營火","蓮花寺","高速公路"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

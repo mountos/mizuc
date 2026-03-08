@@ -4,7 +4,7 @@ author: "迷走客"
 description: "勇者與公主的自助旅行｜紐西蘭打工度假 NZ 2006"
 publishedDate: 2007-02-13
 tags: ["公主","勇者","彩虹","打工度假","流浪","渡輪","紐西蘭"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

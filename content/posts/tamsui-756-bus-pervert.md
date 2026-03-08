@@ -4,7 +4,7 @@ author: "迷走客"
 description: "我在淡水公車 756（北門—淡江大學）上遇到的變態色狼"
 publishedDate: 2025-04-03
 tags: ["公車","女高中生","淡水","色狼","變態"]
-category: "行路趣聞"
+category: "walk"
 heroImage: ""
 draft: false
 showToC: true

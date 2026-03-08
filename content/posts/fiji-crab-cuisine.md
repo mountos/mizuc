@@ -4,7 +4,7 @@ author: "迷走客"
 description: "斐濟人（無水）螃蟹食譜料理法"
 publishedDate: 2020-05-24
 tags: ["斐濟","料理","椰奶","薑黃粉","螃蟹","食譜"]
-category: "旅行指南"
+category: "guide"
 heroImage: ""
 draft: false
 showToC: true

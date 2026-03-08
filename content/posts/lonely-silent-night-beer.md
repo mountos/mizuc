@@ -4,7 +4,7 @@ author: "迷走客"
 description: "孤單的寂靜夜晚 像個癡漢拎啤酒逛家樂福"
 publishedDate: 2013-09-16
 tags: ["啤酒","家樂福","愛心志工","散步","淡水"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

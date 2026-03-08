@@ -4,7 +4,7 @@ author: "迷走客"
 description: "日本沖繩世界（玉泉洞、王國村）旅遊體驗與門票"
 publishedDate: 2021-10-30
 tags: ["日本","沖繩","沖繩世界","洞穴探險","玉泉洞","王國村","門票"]
-category: "旅行指南"
+category: "guide"
 heroImage: ""
 draft: false
 showToC: true
@@ -19,11 +19,11 @@ showToC: true
 
 下面圖一和圖二就是沖繩世界的門票正面和反面，留存影像下來，以後想起這些旅遊體驗也是有趣的回憶念想。
 
-![okinawa world bunkaokoku gyokusendo ticket front](../../src/assets/wp-images/2021-10-okinawa-world-bunkaokoku-gyokusendo-ticket-front-scaled-1-scaled.jpg)
+![okinawa world bunkaokoku gyokusendo ticket front](../../src/assets/images/2021-10-okinawa-world-bunkaokoku-gyokusendo-ticket-front-scaled-1-scaled.jpg)
 
 沖繩世界門票（玉泉洞、王國村）背面
 
-![okinawa world bunkaokoku gyokusendo ticket front](../../src/assets/wp-images/2021-10-okinawa-world-bunkaokoku-gyokusendo-ticket-back-scaled-1-scaled.jpg)
+![okinawa world bunkaokoku gyokusendo ticket front](../../src/assets/images/2021-10-okinawa-world-bunkaokoku-gyokusendo-ticket-back-scaled-1-scaled.jpg)
 
 圖二，沖繩世界門票（玉泉洞、王國村）背面
 

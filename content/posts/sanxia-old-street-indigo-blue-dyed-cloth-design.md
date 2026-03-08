@@ -4,7 +4,7 @@ author: "迷走客"
 description: "三峽老街迷路之旅 動手玩手工藍染布"
 publishedDate: 2008-03-25
 tags: ["三峽","三角湧","中華民國","台灣","地圖","大青","工藝","手工","文化","染料","祖師廟","老街","藍染","警察","迷路"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

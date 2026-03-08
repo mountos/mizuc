@@ -4,7 +4,7 @@ author: "迷走客"
 description: "搭火車去宜蘭南澳「南興冰菓室」吃紅豆牛奶冰加雞蛋"
 publishedDate: 2018-11-18
 tags: ["南澳","南澳火車站","台灣","宜蘭","神秘海灘","紅豆","紅豆牛奶冰","計程車","雞蛋"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true
@@ -23,7 +23,7 @@ showToC: true
 
 以印象來說，南興冰菓室的冰較為樸實，而建華的冰多了幾分點綴。
 
-[![南興冰菓室](../../src/assets/wp-images/2018-11-shaved-ice-with-red-beans-milk-egg-in-nanao-Yilan-01-1-1.jpg)](https://mizuc.com/yilan-travel-take-train-to-nanao-to-eat-shaved-ice-with-red-beans-milk-egg/shaved-ice-with-red-beans-milk-egg-in-nanao-yilan-01/)
+[![南興冰菓室](../../src/assets/images/2018-11-shaved-ice-with-red-beans-milk-egg-in-nanao-Yilan-01-1-1.jpg)](https://mizuc.com/yilan-travel-take-train-to-nanao-to-eat-shaved-ice-with-red-beans-milk-egg/shaved-ice-with-red-beans-milk-egg-in-nanao-yilan-01/)
 
 南澳內部陳設（南澳冰菓室）
 
@@ -33,7 +33,7 @@ showToC: true
 
 因為我在從神秘海灘準備一路「走」回南澳火車站的路上，已經累到快癱在地上，而建華還得再過一個馬路，下次吧。
 
-[![南澳冰店](../../src/assets/wp-images/2018-11-shaved-ice-with-red-beans-milk-egg-in-nanao-Yilan-02-1-1.jpg)](https://mizuc.com/yilan-travel-take-train-to-nanao-to-eat-shaved-ice-with-red-beans-milk-egg/shaved-ice-with-red-beans-milk-egg-in-nanao-yilan-02/)
+[![南澳冰店](../../src/assets/images/2018-11-shaved-ice-with-red-beans-milk-egg-in-nanao-Yilan-02-1-1.jpg)](https://mizuc.com/yilan-travel-take-train-to-nanao-to-eat-shaved-ice-with-red-beans-milk-egg/shaved-ice-with-red-beans-milk-egg-in-nanao-yilan-02/)
 
 冰品配料區
 
@@ -41,7 +41,7 @@ showToC: true
 
 尤其當那顆雞蛋被拌入冰裡時，奇妙的凝固現象總是讓我看了嘖嘖稱奇。
 
-[![南澳冰店](../../src/assets/wp-images/2018-11-shaved-ice-with-red-beans-milk-egg-in-nanao-Yilan-03-1-1.jpg)](https://mizuc.com/yilan-travel-take-train-to-nanao-to-eat-shaved-ice-with-red-beans-milk-egg/shaved-ice-with-red-beans-milk-egg-in-nanao-yilan-03/)
+[![南澳冰店](../../src/assets/images/2018-11-shaved-ice-with-red-beans-milk-egg-in-nanao-Yilan-03-1-1.jpg)](https://mizuc.com/yilan-travel-take-train-to-nanao-to-eat-shaved-ice-with-red-beans-milk-egg/shaved-ice-with-red-beans-milk-egg-in-nanao-yilan-03/)
 
 紅豆牛奶冰 + 雞蛋
 

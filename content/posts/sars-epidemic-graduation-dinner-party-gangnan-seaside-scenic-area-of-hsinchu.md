@@ -4,7 +4,7 @@ author: "迷走客"
 description: "SARS疫情、畢業送舊餐會與新竹港南濱海風景區"
 publishedDate: 2003-05-24
 tags: ["SARS","中華民國","南寮漁港","台灣","學生","抽獎","摸彩","殭屍","港南濱海風景區","獎品","畢業","疫情","秀巒溫泉","系學會","送舊","餐廳"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

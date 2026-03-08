@@ -4,7 +4,7 @@ author: "迷走客"
 description: "諾基亞 Nokia 8310 2G GSM 行動電話"
 publishedDate: 2020-03-13
 tags: ["Nokia","SIM 卡","地圖","智慧型手機"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

@@ -4,7 +4,7 @@ author: "迷走客"
 description: "日本購物陷阱揭秘：電子產品天價讓你秒變冤大頭！"
 publishedDate: 2025-05-05
 tags: ["BicCamera","SD 記憶卡","亞馬遜","日本購物","日本電商","電子產品"]
-category: "旅行指南"
+category: "guide"
 heroImage: ""
 draft: false
 showToC: true

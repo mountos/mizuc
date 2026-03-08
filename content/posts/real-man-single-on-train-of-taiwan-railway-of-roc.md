@@ -4,7 +4,7 @@ author: "迷走客"
 description: "台鐵火車上憑實力單身的真男人"
 publishedDate: 2021-04-27
 tags: ["便當","保鮮盒","刀","午餐","台鐵","火車"]
-category: "行路趣聞"
+category: "walk"
 heroImage: ""
 draft: false
 showToC: true

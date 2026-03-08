@@ -4,7 +4,7 @@ author: "迷走客"
 description: "旅行者須知的中華民國行政區域地理劃分：臺灣、澎湖、金門、馬祖、南沙 🇹🇼"
 publishedDate: 2019-06-25
 tags: ["中華民國","南沙群島","旅行","澎湖群島","臺灣島","護照","金門群島","馬祖列島"]
-category: "旅行指南"
+category: "guide"
 heroImage: ""
 draft: false
 showToC: true

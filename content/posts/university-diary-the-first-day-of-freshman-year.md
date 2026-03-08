@@ -4,7 +4,7 @@ author: "迷走客"
 description: "大學新生宿舍的第一夜與網咖的第一個清晨"
 publishedDate: 2001-09-23
 tags: ["中華民國","台灣","外婆","大學","宿舍","新生","清晨","生活","網咖","電腦"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

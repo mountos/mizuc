@@ -4,7 +4,7 @@ author: "迷走客"
 description: "明天去哪旅行兒？翹課、翹班容易，翹老婆難"
 publishedDate: 2019-04-08
 tags: ["公司","國外旅行","壯遊","學生"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

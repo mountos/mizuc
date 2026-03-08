@@ -4,7 +4,7 @@ author: "迷走客"
 description: "川普的中文譯名可以改這樣"
 publishedDate: 2025-05-03
 tags: ["川普","房地產","美國"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

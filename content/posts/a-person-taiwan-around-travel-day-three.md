@@ -4,7 +4,7 @@ author: "迷走客"
 description: "臺灣環島：從臺東金崙到高雄岡山"
 publishedDate: 2022-01-29
 tags: ["中華民國","九鵬大沙漠","八爪椅","台灣","屏東","旅行","旭海草原","汽車旅館","環島","鵝鑾鼻燈塔"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true
@@ -31,7 +31,7 @@ showToC: true
 
 很快地終於又有現金在身上後，沿著濱海的屏東公路一路狂飆，來到了鵝鸞鼻燈塔。
 
-![鵝鑾鼻燈塔](../../src/assets/wp-images/2022-01-Taiwan-Travel-around-in-Pingtung-Kenting-Eluanbi-Lighthouse.jpg)
+![鵝鑾鼻燈塔](../../src/assets/images/2022-01-Taiwan-Travel-around-in-Pingtung-Kenting-Eluanbi-Lighthouse.jpg)
 
 鵝鑾鼻燈塔
 
@@ -39,7 +39,7 @@ showToC: true
 
 這次自己一個人來，沒有任何的時間限制，便將整個公園逛了個透徹。夏天的太陽雖然非常的酷熱，但實際上親自到了仲地方，其實也不會感覺到不舒適，這或許就是自然的好處吧。
 
-![墾丁海岸步道](../../src/assets/wp-images/2022-01-Taiwan-Travel-around-Pingtung-Kenting-Coastal-trail.jpg)
+![墾丁海岸步道](../../src/assets/images/2022-01-Taiwan-Travel-around-Pingtung-Kenting-Coastal-trail.jpg)
 
 墾丁海岸步道
 
@@ -47,7 +47,7 @@ showToC: true
 
 啊，別誤會，下面照片是另一對可愛的年輕情侶。
 
-![墾丁鵝鑾鼻的年輕情侶](../../src/assets/wp-images/2022-01-Taiwan-Travel-around-Pingtung-Kenting-Goose-nose.jpg)
+![墾丁鵝鑾鼻的年輕情侶](../../src/assets/images/2022-01-Taiwan-Travel-around-Pingtung-Kenting-Goose-nose.jpg)
 
 墾丁鵝鑾鼻的年輕情侶
 
@@ -57,7 +57,7 @@ showToC: true
 
 附近還有中正科學研究院，路上還能看到憲兵管制，後面會有一處看起來相當舒服的黑色礫灘。偶爾可以看到有人正在那邊釣魚。
 
-![中華民國臺灣省屏東墾丁的九棚沙漠](../../src/assets/wp-images/2022-01-Taiwan-Travel-around-in-Pingtung-Kenting-Jiuteng-Desert.jpg)
+![中華民國臺灣省屏東墾丁的九棚沙漠](../../src/assets/images/2022-01-Taiwan-Travel-around-in-Pingtung-Kenting-Jiuteng-Desert.jpg)
 
 中華民國臺灣省屏東墾丁的九棚沙漠
 
@@ -65,15 +65,15 @@ showToC: true
 
 旭海大草原，縣199甲，沿著四重溪，車城北上。（想瞭解此地詳情可參考《[旭海大草原：台灣島境之南的絕色秘境與故事](https://mizuc.com/syuhai-grassland-recreation-area-southern-taiwan-island-roc/)》乙文內容。）
 
-![中華民國臺灣省屏東縣墾丁的大尖山](../../src/assets/wp-images/2022-01-Taiwan-Travel-around-in-Pingtung-Kenting-Dajianshan.jpg)
+![中華民國臺灣省屏東縣墾丁的大尖山](../../src/assets/images/2022-01-Taiwan-Travel-around-in-Pingtung-Kenting-Dajianshan.jpg)
 
 中華民國臺灣省屏東縣墾丁的大尖山
 
-![旭海大草原景觀](../../src/assets/wp-images/2022-01-Taiwan-Travel-around-in-Pingtung-Xuhai-Scene.jpg)
+![旭海大草原景觀](../../src/assets/images/2022-01-Taiwan-Travel-around-in-Pingtung-Xuhai-Scene.jpg)
 
 旭海大草原景觀
 
-![旭海大草原停車場（新建中）](../../src/assets/wp-images/2022-01-Taiwan-Travel-around-in-Pingtung-Xuhai-Hot-Spring.jpg)
+![旭海大草原停車場（新建中）](../../src/assets/images/2022-01-Taiwan-Travel-around-in-Pingtung-Xuhai-Hot-Spring.jpg)
 
 旭海大草原停車場（新建中）
 
@@ -81,7 +81,7 @@ showToC: true
 
 最後在屏東市又一次迷路，買萬巒豬腳但卻沒買到有名氣的那間，六點左右到了高雄，再一次於市中心迷路，甚至搞不清楚高雄市跟鳳山市的差別，在岡山的汽車旅館過夜。
 
-![高雄岡山汽車旅館的豪華大床](../../src/assets/wp-images/2022-01-Taiwan-Travel-around-in-Kaohsiung-Motel.jpg)
+![高雄岡山汽車旅館的豪華大床](../../src/assets/images/2022-01-Taiwan-Travel-around-in-Kaohsiung-Motel.jpg)
 
 高雄岡山汽車旅館的豪華大床
 

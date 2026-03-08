@@ -4,7 +4,7 @@ author: "迷走客"
 description: "臺61線省道快速道路（西濱公路）由最愛到最厭的濫觴"
 publishedDate: 2021-10-06
 tags: ["快速道路","暈眩","省道","臺61線","西濱公路","車禍","風力發電"]
-category: "行路趣聞"
+category: "walk"
 heroImage: ""
 draft: false
 showToC: true

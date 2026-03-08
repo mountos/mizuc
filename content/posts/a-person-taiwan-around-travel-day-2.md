@@ -4,7 +4,7 @@ author: "迷走客"
 description: "臺灣環島：從花蓮到臺東金崙"
 publishedDate: 2022-01-29
 tags: ["七星潭","中華民國","台灣","大漢技術學院","旅行","東河","池上便當","環島","臺23線","花蓮","鯉魚潭"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

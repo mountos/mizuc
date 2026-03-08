@@ -4,7 +4,7 @@ author: "迷走客"
 description: "澎湖七美島的惡劣民宿"
 publishedDate: 2019-04-25
 tags: ["七美島","中華民國","旅館","民宿","澎湖","訂金","颱風"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

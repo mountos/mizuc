@@ -4,7 +4,7 @@ author: "迷走客"
 description: "公寓頂樓一隻愛跳樓的鱉"
 publishedDate: 2001-06-26
 tags: ["公寓","寵物","自然生態","跳樓","鱉"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

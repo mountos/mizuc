@@ -4,7 +4,7 @@ author: "迷走客"
 description: "比日本食物組合還怪異的斐濟人"
 publishedDate: 2020-08-11
 tags: ["中華料理","斐濟","日本","泡麵","配菜"]
-category: "行路趣聞"
+category: "walk"
 heroImage: ""
 draft: false
 showToC: true

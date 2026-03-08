@@ -4,7 +4,7 @@ author: "迷走客"
 description: "新竹秀巒溫泉：與好友深夜騎機車的泡湯看星星之旅"
 publishedDate: 2003-05-23
 tags: ["中華民國","內灣","原住民","台灣","尖石鄉","新竹","機車","橫山","檢查哨","油羅溪","秀巒溫泉","野溪溫泉"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

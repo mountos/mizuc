@@ -4,7 +4,7 @@ author: "迷走客"
 description: "旅行小白兔誤闖大野狼（貧民窟、暗巷）的脫困方法"
 publishedDate: 2021-07-11
 tags: ["危險","安全","暗巷","氣勢","犯罪率","環境","眼神","禁地","背包客","自助旅行","貧民窟","陌生"]
-category: "旅行指南"
+category: "guide"
 heroImage: ""
 draft: false
 showToC: true

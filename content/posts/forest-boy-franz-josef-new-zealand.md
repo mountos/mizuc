@@ -4,7 +4,7 @@ author: "迷走客"
 description: "紐西蘭南島森林裏拍鳥的金髮大男孩"
 publishedDate: 2021-11-16
 tags: ["New Zealand","冰川","宅男","森林","法蘭茲約瑟夫","秘徑","紐西蘭"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

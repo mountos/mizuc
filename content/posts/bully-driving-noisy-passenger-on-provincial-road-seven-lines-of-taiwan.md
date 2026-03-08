@@ -4,7 +4,7 @@ author: "迷走客"
 description: "省道台七線山路會車 遇見荒謬 VIOS 惡霸駕駛與高分貝嘴賤副座"
 publishedDate: 2018-11-20
 tags: ["TOYOTA","VIOS","中華民國","台七線","台灣","山路","工程車","彎道","會車","武陵農場","環島","省道","迷走號"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

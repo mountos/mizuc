@@ -4,7 +4,7 @@ author: "迷走客"
 description: "宜蘭南澳6月隱藏的向日葵花田秘境"
 publishedDate: 2021-06-04
 tags: ["南澳","台九線","向日葵","宜蘭","沙灘","省道","花田"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

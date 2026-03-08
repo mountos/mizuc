@@ -4,7 +4,7 @@ author: "迷走客"
 description: "無計畫旅行：歐洲約伴／適合旅遊國家推薦／老師這個職業"
 publishedDate: 2019-01-08
 tags: ["旅行","旅行家","旅遊","機車","歐洲","環島","老師","職業","計畫"]
-category: "旅行指南"
+category: "guide"
 heroImage: ""
 draft: false
 showToC: true

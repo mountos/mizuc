@@ -4,7 +4,7 @@ author: "迷走客"
 description: "內柑宅古道與紅葉谷瀑布登山一日行"
 publishedDate: 2007-09-21
 tags: ["中華民國","內柑宅古道","台灣","大屯山","小溪","水蛭","淡水","瀑布","秘境","紅葉谷瀑布","自然","螞蝗"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

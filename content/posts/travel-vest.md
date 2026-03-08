@@ -4,7 +4,7 @@ author: "迷走客"
 description: "從900到5500元的北極狐背心，我的迷走旅行神器"
 publishedDate: 2025-04-13
 tags: ["北極狐","戶外服飾","網路購物","背心","野外求生"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

@@ -4,7 +4,7 @@ author: "迷走客"
 description: "高雄岡山高速公路收費站前被小混混 BMW 7 追撞車禍"
 publishedDate: 2006-05-03
 tags: ["BMW","保險","屏東","岡山","第五公路警察大隊","車禍","高速公路","高雄"]
-category: "行路趣聞"
+category: "walk"
 heroImage: ""
 draft: false
 showToC: true

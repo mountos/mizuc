@@ -4,7 +4,7 @@ author: "迷走客"
 description: "一個人的臺灣環島旅行：探索山海魅力美景"
 publishedDate: 2003-06-30
 tags: ["中華民國","台灣","夏天","旅行","景點","暑假","無計劃旅行","環島","行程","開車"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

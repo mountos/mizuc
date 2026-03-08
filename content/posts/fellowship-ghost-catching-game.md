@@ -4,7 +4,7 @@ author: "迷走客"
 description: "聯誼玩捉鬼遊戲都是笨蛋辣，尤其是當鬼人"
 publishedDate: 2014-07-09
 tags: ["抓鬼","沙灘","烤肉","聯誼","遊戲"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

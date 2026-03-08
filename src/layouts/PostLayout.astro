@@ -8,6 +8,7 @@ import PageLayout, {
 import HeadingAnchorsPlugin from '@/plugins/HeadingAnchorsPlugin.astro'
 import { toDateString } from '@/util'
 import { resolveTags } from '@/util/tags'
+import { getCategoryLabel } from '@/util/categories'
 import { render, type CollectionEntry } from 'astro:content'
 
 export interface Props {
@@ -39,11 +40,11 @@ const frontmatter: PageLayoutProps['frontmatter'] = {
     {
       post.data.category && (
         <a
-          href={`/categories/${post.data.category.toLowerCase().replace(/ /g, '-')}/`}
+          href={`/categories/${post.data.category.toLowerCase()}/`}
           class="clickable w-fit text-sm font-medium uppercase tracking-wider opacity-75 no-underline hover:opacity-100"
         >
           <span class="iconify tabler--category align-middle" />
-          {post.data.category}
+          {getCategoryLabel(post.data.category)}
         </a>
       )
     }

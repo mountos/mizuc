@@ -4,7 +4,7 @@ author: "迷走客"
 description: "紐西蘭🇳🇿法蘭茲約瑟夫冰川 Franz Josef Glacier 健行路線"
 publishedDate: 2021-11-15
 tags: ["Franz Josef","New Zealand","冰川","小鎮","森林","法蘭茲約瑟夫","秘徑","紐西蘭"]
-category: "旅行指南"
+category: "guide"
 heroImage: ""
 draft: false
 showToC: true

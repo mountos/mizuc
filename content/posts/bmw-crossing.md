@@ -4,7 +4,7 @@ author: "迷走客"
 description: "斑馬線上不禮讓行人的破財 BMW"
 publishedDate: 2023-10-17
 tags: ["BMW","斑馬線","禮讓","路口","車禍"]
-category: "行路趣聞"
+category: "walk"
 heroImage: ""
 draft: false
 showToC: true

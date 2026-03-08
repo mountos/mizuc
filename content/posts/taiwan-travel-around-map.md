@@ -4,7 +4,7 @@ author: "迷走客"
 description: "迷走客的臺灣環島旅行地圖（持續更新）"
 publishedDate: 2025-05-05
 tags: ["Google Map","地圖","環島","臺灣"]
-category: "旅行指南"
+category: "guide"
 heroImage: ""
 draft: false
 showToC: true

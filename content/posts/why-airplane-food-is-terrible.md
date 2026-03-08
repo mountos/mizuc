@@ -4,7 +4,7 @@ author: "迷走客"
 description: "為什麼網路鄉民總愛吐槽飛機餐很難吃？"
 publishedDate: 2025-04-24
 tags: ["異國料理","自助旅行","菜單","飛機餐","飲食文化"]
-category: "行路趣聞"
+category: "walk"
 heroImage: ""
 draft: false
 showToC: true

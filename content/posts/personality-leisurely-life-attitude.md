@@ -4,7 +4,7 @@ author: "迷走客"
 description: "悠閒散漫的個性是一種生活態度"
 publishedDate: 2018-06-07
 tags: ["悠閒","旅行","日本","生活態度"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

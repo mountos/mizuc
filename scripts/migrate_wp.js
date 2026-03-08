@@ -7,7 +7,7 @@ import he from 'he';
 const XML_PATH = '/Users/mountos/Downloads/webDev/Mountos Institute/mizuc/import/wp-xml/WordPress.2026-03-07.xml';
 const OUTPUT_DIR = '/Users/mountos/Downloads/webDev/Mountos Institute/mizuc/content/posts';
 const WP_UPLOADS_PATH = '/Users/mountos/Downloads/webDev/Mountos Institute/mizuc/import/wp-content/uploads';
-const ASSETS_DIR = '/Users/mountos/Downloads/webDev/Mountos Institute/mizuc/src/assets/wp-images';
+const ASSETS_DIR = '/Users/mountos/Downloads/webDev/Mountos Institute/mizuc/src/assets/images';
 
 if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 if (!fs.existsSync(ASSETS_DIR)) fs.mkdirSync(ASSETS_DIR, { recursive: true });
@@ -17,7 +17,33 @@ const turndownService = new TurndownService({
   codeBlockStyle: 'fenced'
 });
 
+// Map of original relative path (e.g. 2024/05/img.jpg) to flattened name
+const imageMap = new Map();
+
+function preprocessImages(dir, relativeParts = []) {
+  const files = fs.readdirSync(dir);
+  for (const file of files) {
+    const fullPath = path.join(dir, file);
+    if (fs.statSync(fullPath).isDirectory()) {
+      preprocessImages(fullPath, [...relativeParts, file]);
+    } else if (file !== '.DS_Store') {
+      const relPath = [...relativeParts, file].join('/');
+      const flattenedName = [...relativeParts, file].join('-');
+      const targetPath = path.join(ASSETS_DIR, flattenedName);
+      
+      if (!fs.existsSync(targetPath)) {
+        fs.copyFileSync(fullPath, targetPath);
+      }
+      imageMap.set(relPath, flattenedName);
+    }
+  }
+}
+
 async function migrate_wp() {
+  console.log('Preprocessing and copying all images...');
+  preprocessImages(WP_UPLOADS_PATH);
+  console.log(`Finished copying images. Total unique files found: ${imageMap.size}`);
+
   const xmlContent = fs.readFileSync(XML_PATH, 'utf8');
   const parser = new xml2js.Parser({ explicitArray: false });
 
@@ -32,8 +58,9 @@ async function migrate_wp() {
       const id = String(item['wp:post_id']);
       
       if (item['wp:post_type'] === 'attachment') {
-        const url = item['wp:attachment_url'] || item['guid'];
-        mediaMap[id] = typeof url === 'string' ? url : (url ? url._ : '');
+        const urlRaw = item['wp:attachment_url'] || item['guid'];
+        const url = typeof urlRaw === 'string' ? urlRaw : (urlRaw ? urlRaw._ : '');
+        mediaMap[id] = url;
       }
       
       if (item['wp:post_meta']) {
@@ -52,10 +79,10 @@ async function migrate_wp() {
       }
     });
 
-    console.log(`Analyzing ${items.length} items...`);
+    console.log(`Analyzing ${items.length} items from XML...`);
     let count = 0;
 
-    items.forEach((item, index) => {
+    items.forEach((item) => {
       if (item['wp:post_type'] !== 'post' || item['wp:status'] !== 'publish') return;
 
       const title = item.title || '';
@@ -73,46 +100,34 @@ async function migrate_wp() {
         tags = cats.filter(c => c.$.domain === 'post_tag').map(c => typeof c === 'string' ? c : c._);
         const catObj = cats.find(c => c.$.domain === 'category');
         if (catObj) {
-          category = typeof catObj === 'string' ? catObj : catObj._;
+          const catName = typeof catObj === 'string' ? catObj : catObj._;
+          const map = {
+            '旅行指南': 'guide',
+            '行路趣聞': 'walk',
+            '迷走故事': 'roam'
+          };
+          category = map[catName] || catName;
         }
       }
 
-      function handleImage(url) {
+      function resolveImage(url) {
         if (!url) return null;
-        let cleanUrl = url;
-        if (typeof url === 'object') cleanUrl = url._ || '';
-        
-        const match = cleanUrl.match(/uploads\/(\d{4}\/\d{2}\/.*)$/);
+        const match = url.match(/uploads\/(\d{4}\/\d{2}\/.*)$/);
         if (!match) return null;
         const relPath = match[1];
-        const sourceFile = path.join(WP_UPLOADS_PATH, relPath);
-        
-        // Use full filename but flatten separators
-        const fileName = relPath.replace(/\//g, '-');
-        const targetFile = path.join(ASSETS_DIR, fileName);
-
-        if (fs.existsSync(sourceFile)) {
-          if (!fs.existsSync(targetFile)) {
-            fs.copyFileSync(sourceFile, targetFile);
-          }
-          return fileName;
-        }
-        return null;
+        return imageMap.get(relPath) || null;
       }
 
-      // Process content images FIRST to ensure they are handled if referenced by URL
       let markdown = turndownService.turndown(contentHtml);
       markdown = he.decode(markdown);
 
       // Hero Image Resolution
       let heroImageValue = '';
-      const featuredIdLong = postMetaMap[post_id];
-      const featuredIdStr = featuredIdLong ? String(featuredIdLong) : '';
+      const featuredIdStr = postMetaMap[post_id] ? String(postMetaMap[post_id]) : '';
       if (featuredIdStr && mediaMap[featuredIdStr]) {
-        const fullUrl = mediaMap[featuredIdStr];
-        const localName = handleImage(fullUrl);
+        const localName = resolveImage(mediaMap[featuredIdStr]);
         if (localName) {
-          heroImageValue = `@/assets/wp-images/${localName}`;
+          heroImageValue = `@/assets/images/${localName}`;
         }
       }
 
@@ -129,9 +144,11 @@ async function migrate_wp() {
         'showToC: true',
         '---',
         '',
-        markdown.replace(/https?:\/\/mizuc\.com\/wp-content\/uploads\/(\d{4}\/\d{2}\/[^"'\s\)]+)/g, (match) => {
-          const localName = handleImage(match);
-          return localName ? `../../src/assets/wp-images/${localName}` : match;
+        // Replace all upload URLs with local references
+        markdown.replace(/https?:\/\/mizuc\.com\/wp-content\/uploads\/(\d{4}\/\d{2}\/[^"'\s\)]+)/g, (match, pathPart) => {
+          // pathPart corresponds to \d{4}/\d{2}/...
+          const localName = imageMap.get(pathPart);
+          return localName ? `../../src/assets/images/${localName}` : match;
         })
       ].filter(line => line !== '').join('\n');
 
@@ -139,7 +156,7 @@ async function migrate_wp() {
       count++;
     });
 
-    console.log(`Migration & Image matching complete. Total posts: ${count}`);
+    console.log(`Migration complete. Total posts: ${count}`);
   } catch (err) {
     console.error('Migration failed:', err);
     console.error(err.stack);

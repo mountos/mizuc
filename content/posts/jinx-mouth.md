@@ -4,7 +4,7 @@ author: "迷走客"
 description: "我的烏鴉嘴人生：沉默是金的人生自白"
 publishedDate: 2025-05-01
 tags: ["墜機","天災","烏鴉嘴","自助旅行","預言"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

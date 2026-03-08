@@ -4,7 +4,7 @@ author: "迷走客"
 description: "在柯羅莎颱風強襲台灣的日子跑去南投草屯玩，結果雨刷壞了"
 publishedDate: 2007-10-04
 tags: ["中華民國","南投","台灣","國光客運","國道客運","旅行","旅館","氣象","溫度","草屯","雨刷","颱風","高速公路"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

@@ -4,7 +4,7 @@ author: "迷走客"
 description: "旭海大草原：台灣島境之南的絕色秘境與故事"
 publishedDate: 2021-11-11
 tags: ["中山科學研究院","中正大草原","中華民國","九鵬基地","台灣","屏東","旭海村","旭海草原","牡丹鄉","環島"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

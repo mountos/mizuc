@@ -4,7 +4,7 @@ author: "迷走客"
 description: "「Keep Walking」報名表的團隊介紹，只能是這位老夥伴了吧"
 publishedDate: 2012-11-30
 tags: ["Keep Walking","報名表","夥伴","探險"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true
@@ -15,7 +15,7 @@ showToC: true
 
 如果誰能看到我當下的臉部表情，一定會發現瞬間長得像下面這淡定臉一樣：
 
-![淡定臉](../../src/assets/wp-images/2025-04-Calm-look-Face.png "Keep Walking 報名表的團隊介紹只能是這位老夥伴了吧 2")
+![淡定臉](../../src/assets/images/2025-04-Calm-look-Face.png "Keep Walking 報名表的團隊介紹只能是這位老夥伴了吧 2")
 
 淡定臉
 
@@ -51,7 +51,7 @@ showToC: true
 
 底下這張照片中的燈塔，是小翔去過地球上的最遠邊境之地。然後當時的我正好在紐西蘭，與他隔了半個地球遙遙相望，還能上 MSN 互聊當地風情，最有默契的旅行夥伴莫過於此了吧。
 
-![阿根廷燈塔（攝影／謝宗翔）](../../src/assets/wp-images/2025-04-Argentine-Lighthouse-kidding-JungShyang-Hsieh.jpg "Keep Walking 報名表的團隊介紹只能是這位老夥伴了吧 3")
+![阿根廷燈塔（攝影／謝宗翔）](../../src/assets/images/2025-04-Argentine-Lighthouse-kidding-JungShyang-Hsieh.jpg "Keep Walking 報名表的團隊介紹只能是這位老夥伴了吧 3")
 
 阿根廷燈塔（攝影／謝宗翔）
 
@@ -67,6 +67,6 @@ showToC: true
 
 我想，這就是夥伴吧。
 
-![航海王：夥伴的印記](../../src/assets/wp-images/2012-11-One-Piece-Companionship-Friendship.jpg)
+![航海王：夥伴的印記](../../src/assets/images/2012-11-One-Piece-Companionship-Friendship.jpg)
 
 航海王：夥伴的印記

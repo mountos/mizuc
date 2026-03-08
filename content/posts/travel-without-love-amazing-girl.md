@@ -4,7 +4,7 @@ author: "迷走客"
 description: "在紐西蘭旅館遇見非關愛情的美麗女人"
 publishedDate: 2012-10-14
 tags: ["台北人","哲學","女人","愛情","旅館","櫃檯","紐西蘭","自助旅行","香菸"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

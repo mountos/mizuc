@@ -4,7 +4,7 @@ author: "迷走客"
 description: "女兒問父親為何要帶 WiFi 網路分享器出國旅遊？"
 publishedDate: 2018-12-05
 tags: ["WiFi","候機室","旅館","日本","網路分享器","預付卡"]
-category: "行路趣聞"
+category: "walk"
 heroImage: ""
 draft: false
 showToC: true

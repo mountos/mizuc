@@ -4,7 +4,7 @@ author: "迷走客"
 description: "濕熱午後閒談中暑緩解妙方"
 publishedDate: 2020-05-07
 tags: ["中暑","五月","天氣","森林","溪水","濕熱","猥褻","睡覺","穴位","緩解"]
-category: "旅行指南"
+category: "guide"
 heroImage: ""
 draft: false
 showToC: true

@@ -4,7 +4,7 @@ author: "迷走客"
 description: "臺北榮總醫院的星巴克咖啡女力士"
 publishedDate: 2018-05-04
 tags: ["咖啡","手術","星巴克","榮總醫院"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

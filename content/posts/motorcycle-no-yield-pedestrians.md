@@ -4,7 +4,7 @@ author: "迷走客"
 description: "馬路如虎口 不禮讓行人的機車想攔我"
 publishedDate: 2025-03-30
 tags: ["斑馬線","機車","紅綠燈","馬路"]
-category: "行路趣聞"
+category: "walk"
 heroImage: ""
 draft: false
 showToC: true

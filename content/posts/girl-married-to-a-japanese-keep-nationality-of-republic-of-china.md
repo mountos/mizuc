@@ -4,7 +4,7 @@ author: "迷走客"
 description: "台灣女孩遠嫁日本國 保留中華民國籍不願入日籍"
 publishedDate: 2021-08-30
 tags: ["中華民國","傳統","台灣","國籍","嫁人","感動","戀愛","打工度假","旅館","日本","結婚"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

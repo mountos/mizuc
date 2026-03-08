@@ -4,7 +4,7 @@ author: "迷走客"
 description: "快被麥當勞餓死的歡樂送餐點外送服務"
 publishedDate: 2018-03-18
 tags: ["外送","宵夜","麥當勞"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

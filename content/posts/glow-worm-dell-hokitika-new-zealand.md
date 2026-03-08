@@ -4,7 +4,7 @@ author: "迷走客"
 description: "紐西蘭南島秘境 Glow Worm Dell 藍色螢火蟲洞 24 小時自然開放"
 publishedDate: 2019-07-26
 tags: ["南島","小鎮","探險","洞穴","私房景點","秘境","紐西蘭","藍光","螢火蟲"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true
@@ -15,7 +15,7 @@ showToC: true
 
 大家只要從大馬路的入口走進樹林，不到五分鐘就能輕鬆飽覽迷幻的藍色光牆景觀，這可是其他商業探險所無法比擬的私房景點。
 
-![紐西蘭南島 Glow Worm Dell](../../src/assets/wp-images/2019-07-Glow-Worm-Dell-Kumara-Jct-Hwy-Seaview-West-Coast-New-Zealand-1-1.jpg)
+![紐西蘭南島 Glow Worm Dell](../../src/assets/images/2019-07-Glow-Worm-Dell-Kumara-Jct-Hwy-Seaview-West-Coast-New-Zealand-1-1.jpg)
 
 紐西蘭南島 Glow Worm Dell
 

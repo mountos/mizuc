@@ -4,7 +4,7 @@ author: "迷走客"
 description: "《2005年二樓室內設計裝修專案》文件紀錄備份"
 publishedDate: 2020-10-15
 tags: ["室內設計","書房","沙包","油漆","肌肉"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

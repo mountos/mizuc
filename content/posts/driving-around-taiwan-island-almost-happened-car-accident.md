@@ -4,7 +4,7 @@ author: "迷走客"
 description: "台灣環島首日在宜蘭差點車禍的恐懼回憶錄"
 publishedDate: 2003-07-19
 tags: ["中華民國","保險","台南","台灣","宜蘭","旅行險","環島","畢業","車禍"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

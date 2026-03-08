@@ -4,7 +4,7 @@ author: "迷走客"
 description: "一個人旅行背包必帶物品：刀械篇"
 publishedDate: 2021-07-22
 tags: ["刀","國家","工具","槍砲彈藥刀械管制條例","瑞士刀"]
-category: "旅行指南"
+category: "guide"
 heroImage: ""
 draft: false
 showToC: true

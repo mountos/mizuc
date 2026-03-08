@@ -4,7 +4,7 @@ author: "迷走客"
 description: "淡水河岸邊的吉娃娃與黃金獵犬們"
 publishedDate: 2021-12-24
 tags: ["中華民國","台灣","吉娃娃","散步","河岸","淡水","行憲紀念日","黃金獵犬"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

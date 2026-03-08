@@ -4,7 +4,7 @@ author: "迷走客"
 description: "學生時代捐血回憶 那年的紅"
 publishedDate: 2011-01-18
 tags: ["中華民國","台灣","回憶","學生","年輕","成年禮","捐血","朋友","血壓","血袋","護士","青春"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

@@ -4,7 +4,7 @@ author: "迷走客"
 description: "花蓮、台東四日環島旅行：颱風攪局之第2日"
 publishedDate: 2006-08-02
 tags: ["中華民國","台八線","台灣","大禹嶺","太魯閣","旅館","曙光","櫻花鉤吻鮭","武陵農場","燒烤","環島","紅葉溫泉","花蓮","花蓮市","高山"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

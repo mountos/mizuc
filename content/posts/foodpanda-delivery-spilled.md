@@ -4,7 +4,7 @@ author: "迷走客"
 description: "FoodPanda 外送塔滑湯灑湯燙塔"
 publishedDate: 2020-08-25
 tags: ["FoodPanda","外送","熊貓","退費","餐館"]
-category: "行路趣聞"
+category: "walk"
 heroImage: ""
 draft: false
 showToC: true

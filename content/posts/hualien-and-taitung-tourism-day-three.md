@@ -4,7 +4,7 @@ author: "迷走客"
 description: "花蓮、台東四日環島旅行：颱風攪局之第3日"
 publishedDate: 2006-08-03
 tags: ["中華民國","冰淇淋","北迴歸線","台九線","台東","台灣","太麻里","小吃部","溫泉","牛奶","瑞穗牧場","知本","花蓮","金針花","颱風"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

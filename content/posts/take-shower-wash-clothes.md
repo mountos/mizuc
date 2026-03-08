@@ -4,7 +4,7 @@ author: "迷走客"
 description: "克難旅行法：沒帶毛巾該如何洗澡？"
 publishedDate: 2024-07-01
 tags: ["旅館","毛巾","洗澡","環保","衣服"]
-category: "迷走故事"
+category: "roam"
 heroImage: ""
 draft: false
 showToC: true

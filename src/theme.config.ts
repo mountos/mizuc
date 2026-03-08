@@ -51,5 +51,10 @@ export default defineThemeConfig({
     astro: 'tabler--brand-astro',
     documentation: 'tabler--book'
   },
+  categoryMapping: {
+    guide: '路引',
+    walk: '行路',
+    roam: '漫遊'
+  },
   expressiveCodeThemes: ['vitesse-light', 'vitesse-black']
 })
