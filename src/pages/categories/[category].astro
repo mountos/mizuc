@@ -5,11 +5,14 @@ import Layout from '../../layouts/Layout.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
-  const allCategories = posts.flatMap(post => post.data.categories);
+  const allCategories = posts.flatMap(post => post.data.categories || (post.data.category ? [post.data.category] : []));
   const uniqueCategories = [...new Set(allCategories)];
 
   return uniqueCategories.map(category => {
-    const filteredPosts = posts.filter(post => post.data.categories.includes(category));
+    const filteredPosts = posts.filter(post => {
+      const cats = post.data.categories || (post.data.category ? [post.data.category] : []);
+      return cats.includes(category);
+    });
     return {
       params: { category },
       props: { posts: filteredPosts },

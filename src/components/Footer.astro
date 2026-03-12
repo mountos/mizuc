@@ -2,7 +2,7 @@
 import { getCollection } from 'astro:content';
 
 const posts = await getCollection('blog');
-const allCategories = posts.flatMap(post => post.data.categories);
+const allCategories = posts.flatMap(post => post.data.categories || (post.data.category ? [post.data.category] : []));
 const uniqueCategories = [...new Set(allCategories)];
 
 const today = new Date();
