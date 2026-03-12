@@ -1,54 +1,77 @@
+
 ---
-import PageLayout, {
-  type Props as PageLayoutProps
-} from '@/layouts/PageLayout.astro'
-import { getPosts } from '@/util/posts'
-import { toDateString } from '@/util'
-import { getCategoryLabel } from '@/util/categories'
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
 
 export async function getStaticPaths() {
-  const allPosts = await getPosts()
-  const categories = [...new Set(allPosts.map((p) => p.data.category).filter((c): c is string => !!c))]
-  
-  return categories.map((category) => ({
-    params: { category: category.toLowerCase() },
-    props: { category, posts: allPosts.filter((p) => p.data.category === category) }
-  }))
+  const posts = await getCollection('blog');
+  const allCategories = posts.flatMap(post => post.data.categories || (post.data.category ? [post.data.category] : []));
+  const uniqueCategories = [...new Set(allCategories)];
+
+  return uniqueCategories.map(category => {
+    const filteredPosts = posts.filter(post => {
+      const cats = post.data.categories || (post.data.category ? [post.data.category] : []);
+      return cats.includes(category);
+    });
+    return {
+      params: { category },
+      props: { posts: filteredPosts },
+    };
+  });
 }
 
-const { category, posts } = Astro.props
-const label = getCategoryLabel(category)
-
-const frontmatter: PageLayoutProps['frontmatter'] = {
-  title: `Category: ${label}`,
-  activeHeaderLink: 'Blog'
-}
+const { category } = Astro.params;
+const { posts } = Astro.props;
 ---
-
-<PageLayout {frontmatter}>
-  <h1>Category: {label}</h1>
-  <p class="mb-8 opacity-75">{posts.length} posts found in this category.</p>
-
-  <ul class="space-y-4 sm:space-y-8">
-    {
-      posts.map((post) => (
-        <li class="flex flex-col gap-1 sm:gap-2">
-          <time
-            datetime={post.data.publishedDate.toISOString()}
-            class="text-sm opacity-75 sm:text-base"
-          >
-            {toDateString(post.data.publishedDate)}
-          </time>
-          <a
-            href={`/posts/${post.id}/`}
-            class="clickable text-xl font-normal no-underline sm:text-2xl"
-            data-astro-prefetch
-          >
-            {post.data.title}
+<Layout title={`Category: ${category}`}>
+  <section class="post-list">
+    <h2>Category: {category}</h2>
+    <ul>
+      {posts.map(post => (
+        <li>
+          <a href={`/blog/${post.slug}/`}>
+            <span class="post-title">{post.data.title}</span>
+            <span class="post-date">{new Date(post.data.pubDate).toLocaleDateString('en-US')}</span>
           </a>
-          <p class="line-clamp-2 opacity-75">{post.data.description}</p>
         </li>
-      ))
-    }
-  </ul>
-</PageLayout>
+      ))}
+    </ul>
+  </section>
+</Layout>
+
+<style>
+	.post-list h2 {
+		font-size: 2rem;
+		margin-bottom: 2rem;
+		border-bottom: 1px solid #eee;
+		padding-bottom: 1rem;
+	}
+	.post-list ul {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+	.post-list li a {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 1rem;
+		border-radius: 8px;
+		text-decoration: none;
+		color: #333;
+		transition: background-color 0.2s ease;
+		margin-bottom: 0.5rem;
+	}
+	.post-list li a:hover {
+		background-color: #f5f5f5;
+	}
+	.post-title {
+		font-size: 1.2rem;
+		font-weight: 500;
+	}
+	.post-date {
+		font-size: 0.9rem;
+		color: #888;
+		font-variant-numeric: tabular-nums;
+	}
+</style>

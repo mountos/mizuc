@@ -1,53 +1,77 @@
+
 ---
-import PostsList from '@/components/posts/PostsList.astro'
-import ProjectsList from '@/components/projects/ProjectsList.astro'
-import PageLayout, {
-  type Props as PageLayoutProps
-} from '@/layouts/PageLayout.astro'
-import { getPosts } from '@/util/posts'
-import { getProjects } from '@/util/projects'
-import { generateTags } from '@/util/tags'
-import type { InferGetStaticPropsType } from 'astro'
-
-const {
-  tag: { tag, icon }
-} = Astro.props
-
-type Props = InferGetStaticPropsType<typeof getStaticPaths>
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
 
 export async function getStaticPaths() {
-  const tags = await generateTags()
+  const posts = await getCollection('blog');
+  const allTags = posts.flatMap(post => post.data.tags || []);
+  const uniqueTags = [...new Set(allTags)];
 
-  return tags.map(({ tag, icon }) => ({
-    params: { tag },
-    props: { tag: { tag, icon } }
-  }))
+  return uniqueTags.map(tag => {
+    const filteredPosts = posts.filter(post => {
+      const tags = post.data.tags || [];
+      return tags.includes(tag);
+    });
+    return {
+      params: { tag },
+      props: { posts: filteredPosts },
+    };
+  });
 }
 
-const posts = await getPosts(tag)
-
-const projects = await getProjects(tag)
-
-const frontmatter: PageLayoutProps['frontmatter'] = {
-  title: `Tag: ${tag}`,
-  activeHeaderLink: 'Tags'
-}
+const { tag } = Astro.params;
+const { posts } = Astro.props;
 ---
+<Layout title={`Tag: ${tag}`}>
+  <section class="post-list">
+    <h2>Tag: {tag}</h2>
+    <ul>
+      {posts.map(post => (
+        <li>
+          <a href={`/blog/${post.slug}/`}>
+            <span class="post-title">{post.data.title}</span>
+            <span class="post-date">{new Date(post.data.pubDate).toLocaleDateString('en-US')}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+</Layout>
 
-<PageLayout {frontmatter}>
-  <div slot="top" class="mt-4">
-    <a href="/tags/" class="clickable flex w-fit items-center gap-1">
-      <span class="iconify tabler--arrow-left text-xl"></span>
-      Back to all tags
-    </a>
-  </div>
-
-  <h1>
-    <span class={`iconify align-middle text-5xl sm:text-6xl ${icon}`}></span>
-    <span>{tag}</span>
-  </h1>
-  {!!posts.length && <h2>Posts</h2>}
-  <PostsList {posts} />
-  {!!projects.length && <h2>Projects</h2>}
-  <ProjectsList {projects} />
-</PageLayout>
+<style>
+	.post-list h2 {
+		font-size: 2rem;
+		margin-bottom: 2rem;
+		border-bottom: 1px solid #eee;
+		padding-bottom: 1rem;
+	}
+	.post-list ul {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+	.post-list li a {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 1rem;
+		border-radius: 8px;
+		text-decoration: none;
+		color: #333;
+		transition: background-color 0.2s ease;
+		margin-bottom: 0.5rem;
+	}
+	.post-list li a:hover {
+		background-color: #f5f5f5;
+	}
+	.post-title {
+		font-size: 1.2rem;
+		font-weight: 500;
+	}
+	.post-date {
+		font-size: 0.9rem;
+		color: #888;
+		font-variant-numeric: tabular-nums;
+	}
+</style>

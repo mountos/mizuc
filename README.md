@@ -1,75 +1,83 @@
-<p align="center">
-  <a href="https://nordlys.fjelloverflow.dev">
-    <img alt="logo" src="./public/favicon.svg" height="64">
-  </a>
-</p>
+[閱讀中文版說明 (Read in Chinese)](./README.zh-TW.md)
 
-<h1 align="center">
-  <a href="https://nordlys.fjelloverflow.dev">Nordlys</a>
-</h1>
+# Astro Pu - An Elegant Astro Starter Template
 
-<p align="center">
-  A minimal Astro blog theme
-</p>
+**Pu**, meaning uncarved jade, represents pure potential and innate beauty.
 
-<p align="center">
-  <img src="./public/preview.png" width="85%"/>
-</p>
+This template, crafted by **Mountos** ([mountos.com](https://mountos.com)), is designed to provide a "Pu"-like starting point. It strips away all unnecessary complexity to offer a structurally clean, elegantly designed, and SEO-friendly Astro foundation, allowing you to focus on carving your own content and ideas.
 
-<p align="center">
-  <img src="https://img.shields.io/github/package-json/v/FjellOverflow/Nordlys?label=Version"/>
-  &ensp;
-  <img src="https://img.shields.io/github/license/FjellOverflow/Nordlys?label=License"/>
-  &ensp;
-  <img src="https://img.shields.io/github/actions/workflow/status/FjellOverflow/Nordlys/cd.yaml?branch=main&label=Build"/>
-</p>
+---
 
-<p align="center">
-  <a href="https://nordlys.fjelloverflow.dev">Preview</a> |
-  <a href="#features">Features</a> |
-  <a href="#installation">Installation</a> |
-  <a href="#getting-started">Getting started</a> |
-  <a href="#documentation">Documentation</a>
-</p>
+## ✨ Core Features
 
-## Features
+This template is more than just a basic skeleton; it comes with several advanced features designed for high-quality content websites:
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ee5ab8ef-8c63-4810-a53f-622643e9e7a8" width="50%"/>
-  <div>Nordlys scores 100% on <a href="https://developer.chrome.com/docs/lighthouse/performance/performance-scoring/">Lighthouse</a></div>
-</div>
+*   **🚀 Astro v4+**: Built with the latest Astro engine for extreme loading speeds and a superior development experience.
+*   **🎨 Elegant & Minimalist Design**: A clean, content-focused layout with ample room for style customization.
+*   **📱 Fully Responsive Design (RWD)**: A flawless viewing experience on desktops, tablets, and mobile phones.
+*   **✍️ Content-Driven**: Easily manage all your posts in Markdown format within `src/content/` using Astro's Content Collections.
+*   **SEO Optimized**:
+    *   **Automatic Sitemap**: Generates `sitemap.xml` automatically using `@astrojs/sitemap`.
+    *   **Semantic Tags**: Correct usage of `H1` and other heading tags, optimized for both the homepage and post pages.
+    *   **External Link Handling**: Automatically adds `rel="nofollow noopener noreferrer"` to all external links.
+    *   **`robots.txt`**: Includes a `robots.txt` template that is both SEO-friendly and blocks AI crawlers from training on your content.
+    *   **Meta Descriptions**: All pages have pre-filled or dynamically generated descriptions.
+*   **⚡️ View Transitions**: Built-in Astro View Transitions for smooth page-to-page navigation effects.
+*   **📖 Dynamic Table of Contents (ToC)**: A floating ToC is automatically generated for long articles.
+*   **📄 Pagination**: The main post list is automatically paginated.
+*   **🧩 Built-in Pages**: Includes templates for common pages like "About," "Privacy Policy," and "404."
+*   **❤️ Support & Branding**:
+    *   The footer includes a "Powered by Mountos" brand link.
+    *   A placeholder for a "❤️ Donate" link is available in the footer for you to accept community support.
 
-- ⚙️ Easily configurable
-- 🔎 Built-in Search
-- 📱 Resonsive & mobile friendly
-- 🧑‍🦯 Accessible
-- 🎨 Built-in & custom color schemes
-- 🌙 Light & Dark mode
-- 🎁 Image zoom, generated _Table of Contents_, reading time & more ...
-- 👨‍💻 **For developers**:
-  - Best practices
-  - Minimal & up-to-date dependencies
-  - Strongly typed & linted
+## 🚀 Quick Start
 
-## Installation
+1.  **Use This Template**
+    *   Click the `Use this template` > `Create a new repository` button on the top right of the GitHub page.
+    *   Or, clone it to your local machine: `git clone https://github.com/mountos/astro-pu.git`
 
-0. Make sure you have [pnpm](https://pnpm.io/installation) installed on your system.
+2.  **Install Dependencies**
+    ```bash
+    npm install
+    ```
 
-1. - Clone or [fork](https://github.com/new?template_name=nordlys&template_owner=FjellOverflow) this repository or
-   - Create a new project with `pnpm dlx create-astro --template FjellOverflow/nordlys`.
+3.  **Start Developing**
+    ```bash
+    npm run dev
+    ```
+    You can now view your site at `http://localhost:4321`.
 
-2. Run `pnpm install`.
+## ⚙️ Customization Guide
 
-3. Run `pnpm dev`.
+Before you start writing your own content, be sure to modify the following settings:
 
-4. (To install the recommended extensions for VSCode, open the _Extensions_ tab and type `@recommended`.)
+1.  **`astro.config.mjs`**
+    *   Find the `site` property and replace `'https://example.com'` with your final deployment URL. This is crucial for generating the correct sitemap.
 
-## Getting started
+2.  **`package.json`**
+    *   You can modify fields like `name`, `version`, `author`, and `description` to match your project's information.
 
-The look and feel of the theme are configured in `theme.config.ts`. Make sure to adjust the title, author, URL, and color scheme to your preferences. Defaults are provided for most settings.
+3.  **`public/robots.txt`**
+    *   If you have set the `site` in `astro.config.mjs`, `@astrojs/sitemap` will often generate the sitemap link automatically. If not, manually replace `https://example.com` in the `Sitemap` URL with your own URL.
 
-All content is written in Markdown or MDX. Adding new pages, blog posts, or projects is as simple as creating a `my-latest-post.md` file in the appropriate directory and adjusting the frontmatter. For specific properties that can or need to be set, refer to the provided examples.
+4.  **Site Title & Description (`src/components/Header.astro`)**
+    *   Open this file and modify the default values for `siteTitle` and `siteDescription`.
 
-## Documentation
+5.  **Footer Information (`src/components/Footer.astro`)**
+    *   Modify the site name and introduction in the `footer-intro` section.
+    *   Replace `Your Site Name` in the `copyright` section with your site name.
+    *   In the "Support Us" menu, replace `href="#"` in the donation link with your own link.
 
-The theme is self-documenting. Just head over to [nordlys.fjelloverflow.dev](https://nordlys.fjelloverflow.dev/posts/) for examples and tutorials on how to use and customize the theme.
+6.  **Start Writing!**
+    *   All your posts are located in the `src/content/blog/` folder.
+    *   Refer to the `getting-started.md` example post to learn the format and start writing your own `.md` or `.mdx` files.
+
+## 💖 Support Mountos
+
+If you enjoy this template, please consider keeping the "Powered by Mountos" link in your footer or mentioning it in your project. Your support is the driving force behind our continued creation!
+
+You can also support me by [buying me a coffee](https://mounx.com/s/buyMacoffee). Thank you!
+
+---
+
+*Have fun building!*

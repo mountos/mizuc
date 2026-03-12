@@ -1,99 +1,44 @@
+
 ---
-import PageLayout, {
-  type Props as PageLayoutProps
-} from '@/layouts/PageLayout.astro'
-import PagefindPlugin from '@/plugins/PagefindPlugin.astro'
-
-const frontmatter: PageLayoutProps['frontmatter'] = {
-  title: 'Search',
-  activeHeaderLink: '/search'
-}
+import Layout from '../layouts/Layout.astro';
 ---
-
-<PageLayout {frontmatter}>
-  <h1>{frontmatter.title}</h1>
-  <search-input class="flex w-full items-center justify-center gap-8">
-    <input
-      type="text"
-      placeholder="Type to search"
-      class="border-accent w-full rounded-sm border p-4 sm:w-[50%]"
-    />
-    <button id="search-clear" class="clickable invisible text-xl">Clear</button>
-  </search-input>
-  <h2 id="results-heading">Type to search</h2>
-  <ul id="results-list" class="list-none p-0"></ul>
-
-  <PagefindPlugin />
-</PageLayout>
-
-<script>
-  interface PagefindResult {
-    data: () => Promise<{
-      url: string
-      meta: { title: string }
-      excerpt: string
-    }>
-  }
-
-  class SearchInput extends HTMLElement {
-    async connectedCallback() {
-      const searchInput = this.querySelector('input')
-      const clearBtn = this.querySelector('button')
-
-      const resultsHeading = document.querySelector('#results-heading')
-      const resultsContainer = document.querySelector('#results-list')
-
-      if (!searchInput || !clearBtn || !resultsHeading || !resultsContainer)
-        return
-
-      const onInput = async () => {
-        const searchQuery = searchInput.value
-
-        if (searchQuery === '') clearBtn.classList.add('invisible')
-        else clearBtn.classList.remove('invisible')
-
-        const { results } = await window.pagefind.search(searchQuery)
-
-        resultsHeading.innerHTML =
-          results.length > 0 ? `Results (${results.length})` : 'No Results'
-
-        resultsContainer.innerHTML = ''
-
-        await Promise.all(
-          results.slice(0, 15).map(async (r) => {
-            const li = document.createElement('li')
-            li.innerHTML = await renderSearchResult(r as PagefindResult)
-            resultsContainer.appendChild(li)
-          })
-        )
-
-        if (results.length > 5) {
-          const remainingLi = document.createElement('li')
-          remainingLi.innerHTML = `... and ${results.length - 5} more`
-          resultsContainer.appendChild(remainingLi)
+<Layout title="Search | MOUntos">
+  <main>
+    <div id="search" class="search-container"></div>
+  </main>
+  <style>
+    .search-container {
+      padding: 2rem 1rem;
+    }
+  </style>
+  <script is:inline src="/pagefind/pagefind-ui.js"></script>
+  <script is:inline>
+    document.addEventListener('DOMContentLoaded', () => {
+      try {
+        new PagefindUI({ 
+          element: "#search",
+          showSubResults: true,
+          translations: {
+            placeholder: "Search for articles...",
+            clear_search: "Clear",
+            load_more: "Load more results",
+            search_label: "Search this site",
+            filters_label: "Filters",
+            zero_results: "No results for [SEARCH_TERM]",
+            many_results: "[COUNT] results for [SEARCH_TERM]",
+            one_result: "[COUNT] result for [SEARCH_TERM]",
+            alt_search: "No results for [SEARCH_TERM]. Try searching for [DIFFERENT_TERM] instead?",
+            search_suggestion: "No results for [SEARCH_TERM]. Try one of the following searches?",
+            searching: "Searching for [SEARCH_TERM]..."
+          }
+        });
+      } catch (e) {
+        console.error('Failed to load Pagefind UI:', e);
+        const searchContainer = document.querySelector('#search');
+        if (searchContainer) {
+          searchContainer.innerHTML = '<p style="color: red;">Failed to load search functionality. Please try again later.</p>';
         }
       }
-
-      const renderSearchResult = async (result: PagefindResult) => {
-        const data = await result.data()
-
-        return `<a class="text-xl font-normal" href="${data.url}">
-                        ${data.meta.title}
-                </a>
-                <div class="opacity-75 mt-4">
-                    ${data.excerpt}
-                </div>`
-      }
-
-      searchInput.addEventListener('input', onInput)
-
-      clearBtn.addEventListener('click', () => {
-        searchInput.value = ''
-        onInput()
-      })
-    }
-  }
-
-  if (!customElements.get('search-input'))
-    customElements.define('search-input', SearchInput)
-</script>
+    });
+  </script>
+</Layout>

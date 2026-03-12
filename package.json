@@ -1,90 +1,25 @@
 {
-  "name": "nordlys",
+  "name": "mizuc",
   "type": "module",
-  "version": "3.2.0",
-  "description": "A minimal Astro blog theme",
-  "author": "FjellOverflow",
-  "license": "GPL-3.0-only",
-  "homepage": "https://github.com/FjellOverflow/nordlys",
+  "version": "0.0.1",
+  "description": "A clean and elegant Astro starter template, infused with a touch of oriental aesthetics.",
+  "author": "Mountos (https://mountos.com)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FjellOverflow/nordlys.git"
+    "url": "https://github.com/Mountos/astro-pu.git"
   },
   "bugs": {
-    "url": "https://github.com/FjellOverflow/nordlys/issues"
+    "url": "https://github.com/Mountos/astro-pu/issues"
   },
-  "keywords": [
-    "astro",
-    "blog",
-    "template",
-    "theme",
-    "tailwindcss"
-  ],
   "scripts": {
     "dev": "astro dev",
-    "lint": "eslint . && stylelint src",
-    "check": "pnpm lint && astro check",
     "build": "astro build",
-    "preview": "pnpm build && astro preview",
-    "release": "pnpm check && commit-and-tag-version --sign",
-    "postbuild": "pagefind --site dist"
+    "preview": "astro preview",
+    "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.5",
-    "@astrojs/mdx": "^4.3.9",
-    "@astrojs/rss": "^4.0.13",
     "@astrojs/sitemap": "^3.6.0",
-    "@expressive-code/plugin-collapsible-sections": "^0.41.3",
-    "@expressive-code/plugin-line-numbers": "^0.41.3",
-    "@fontsource/ibm-plex-sans": "^5.2.8",
-    "@iconify-json/tabler": "^1.2.23",
-    "@resvg/resvg-js": "^2.6.2",
-    "@tailwindcss/typography": "^0.5.19",
-    "@tailwindcss/vite": "^4.1.16",
-    "astro": "^5.15.2",
-    "astro-expressive-code": "^0.41.3",
-    "he": "^1.2.0",
-    "jsdom": "^27.0.1",
-    "lucide-react": "^0.577.0",
-    "mdast-util-to-string": "^4.0.0",
-    "pagefind": "^1.4.0",
-    "path-browserify": "^1.0.1",
-    "reading-time": "^1.5.0",
-    "remark-sectionize": "^2.1.0",
-    "satori": "^0.18.3",
-    "sharp": "^0.34.4",
-    "tailwind-scrollbar-hide": "^4.0.0",
-    "tailwindcss": "^4.1.16",
-    "turndown": "^7.2.2",
-    "xml2js": "^0.6.2"
-  },
-  "devDependencies": {
-    "@eslint/js": "^9.38.0",
-    "@iconify/tailwind4": "^1.0.6",
-    "@typescript-eslint/parser": "^8.46.2",
-    "commit-and-tag-version": "^12.6.0",
-    "eslint": "^9.38.0",
-    "eslint-config-prettier": "^10.1.8",
-    "eslint-plugin-astro": "^1.4.0",
-    "eslint-plugin-jsx-a11y": "^6.10.2",
-    "eslint-plugin-prettier": "^5.5.4",
-    "globals": "^16.4.0",
-    "prettier": "^3.6.2",
-    "prettier-plugin-astro": "^0.14.1",
-    "prettier-plugin-tailwindcss": "^0.7.1",
-    "stylelint": "^16.25.0",
-    "stylelint-config-html": "^1.1.0",
-    "stylelint-config-recommended": "^17.0.0",
-    "type-fest": "^5.1.0",
-    "typescript": "^5.9.3",
-    "typescript-eslint": "^8.46.2"
-  },
-  "packageManager": "pnpm@10.19.0",
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "@tailwindcss/oxide",
-      "esbuild",
-      "sharp"
-    ]
+    "astro": "^5.16.6",
+    "unist-util-visit": "^5.0.0"
   }
 }
