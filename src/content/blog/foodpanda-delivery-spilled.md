@@ -1,13 +1,10 @@
 ---
 title: "FoodPanda 外送塔滑湯灑湯燙塔"
-author: "迷走客"
 description: "FoodPanda 外送塔滑湯灑湯燙塔"
-publishedDate: 2020-08-25
+pubDate: 2020-08-25
 tags: ["FoodPanda","外送","熊貓","退費","餐館"]
 category: "walk"
 heroImage: ""
-draft: false
-showToC: true
 ---
 今天的晚餐預約胖熊貓 FoodPanda（熊貓外送）送來餐廳食物，等待時間花了將近半小時，等到外送員好不容易將餐點送到，結果剛把餐點從保溫箱拿出來，我們兩個人很快就都發現食物已經灑了出來，只見外送員司機尷尬笑著說是餐館沒綁好。
 

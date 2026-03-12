@@ -1,13 +1,10 @@
 ---
 title: "「Keep Walking」報名表的團隊介紹，只能是這位老夥伴了吧"
-author: "迷走客"
 description: "「Keep Walking」報名表的團隊介紹，只能是這位老夥伴了吧"
-publishedDate: 2012-11-30
+pubDate: 2012-11-30
 tags: ["Keep Walking","報名表","夥伴","探險"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 這次的故事，因起於我在網路上發現一件令人震驚的消息，原來 2012 年度的第九屆 Keep Walking 夢想資助計畫已經正式起跑，而且今天還是最後截止申請日。
 

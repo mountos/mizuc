@@ -1,13 +1,10 @@
 ---
 title: "諾基亞 Nokia 8310 2G GSM 行動電話"
-author: "迷走客"
 description: "諾基亞 Nokia 8310 2G GSM 行動電話"
-publishedDate: 2020-03-13
+pubDate: 2020-03-13
 tags: ["Nokia","SIM 卡","地圖","智慧型手機"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 Nokia（諾基亞）8310 GSM Mobile Phone，是我在 2G 傳統行動電話時代使用的最後一款機型，從民國 92 年（以製造日期公元 2003 為準）一直用到民國 95 年春天，才購入諾基亞另一款產品「Nokia N73」取代，算是正式開啟我的智慧型手機時代。
 

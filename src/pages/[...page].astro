@@ -6,12 +6,7 @@ import type { Page } from 'astro';
 
 export async function getStaticPaths({ paginate }) {
   const allPosts = (await getCollection('blog'))
-    .filter(post => !post.data.draft)
-    .sort((a, b) => {
-      const dateA = (a.data.pubDate || a.data.publishedDate || new Date(0)).valueOf();
-      const dateB = (b.data.pubDate || b.data.publishedDate || new Date(0)).valueOf();
-      return dateB - dateA;
-    });
+    .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
   return paginate(allPosts, { pageSize: 10 });
 }
 
@@ -32,7 +27,7 @@ const pageDescription = `The latest news from MOUntos Institute${page.currentPag
 				<li>
 					<a href={`/blog/${post.slug}/`}>
 						<span class="post-title">{post.data.title}</span>
-						<span class="post-date">{new Date(post.data.pubDate || post.data.publishedDate || 0).toLocaleDateString('en-US')}</span>
+						<span class="post-date">{post.data.pubDate.toLocaleDateString('en-US')}</span>
 					</a>
 				</li>
 			))}

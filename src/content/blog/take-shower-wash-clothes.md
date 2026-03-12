@@ -1,13 +1,10 @@
 ---
 title: "克難旅行法：沒帶毛巾該如何洗澡？"
-author: "迷走客"
 description: "克難旅行法：沒帶毛巾該如何洗澡？"
-publishedDate: 2024-07-01
+pubDate: 2024-07-01
 tags: ["旅館","毛巾","洗澡","環保","衣服"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 每次的自助旅行都是一次次有趣經歷的集合體，讓人體驗許多平常養尊處優日子中，不容易遭遇到的問題。
 

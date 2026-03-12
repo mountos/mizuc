@@ -1,13 +1,10 @@
 ---
 title: "馬路如虎口 不禮讓行人的機車想攔我"
-author: "迷走客"
 description: "馬路如虎口 不禮讓行人的機車想攔我"
-publishedDate: 2025-03-30
+pubDate: 2025-03-30
 tags: ["斑馬線","機車","紅綠燈","馬路"]
 category: "walk"
 heroImage: ""
-draft: false
-showToC: true
 ---
 我常跟朋友開玩笑說，不管是誰，只要經歷過臺灣島上面，那如虎口般的馬路洗禮後，無論走到多落後的第三世界，面對多危險的交通環境，我們都能泰然處之。
 

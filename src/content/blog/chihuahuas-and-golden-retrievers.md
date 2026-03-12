@@ -1,13 +1,10 @@
 ---
 title: "淡水河岸邊的吉娃娃與黃金獵犬們"
-author: "迷走客"
 description: "淡水河岸邊的吉娃娃與黃金獵犬們"
-publishedDate: 2021-12-24
+pubDate: 2021-12-24
 tags: ["中華民國","台灣","吉娃娃","散步","河岸","淡水","行憲紀念日","黃金獵犬"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 在中華民國行憲紀念日（Constitution Day of the Republic of China）的前一夜（簡稱行憲夜），迷走沒有跟大家一樣，帶著女朋友（？）一同去餐廳吃大餐慶祝憲法誕生，只是照著平日的運動路線沿著淡水河岸散步。
 

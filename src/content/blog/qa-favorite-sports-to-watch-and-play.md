@@ -1,13 +1,10 @@
 ---
 title: "問答：你最喜歡觀看和從事的運動是什麼？"
-author: "迷走客"
 description: "問答：你最喜歡觀看和從事的運動是什麼？"
-publishedDate: 2023-02-01
+pubDate: 2023-02-01
 tags: ["dailyprompt","網球","足球","運動"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 > 你最喜歡觀看和從事的運動是什麼？
 

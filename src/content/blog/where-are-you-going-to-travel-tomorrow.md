@@ -1,13 +1,10 @@
 ---
 title: "明天去哪旅行兒？翹課、翹班容易，翹老婆難"
-author: "迷走客"
 description: "明天去哪旅行兒？翹課、翹班容易，翹老婆難"
-publishedDate: 2019-04-08
+pubDate: 2019-04-08
 tags: ["公司","國外旅行","壯遊","學生"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 每當一人隻身到國外旅行，幾乎都會遇到阿姨們詢問同一個問題：「你是一個人來玩？」當她們得到我是 Solo Travel 的肯定答案後，總會露出一副敬佩的神情（沒錯，就是崇拜，別再深究了）。
 

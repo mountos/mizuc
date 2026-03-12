@@ -1,13 +1,10 @@
 ---
 title: "搭 Scoot 酷航飛機旅行日本北海道（札幌新千歲機場）初體驗"
-author: "迷走客"
 description: "搭 Scoot 酷航飛機旅行日本北海道（札幌新千歲機場）初體驗"
-publishedDate: 2019-03-22
+pubDate: 2019-03-22
 tags: ["Scoot","北海道","廉價航空","新千歲機場","日本","桃園機場","航廈","酷航"]
 category: "walk"
 heroImage: ""
-draft: false
-showToC: true
 ---
 原本早在半年前就買好了3月20日，前往日本大阪的搭乘樂桃航空（Peach Aviation）廉航機票，卻因為事情耽擱只能臨時取消後（真的臨時，19日晚上才取消），又立刻在酷航航空（Scoot Air）買了26日前往北海道札幌的新千歲機場的廉航機票（假新書名：再忙也要去旅行），這似乎是我第一次搭乘 Scoot 酷航。
 

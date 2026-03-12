@@ -1,13 +1,10 @@
 ---
 title: "迷走客旅行的日常打招呼：LINE 貼圖正式上線！"
-author: "迷走客"
 description: "迷走客旅行的日常打招呼：LINE 貼圖正式上線！"
-publishedDate: 2025-04-03
+pubDate: 2025-04-03
 tags: ["LINE","下載","背包客","表情","貼圖"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 旅行不僅是一場探索，更是一種生活態度。為了讓旅途中的點滴更具趣味，我們特別推出了一組全新的 LINE 貼圖——「迷走客旅行的日常打招呼」！這組表情貼圖專為熱愛自助旅行、隨性走跳的你而設計，讓你在聊天時也能傳遞滿滿的旅人氛圍。
 

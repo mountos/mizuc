@@ -1,13 +1,10 @@
 ---
 title: "夢之東沙：逝去、別離與重生"
-author: "迷走客"
 description: "夢之東沙：逝去、別離與重生"
-publishedDate: 2025-05-27
+pubDate: 2025-05-27
 tags: ["夢境","東沙島","海島","溺水意外","電機工程"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 有些地方，一生可能都到不了，但它會在夜裡，主動來找你。
 

@@ -1,13 +1,10 @@
 ---
 title: "日本購物陷阱揭秘：電子產品天價讓你秒變冤大頭！"
-author: "迷走客"
 description: "日本購物陷阱揭秘：電子產品天價讓你秒變冤大頭！"
-publishedDate: 2025-05-05
+pubDate: 2025-05-05
 tags: ["BicCamera","SD 記憶卡","亞馬遜","日本購物","日本電商","電子產品"]
 category: "guide"
 heroImage: ""
-draft: false
-showToC: true
 ---
 作為一個熱衷旅遊與攝影的迷走客，日本對我來說就像一場視覺盛宴：東京的閃爍霓虹、京都的古剎清幽、北海道的雪山連綿，每一景都讓我忍不住想按下快門，永久珍藏。
 

@@ -1,13 +1,10 @@
 ---
 title: "斑馬線上不禮讓行人的破財 BMW"
-author: "迷走客"
 description: "斑馬線上不禮讓行人的破財 BMW"
-publishedDate: 2023-10-17
+pubDate: 2023-10-17
 tags: ["BMW","斑馬線","禮讓","路口","車禍"]
 category: "walk"
 heroImage: ""
-draft: false
-showToC: true
 ---
 晚上下班回家時，迷走經過城市裡一段頗大的馬路交叉口。由於這個路口是百秒綠燈的關係，我也只是稍微看了一下左右車道，避免有不長眼的怪人出現。
 

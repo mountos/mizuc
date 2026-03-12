@@ -1,13 +1,10 @@
 ---
 title: "智商 IQ 不算低 情緒智商 EQ 低到渣"
-author: "迷走客"
 description: "智商 IQ 不算低 情緒智商 EQ 低到渣"
-publishedDate: 2013-12-10
+pubDate: 2013-12-10
 tags: ["心理健康","情緒智商","智力測驗"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 迷走在讀國中時，剛進學校的一年級新生都會被聚集起來，集體做智力測驗。不曉得現在的國中生還有沒有？
 

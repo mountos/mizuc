@@ -1,13 +1,10 @@
 ---
 title: "危險馬路三寶 Jeep 吉普車駕駛在三芝、北海岸一帶出沒"
-author: "迷走客"
 description: "危險馬路三寶 Jeep 吉普車駕駛在三芝、北海岸一帶出沒"
-publishedDate: 2006-08-06
+pubDate: 2006-08-06
 tags: ["Jeep","三寶","三芝","北海岸","危險駕駛","台二線","吉普車","淡水"]
 category: "walk"
 heroImage: ""
-draft: false
-showToC: true
 ---
 從臺灣島北部的淡水小鎮，通往三芝的省道台二線上，有一段路是三線道，算是北海岸沿線略為寬敞的道路。
 

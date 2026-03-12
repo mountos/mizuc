@@ -1,13 +1,10 @@
 ---
 title: "紐西蘭南島秘境 Glow Worm Dell 藍色螢火蟲洞 24 小時自然開放"
-author: "迷走客"
 description: "紐西蘭南島秘境 Glow Worm Dell 藍色螢火蟲洞 24 小時自然開放"
-publishedDate: 2019-07-26
+pubDate: 2019-07-26
 tags: ["南島","小鎮","探險","洞穴","私房景點","秘境","紐西蘭","藍光","螢火蟲"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 想看澳大利亞（Australia，簡稱澳洲、OZ）、紐西蘭（New Zealand，簡稱 NZ，中國大陸稱新西蘭）充滿大量的腳、黏液和美麗藍光的國寶嗎？
 

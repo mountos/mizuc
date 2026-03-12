@@ -1,13 +1,10 @@
 ---
 title: "我被3個年輕金髮美女吃醋白眼屁股擠丨紐西蘭 New Zealand"
-author: "迷走客"
 description: "我被3個年輕金髮美女吃醋白眼屁股擠丨紐西蘭 New Zealand"
-publishedDate: 2013-11-20
+pubDate: 2013-11-20
 tags: ["Intercity","冰川","客運","法蘭茲約瑟夫","紐西蘭","美女","車站"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 迷走在紐西蘭（New Zealand）南島的西南海岸線（West coast in South Island）旅行時，曾經在法蘭茲約瑟夫小鎮（_Franz Josef_）一條渺無人煙的後山森林秘徑，和一位年輕的大男孩 Jeff 有過靜悄悄的一篇之緣。
 

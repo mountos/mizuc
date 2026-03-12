@@ -1,13 +1,10 @@
 ---
 title: "在台灣屏東鄉村迷路旅行遇到的人情味小餐館"
-author: "迷走客"
 description: "在台灣屏東鄉村迷路旅行遇到的人情味小餐館"
-publishedDate: 2012-11-05
+pubDate: 2012-11-05
 tags: ["中華民國","人情味","台灣","客家人","屏東","環島","迷路","鄉村","鄉道","雜貨店","餐館"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 屏東（_Pingtung_），一處很熱的地方，或許是中華民國境內，除南沙群島和東沙島之外，最熱的地方也不一定。
 

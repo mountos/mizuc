@@ -1,13 +1,10 @@
 ---
 title: "沒有農曆的日曆、沒有淡水的北海岸最低溫"
-author: "迷走客"
 description: "沒有農曆的日曆、沒有淡水的北海岸最低溫"
-publishedDate: 2019-01-01
+pubDate: 2019-01-01
 tags: ["北海岸","政治","日曆","農曆"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 看著牆上剛撕下1月1日的日曆，媽媽突然提起這家合作金庫在某一年送的日曆看起來挺素白，她當時還仔細研究一下，才發現原來是傳統中國農曆（Chinese Calendar）的日子被拿掉了，甚至連中華民國曆也移除，結果就是整本日曆白素素的。
 

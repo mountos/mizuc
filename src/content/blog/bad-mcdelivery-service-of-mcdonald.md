@@ -1,13 +1,10 @@
 ---
 title: "快被麥當勞餓死的歡樂送餐點外送服務"
-author: "迷走客"
 description: "快被麥當勞餓死的歡樂送餐點外送服務"
-publishedDate: 2018-03-18
+pubDate: 2018-03-18
 tags: ["外送","宵夜","麥當勞"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 午夜兩點多的肚皮，傳來飢腸轆轆之聲，打著還得修改照片幾個小時的僥倖，原本想外出買個宵夜來吃吃。老天爺卻像是聽到內心渴望，降下了一陣大雨，阻止了我原本就薄弱的外出動力。
 

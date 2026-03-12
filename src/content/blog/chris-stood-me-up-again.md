@@ -1,13 +1,10 @@
 ---
 title: "被羊好愚放鴿子後難找淡水停車位"
-author: "迷走客"
 description: "被羊好愚放鴿子後難找淡水停車位"
-publishedDate: 2010-11-10
+pubDate: 2010-11-10
 tags: ["停車位","放鴿子","求婚","淡水","羊好愚"]
 category: "walk"
 heroImage: ""
-draft: false
-showToC: true
 ---
 「NTLDR IS MISSING」…一覺醒來，就看到電腦螢幕上顯示這個糟糕訊息，因為急忙著要開車到內湖花市，幫某人秘密求婚，當下也沒有多想，結果……… 又被死羊放鴿子。
 

@@ -1,13 +1,10 @@
 ---
 title: "紐西蘭🇳🇿法蘭茲約瑟夫冰川 Franz Josef Glacier 健行路線"
-author: "迷走客"
 description: "紐西蘭🇳🇿法蘭茲約瑟夫冰川 Franz Josef Glacier 健行路線"
-publishedDate: 2021-11-15
+pubDate: 2021-11-15
 tags: ["Franz Josef","New Zealand","冰川","小鎮","森林","法蘭茲約瑟夫","秘徑","紐西蘭"]
 category: "guide"
 heroImage: ""
-draft: false
-showToC: true
 ---
 有一年的夏天，迷走旅行到了紐西蘭南島西南海岸（_The_ _West Coast_, _South Island of New Zealand_），搭著國道客運「[Intercity](https://mounx.com/s/intercity)」來到一處以攀登冰川（Glacier）為賣點的知名山間小鎮「法蘭茲約瑟夫」（_Franz Josef / Waiau_）。
 

@@ -1,13 +1,10 @@
 ---
 title: "感覺大拇指差點戳爆眼睛了"
-author: "迷走客"
 description: "感覺大拇指差點戳爆眼睛了"
-publishedDate: 2025-04-12
+pubDate: 2025-04-12
 tags: ["傷害","急診","直播間","眼睛"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 夜晚的直播間，對我這種不是在旅行路上就是在計劃下次要去哪旅行的迷走客來說，就像一扇通往陌生世界的窗。
 

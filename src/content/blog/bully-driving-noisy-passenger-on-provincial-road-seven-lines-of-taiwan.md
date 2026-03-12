@@ -1,13 +1,10 @@
 ---
 title: "省道台七線山路會車 遇見荒謬 VIOS 惡霸駕駛與高分貝嘴賤副座"
-author: "迷走客"
 description: "省道台七線山路會車 遇見荒謬 VIOS 惡霸駕駛與高分貝嘴賤副座"
-publishedDate: 2018-11-20
+pubDate: 2018-11-20
 tags: ["TOYOTA","VIOS","中華民國","台七線","台灣","山路","工程車","彎道","會車","武陵農場","環島","省道","迷走號"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 在《[花蓮、台東四日環島旅行：颱風攪局之第1日](https://mizuc.com/hualien-and-taitung-tourism-day-one/)》這篇文章中，我和小翔、年獸開著迷走號踏上我們的環島之旅。不過就在第一天，省道台七線上，快要到武陵農場的山路小徑上，我們遇到一台荒謬的山路惡霸以及車上的高分貝副座。
 

@@ -1,13 +1,10 @@
 ---
 title: "川普的中文譯名可以改這樣"
-author: "迷走客"
 description: "川普的中文譯名可以改這樣"
-publishedDate: 2025-05-03
+pubDate: 2025-05-03
 tags: ["川普","房地產","美國"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 美國總統 Donald J. Trump，名字 的中譯名寫作「唐納．川普」，這是現在已經約定俗成刻畫入心的習慣。
 

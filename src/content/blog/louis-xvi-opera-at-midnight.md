@@ -1,13 +1,10 @@
 ---
 title: "那一夜，我在暗巷遇見了「路易十六」"
-author: "迷走客"
 description: "那一夜，我在暗巷遇見了「路易十六」"
-publishedDate: 2026-02-05
+pubDate: 2026-02-05
 tags: ["古典音樂","歌劇","深夜驚魂","生活觀察","路易十六","都市傳說","黑色幽默"]
 category: "walk"
 heroImage: ""
-draft: false
-showToC: true
 ---
 **我一直以為，西方古典樂是優雅與文明的象徵，直到那個月黑風高的深夜，徹底顛覆了我的認知。**
 

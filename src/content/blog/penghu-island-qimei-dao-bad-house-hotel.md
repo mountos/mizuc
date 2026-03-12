@@ -1,13 +1,10 @@
 ---
 title: "澎湖七美島的惡劣民宿"
-author: "迷走客"
 description: "澎湖七美島的惡劣民宿"
-publishedDate: 2019-04-25
+pubDate: 2019-04-25
 tags: ["七美島","中華民國","旅館","民宿","澎湖","訂金","颱風"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 暑假期間又要到了，某位作家朋友在問要不要一起約去澎湖群島，或是更裡頭的望安島小住一些日子。說起澎湖，我就會立刻想起之前在澎湖七美島遇到的的超差勁民宿。
 

@@ -4,7 +4,7 @@ import ToC from '../components/ToC.astro';
 const { frontmatter, headings } = Astro.props;
 
 const hasHeadings = headings.filter(h => h.depth > 1 && h.depth < 4).length > 0;
-const primaryCategory = frontmatter.categories?.[0];
+const primaryCategory = frontmatter.categories?.[0] || frontmatter.category;
 ---
 <Layout title={`${frontmatter.title}`} description={frontmatter.description}>
 
@@ -25,7 +25,7 @@ const primaryCategory = frontmatter.categories?.[0];
       <div class="post-meta-bar">
         <div class="meta-item">
           <span class="label">Posted on</span>
-          <span class="value">{new Date(frontmatter.pubDate).toLocaleDateString('en-US')}</span>
+          <span class="value">{frontmatter.pubDate.toLocaleDateString('en-US')}</span>
         </div>
       </div>
 

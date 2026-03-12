@@ -1,13 +1,10 @@
 ---
 title: "三峽老街迷路之旅 動手玩手工藍染布"
-author: "迷走客"
 description: "三峽老街迷路之旅 動手玩手工藍染布"
-publishedDate: 2008-03-25
+pubDate: 2008-03-25
 tags: ["三峽","三角湧","中華民國","台灣","地圖","大青","工藝","手工","文化","染料","祖師廟","老街","藍染","警察","迷路"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 藍染（Blue Dye，日本稱作 Indigo），一種在全世界各地文明中都曾出現過的古老手工技藝，從過去傳承至今，緩慢卻執著。
 

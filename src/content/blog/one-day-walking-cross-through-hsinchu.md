@@ -1,13 +1,10 @@
 ---
 title: "夏天旅行：從新竹徒步穿越桃園（失敗篇）"
-author: "迷走客"
 description: "夏天旅行：從新竹徒步穿越桃園（失敗篇）"
-publishedDate: 2002-06-13
+pubDate: 2002-06-13
 tags: ["中華民國","台灣","徒步","新竹","新竹空軍基地","新豐","暑假","桃園","省道","西濱公路","馬路"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 今天這趟徒步旅行的小故事，算是難得一次沒有走到預期終點的小旅行。雖然一樣是如同往常沒有任何事前規劃的[無計畫旅行](https://mizuc.com/unplanned-travel-european-partner-recommend/)，但是一走之下才發現，跟原先設想的路線竟然相差甚遠，虧我還在這段路線上自駕開過好幾趟車。
 

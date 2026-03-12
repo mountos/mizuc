@@ -1,13 +1,10 @@
 ---
 title: "高雄岡山高速公路收費站前被小混混 BMW 7 追撞車禍"
-author: "迷走客"
 description: "高雄岡山高速公路收費站前被小混混 BMW 7 追撞車禍"
-publishedDate: 2006-05-03
+pubDate: 2006-05-03
 tags: ["BMW","保險","屏東","岡山","第五公路警察大隊","車禍","高速公路","高雄"]
 category: "walk"
 heroImage: ""
-draft: false
-showToC: true
 ---
 四月一日，開著心愛的汽車迷走號載著心儀的小華回她台南老家，接著又到台南市永康交流道附近，接了謝宗翔（小翔）後繼續我們兩人的南下旅行。
 

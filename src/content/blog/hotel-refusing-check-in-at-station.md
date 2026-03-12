@@ -1,13 +1,10 @@
 ---
 title: "拒絕讓人入住的車站前旅館"
-author: "迷走客"
 description: "拒絕讓人入住的車站前旅館"
-publishedDate: 2022-12-10
+pubDate: 2022-12-10
 tags: ["住宿","城市","旅館","服務","衛生","預定"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 旅館，作為一個在夜晚裡提供安全房間和乾淨、舒適軟床的商業場所，相信是每一個旅行者出門在外最在意的環節之一。
 

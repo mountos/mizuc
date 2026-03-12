@@ -1,13 +1,10 @@
 ---
 title: "臺灣環島：從臺南到淡水"
-author: "迷走客"
 description: "臺灣環島：從臺南到淡水"
-publishedDate: 2022-01-31
+pubDate: 2022-01-31
 tags: ["中華民國","台南","台灣","旅行","環島","高速公路","鮮蝦餅"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 臺灣環島旅行，炎炎夏日，閒閒沒事，暑假消暑第一選擇。一個笨蛋，一個人跑去開車旅行，錢還沒帶夠，差點在屏東加霸王油。這是一場自由的夏天旅行。
 

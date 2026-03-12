@@ -1,13 +1,10 @@
 ---
 title: "日本沖繩世界（玉泉洞、王國村）旅遊體驗與門票"
-author: "迷走客"
 description: "日本沖繩世界（玉泉洞、王國村）旅遊體驗與門票"
-publishedDate: 2021-10-30
+pubDate: 2021-10-30
 tags: ["日本","沖繩","沖繩世界","洞穴探險","玉泉洞","王國村","門票"]
 category: "guide"
 heroImage: ""
-draft: false
-showToC: true
 ---
 位於日本沖繩群島南部的大型主題公園「沖繩世界（王國村（又稱文化王國，琉球王國城下町）、玉泉洞）」（_Okinawa world Bunkaokoku Gyokusendo_，或稱 _Okinawa world Culture Kingdom, Yu-Quan Stalactites Cave_），是許多訪日遊客拜訪日本國境之南必去的觀光旅遊景點。
 

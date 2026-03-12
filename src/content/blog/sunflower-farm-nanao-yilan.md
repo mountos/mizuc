@@ -1,13 +1,10 @@
 ---
 title: "宜蘭南澳6月隱藏的向日葵花田秘境"
-author: "迷走客"
 description: "宜蘭南澳6月隱藏的向日葵花田秘境"
-publishedDate: 2021-06-04
+pubDate: 2021-06-04
 tags: ["南澳","台九線","向日葵","宜蘭","沙灘","省道","花田"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 對於臺灣島東北角的宜蘭南澳，應該很多人的印象都是在前往花蓮、台東的路上，在一個鄉村模樣的馬路邊停下車，吃上一碗加入生雞蛋的[紅豆牛奶冰](https://www.vedfolnir.com/travel/yilan-travel-take-train-to-nanao-to-eat-shaved-ice-with-red-beans-milk-egg/)，濃稠香甜的滋味讓人難以忘懷。
 

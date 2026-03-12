@@ -1,13 +1,10 @@
 ---
 title: "旭海大草原：台灣島境之南的絕色秘境與故事"
-author: "迷走客"
 description: "旭海大草原：台灣島境之南的絕色秘境與故事"
-publishedDate: 2021-11-11
+pubDate: 2021-11-11
 tags: ["中山科學研究院","中正大草原","中華民國","九鵬基地","台灣","屏東","旭海村","旭海草原","牡丹鄉","環島"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 迷走還在唸書的青澀學生時代，日日枯燥的英語課堂上，曾聽美女老師炫耀自己跟老公家族在暑假環島時，去過島境之南的秘境「旭海大草原」，即現在經政府整治後正式定名的「旭海草原遊樂區（Syuhai Grassland Recreation Area）」。
 

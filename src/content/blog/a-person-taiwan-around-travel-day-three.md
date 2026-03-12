@@ -1,13 +1,10 @@
 ---
 title: "臺灣環島：從臺東金崙到高雄岡山"
-author: "迷走客"
 description: "臺灣環島：從臺東金崙到高雄岡山"
-publishedDate: 2022-01-29
+pubDate: 2022-01-29
 tags: ["中華民國","九鵬大沙漠","八爪椅","台灣","屏東","旅行","旭海草原","汽車旅館","環島","鵝鑾鼻燈塔"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 臺灣環島旅行，炎炎夏日，閒閒沒事，暑假消暑第一選擇。
 

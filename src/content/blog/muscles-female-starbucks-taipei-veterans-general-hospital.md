@@ -1,13 +1,10 @@
 ---
 title: "臺北榮總醫院的星巴克咖啡女力士"
-author: "迷走客"
 description: "臺北榮總醫院的星巴克咖啡女力士"
-publishedDate: 2018-05-04
+pubDate: 2018-05-04
 tags: ["咖啡","手術","星巴克","榮總醫院"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 我老爸原本計畫在臺北榮總醫院，動一個骨頭的小手術，只是年紀大了，被醫師安排要住院觀察一段時間。一群小孩特別把老爸安排在單人病房，免得被隔壁病床干擾到無法好好休息。
 

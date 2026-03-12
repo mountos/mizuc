@@ -1,13 +1,10 @@
 ---
 title: "悠閒散漫的個性是一種生活態度"
-author: "迷走客"
 description: "悠閒散漫的個性是一種生活態度"
-publishedDate: 2018-06-07
+pubDate: 2018-06-07
 tags: ["悠閒","旅行","日本","生活態度"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 從小到大的個性一直都是悠閒散漫，要找出例子來跟人做自我介紹，可謂是不勝枚舉，例如：
 

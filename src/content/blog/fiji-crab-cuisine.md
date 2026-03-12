@@ -1,13 +1,10 @@
 ---
 title: "斐濟人（無水）螃蟹食譜料理法"
-author: "迷走客"
 description: "斐濟人（無水）螃蟹食譜料理法"
-publishedDate: 2020-05-24
+pubDate: 2020-05-24
 tags: ["斐濟","料理","椰奶","薑黃粉","螃蟹","食譜"]
 category: "guide"
 heroImage: ""
-draft: false
-showToC: true
 ---
 斐濟由於是被大海包圍的一座島嶼，因此島上海產豐富，而且價錢便宜，一隻跟雙手一樣大的螃蟹，只需要新台幣 180 元左右。
 

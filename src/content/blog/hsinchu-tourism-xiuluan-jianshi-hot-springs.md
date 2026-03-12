@@ -1,13 +1,10 @@
 ---
 title: "新竹秀巒溫泉：與好友深夜騎機車的泡湯看星星之旅"
-author: "迷走客"
 description: "新竹秀巒溫泉：與好友深夜騎機車的泡湯看星星之旅"
-publishedDate: 2003-05-23
+pubDate: 2003-05-23
 tags: ["中華民國","內灣","原住民","台灣","尖石鄉","新竹","機車","橫山","檢查哨","油羅溪","秀巒溫泉","野溪溫泉"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 在《[SARS疫情、畢業送舊餐會與新竹港南濱海風景區](https://mizuc.com/sars-epidemic-graduation-dinner-party-gangnan-seaside-scenic-area-of-hsinchu/)》這篇文章中提到，在一場充滿殭屍與消失教授的畢業餐會結束，我跟另一個同學度過一段無聊時間，因此從晚上11點開始約人要去秀巒溫泉，最後找到四位同學就準備往新竹後山衝。
 

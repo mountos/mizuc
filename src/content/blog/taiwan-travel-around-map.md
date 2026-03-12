@@ -1,13 +1,10 @@
 ---
 title: "迷走客的臺灣環島旅行地圖（持續更新）"
-author: "迷走客"
 description: "迷走客的臺灣環島旅行地圖（持續更新）"
-publishedDate: 2025-05-05
+pubDate: 2025-05-05
 tags: ["Google Map","地圖","環島","臺灣"]
 category: "guide"
 heroImage: ""
-draft: false
-showToC: true
 ---
 《**迷走客的臺灣環島旅行地圖**》是我第一次嘗試用 [Google Map](https://www.vedfolnir.com/technology/network/google-my-map-planning/) 記錄曾經踏足過的旅遊景點，利用科技輔助旅行，能有更好的回憶（花時間編輯就有點麻煩）。
 

@@ -1,13 +1,10 @@
 ---
 title: "紐西蘭旅行一年後 2008｜自助冒險"
-author: "迷走客"
 description: "紐西蘭旅行一年後 2008｜自助冒險"
-publishedDate: 2008-02-20
+pubDate: 2008-02-20
 tags: ["冒險","家鄉","時光","生活","神秘","紐西蘭"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 勇者迷走客從紐西蘭（New Zealand）中土大陸的神秘國度返回母親的家鄉後，轉眼間也過了一年無所事事的生活。
 

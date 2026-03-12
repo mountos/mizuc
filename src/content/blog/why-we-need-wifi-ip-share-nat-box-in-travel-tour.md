@@ -1,13 +1,10 @@
 ---
 title: "女兒問父親為何要帶 WiFi 網路分享器出國旅遊？"
-author: "迷走客"
 description: "女兒問父親為何要帶 WiFi 網路分享器出國旅遊？"
-publishedDate: 2018-12-05
+pubDate: 2018-12-05
 tags: ["WiFi","候機室","旅館","日本","網路分享器","預付卡"]
 category: "walk"
 heroImage: ""
-draft: false
-showToC: true
 ---
 在桃園國際機場候機室裡，正把玩一台 WiFi 網路分享器（IP Share 或稱 NAT BOX）的父親和女兒間的對話讓人省思，我們現代人的生活即使和網際網路已經糾結不清，但真的有需要連出國玩了還依然離不開網路？
 

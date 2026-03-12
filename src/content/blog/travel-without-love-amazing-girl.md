@@ -1,13 +1,10 @@
 ---
 title: "在紐西蘭旅館遇見非關愛情的美麗女人"
-author: "迷走客"
 description: "在紐西蘭旅館遇見非關愛情的美麗女人"
-publishedDate: 2012-10-14
+pubDate: 2012-10-14
 tags: ["台北人","哲學","女人","愛情","旅館","櫃檯","紐西蘭","自助旅行","香菸"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 幾年前在紐西蘭王國的一趟自助旅行，迷走在基督城的下榻旅館中，遇見了一位年輕女人。
 

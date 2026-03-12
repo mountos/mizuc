@@ -1,13 +1,10 @@
 ---
 title: "我的烏鴉嘴人生：沉默是金的人生自白"
-author: "迷走客"
 description: "我的烏鴉嘴人生：沉默是金的人生自白"
-publishedDate: 2025-05-01
+pubDate: 2025-05-01
 tags: ["墜機","天災","烏鴉嘴","自助旅行","預言"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 我這人，說好聽點是「言出法隨」，說難聽點就是個不折不扣的烏鴉嘴。
 

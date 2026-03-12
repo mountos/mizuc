@@ -1,13 +1,10 @@
 ---
 title: "搭火車去宜蘭南澳「南興冰菓室」吃紅豆牛奶冰加雞蛋"
-author: "迷走客"
 description: "搭火車去宜蘭南澳「南興冰菓室」吃紅豆牛奶冰加雞蛋"
-publishedDate: 2018-11-18
+pubDate: 2018-11-18
 tags: ["南澳","南澳火車站","台灣","宜蘭","神秘海灘","紅豆","紅豆牛奶冰","計程車","雞蛋"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 宜蘭的末端，有著一處位在山裡，卻離海邊很近的小地方：「南澳」。
 

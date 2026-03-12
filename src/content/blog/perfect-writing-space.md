@@ -1,13 +1,10 @@
 ---
 title: "我想像中的完美閱讀與寫作空間設計"
-author: "迷走客"
 description: "我想像中的完美閱讀與寫作空間設計"
-publishedDate: 2022-12-29
+pubDate: 2022-12-29
 tags: ["咖啡","寫作","沙發","清水模","空間設計","閱讀"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 > 如果你可以自由選擇，打造一個專門閱讀和寫作的完美空間。 這個空間會是什麼樣子？
 

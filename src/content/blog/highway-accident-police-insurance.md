@@ -1,13 +1,10 @@
 ---
 title: "高速公路車禍：國道警察、保險公司交涉內幕"
-author: "迷走客"
 description: "高速公路車禍：國道警察、保險公司交涉內幕"
-publishedDate: 2022-02-03
+pubDate: 2022-02-03
 tags: ["保險","恐嚇","理賠","車禍","高速公路"]
 category: "walk"
 heroImage: ""
-draft: false
-showToC: true
 ---
 先前的《[高雄岡山高速公路收費站前被小混混BMW追撞車禍](https://mizuc.com/kaohsiung-highway-traced-accident-by-bmw/)》經歷中，迷走號在高雄岡山被一輛小混混開的BMW 7系列追尾車禍後，因為對方肇事逃逸的關係，我跟謝宗翔（小翔）兩人，就在高速公路的路肩，慢慢地等國道警察到來。
 

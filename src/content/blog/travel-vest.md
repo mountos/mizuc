@@ -1,13 +1,10 @@
 ---
 title: "從900到5500元的北極狐背心，我的迷走旅行神器"
-author: "迷走客"
 description: "從900到5500元的北極狐背心，我的迷走旅行神器"
-publishedDate: 2025-04-13
+pubDate: 2025-04-13
 tags: ["北極狐","戶外服飾","網路購物","背心","野外求生"]
 category: "roam"
 heroImage: ""
-draft: false
-showToC: true
 ---
 我大概是全中華民國臺澎金馬地區，最愛穿背心的男人了。
 
