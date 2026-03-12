@@ -2,7 +2,7 @@ import { defineThemeConfig } from './types'
 
 export default defineThemeConfig({
   site: 'https://mizuc.com',
-  title: '迷走客',
+  title: '迷走客（英譯：Mizuc Travel）',
   description: '去探險，去感受，這個真實而獨特的世界。',
   author: '迷走客',
   navbarItems: [
