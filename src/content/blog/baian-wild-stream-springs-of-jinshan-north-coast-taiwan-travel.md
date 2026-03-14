@@ -14,11 +14,9 @@ heroImage: ""
 
 至於為什麼叫5K，你們實際到了入口處就會曉得了。其實這個野溪溫泉跟當地八煙溫泉會館、八煙溫泉步道都在同一個位置。
 
-*   [八煙溫泉會館 Baian Hotspring Resort](https://www.google.com/maps/search/?api=1&query=25.20301,121.592316)
-
 下面這張照片，是躺在八煙野溪溫泉池裡就能欣賞到的野性景觀。只是我們終於抵達野溪溫泉，而且跳下去泡湯的時候也才清晨五點，天色根本黑到沒法拍攝，這張還是泡完後等天空微亮才重新取景。
 
-![](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-01-1-300x225.jpg)
+![八煙野溪溫泉的溪景](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-01.jpg)
 
 金山的八煙野溪溫泉堪稱美好的秘境，夠天然夠原始。清晨抵達溫泉區時已經有五、六個人正在泡湯。雖然大多是阿公、阿嬤等級的長輩讓人感到有點惋惜。六點時已經出現更多人，不過年齡跟我們相仿的，一個也沒有！
 
@@ -26,7 +24,7 @@ heroImage: ""
 
 下面這張照片是從陽金公路的入口一路走到野溪溫泉區的路上風景。大家可以想想看，我們還是摸黑在走這種路。
 
-![](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-02-1-300x225.jpg)
+![八煙野溪溫泉的溪景](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-02.jpg)
 
 沒有月亮的夜晚，溪邊一切環境都是漆黑一色，從入口到溫泉一趟走下來也花了將近半個小時。四個大男人還只能倚靠我隨手帶來的一支手電筒。
 
@@ -38,38 +36,38 @@ heroImage: ""
 
 從照片應該就能看出道路雖然被車輪壓出很大一條，但是地上的崎嶇和雜石還是有可能在夜晚上讓人絆倒，走在這裡時還是需要多加注意。
 
-![](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-06-1-300x225.jpg)
+![八煙野溪溫泉的山路](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-06.jpg)
 
  下面照片是一民跟阿剛合照（超難得組合），是不是充滿日劇的氛圍？就差橙黃沙灘跟碧藍大海當背景了。
 
-![](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-07-1-300x225.jpg)
+![一民與阿剛的合照](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-07.jpg)
 
 前面曾經說過，金山的八煙野溪溫泉是一處很原始的秘境。實際上野溪溫泉所在區域受到官方管制，原本是一個不准閒雜人等隨意進入的管制區！
 
-![](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-08-1-300x225.jpg)
+![八煙野溪溫泉的溪景](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-08.jpg)
 
- 下面這還蠻漂亮的瀑布照片，如果在現場看的話其實就只是水溝等級的小瀑布。 
+下面這還蠻漂亮的瀑布照片，如果在現場看的話其實就只是水溝等級的小瀑布。 
 
-![](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-09-1-300x225.jpg)
+![八煙野溪溫泉的瀑布](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-09.jpg)
 
 下面照片是一行人準備上車回家前的最後回頭一拍！
 
 原本八煙野溪溫泉就是座落在深山野林之中，如果不是前人們逐漸拓展開來的道路和規劃（甚至連更衣區都有），我們也不可能如此輕鬆就能抵達吧（熟門熟路的甚至把車都開到野溪堤岸）。
 
-![](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-10-1-300x225.jpg)
+![八煙野溪溫泉的山景](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-10.jpg)
 
 下面照片是我難得一見的照片，泡完野溪溫泉一早回家時，在車上不小心睡著，被謝宗翔（小翔）偷拍的背後剪影。跟賭神從來都不拍照，只有背影照片一張一樣（帥氣）。
 
-![](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-03-1-300x225.jpg)
+![被偷拍的迷走](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-03.jpg)
 
 下面是開車的一民偷睡時被拍的背後剪影。
 
-![](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-04-1-300x225.jpg)
+![一民開車的背影](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-04.jpg)
 
 不對，他沒睡，不然我現在就沒辦法寫這篇遊記了。
 
 下面是傳說中的北海岸。經常跑的人應該光是重溫這片風景也能猜出位置，畢竟我們自己都經常在跑北海岸，很能理解海岸邊的細微差異！
 
-![](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-05-1.jpg)
+![北海岸公路](../../assets/images/2018/12/jinshan-travel-baian-Wild-stream-springs-05.jpg)
 
 反正一定在我家到金山之間的路上！（被圍毆）

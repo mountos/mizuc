@@ -20,7 +20,7 @@ heroImage: ""
 
 以印象來說，南興冰菓室的冰較為樸實，而建華的冰多了幾分點綴。
 
-[![南興冰菓室](../../assets/images/2018-11-shaved-ice-with-red-beans-milk-egg-in-nanao-Yilan-01-1-1.jpg)](https://mizuc.com/yilan-travel-take-train-to-nanao-to-eat-shaved-ice-with-red-beans-milk-egg/shaved-ice-with-red-beans-milk-egg-in-nanao-yilan-01/)
+![南興冰菓室](../../assets/images/2018/11/shaved-ice-with-red-beans-milk-egg-in-nanao-Yilan-01.jpg)
 
 南澳內部陳設（南澳冰菓室）
 
@@ -30,7 +30,7 @@ heroImage: ""
 
 因為我在從神秘海灘準備一路「走」回南澳火車站的路上，已經累到快癱在地上，而建華還得再過一個馬路，下次吧。
 
-[![南澳冰店](../../assets/images/2018-11-shaved-ice-with-red-beans-milk-egg-in-nanao-Yilan-02-1-1.jpg)](https://mizuc.com/yilan-travel-take-train-to-nanao-to-eat-shaved-ice-with-red-beans-milk-egg/shaved-ice-with-red-beans-milk-egg-in-nanao-yilan-02/)
+![南澳冰店](../../assets/images/2018/11/shaved-ice-with-red-beans-milk-egg-in-nanao-Yilan-02.jpg)
 
 冰品配料區
 
@@ -38,7 +38,7 @@ heroImage: ""
 
 尤其當那顆雞蛋被拌入冰裡時，奇妙的凝固現象總是讓我看了嘖嘖稱奇。
 
-[![南澳冰店](../../assets/images/2018-11-shaved-ice-with-red-beans-milk-egg-in-nanao-Yilan-03.jpg)](https://mizuc.com/yilan-travel-take-train-to-nanao-to-eat-shaved-ice-with-red-beans-milk-egg/shaved-ice-with-red-beans-milk-egg-in-nanao-yilan-03/)
+![南澳冰店](../../assets/images/2018/11/shaved-ice-with-red-beans-milk-egg-in-nanao-Yilan-03.jpg)
 
 紅豆牛奶冰 + 雞蛋
 

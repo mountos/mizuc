@@ -14,13 +14,13 @@ heroImage: ""
 
 可愛的外包裝無論送晚輩、平輩還是長輩都相當適宜，而且即使在機場的售價也屬於平價，不會給收禮者帶來負擔，是非常好的伴手禮選項。
 
-![岡山伴手禮菓子](../../assets/images/2018-12-Okayama-Japanese-Sweet-Rice-Cake-Ganso-Kibidango-1-1-1.jpg)
+![岡山伴手禮菓子](../../assets/images/2018/12/Okayama-Japanese-Sweet-Rice-Cake-Ganso-Kibidango-1.jpg)
 
 日本岡山伴手禮「菓子」包裝盒
 
 為了服務外國遊客，包裝盒側邊除了有整體設計感的可愛圖形外，還用英文書寫點心的詳細資料。
 
-![Okayama Japanese Sweet Rice Cake Ganso Kibidango 2](../../assets/images/2018-12-Okayama-Japanese-Sweet-Rice-Cake-Ganso-Kibidango-2-1-1.jpg)
+![Okayama Japanese Sweet Rice Cake Ganso Kibidango 2](../../assets/images/2018/12/Okayama-Japanese-Sweet-Rice-Cake-Ganso-Kibidango-2.jpg)
 
 日本岡山伴手禮「菓子」包裝盒側面
 
@@ -28,31 +28,31 @@ heroImage: ""
 
 從這邊可以看出商品名稱就叫做「菓子」。不過我還是得抱怨一下，日本機場有一堆商品都是叫這個名字，但是內容物卻可能天差地遠，就不能精準點嗎？（翻桌）
 
-![Okayama Japanese Sweet Rice Cake Ganso Kibidango 3](../../assets/images/2018-12-Okayama-Japanese-Sweet-Rice-Cake-Ganso-Kibidango-3-1-1.jpg)
+![Okayama Japanese Sweet Rice Cake Ganso Kibidango 3](../../assets/images/2018/12/Okayama-Japanese-Sweet-Rice-Cake-Ganso-Kibidango-3.jpg)
 
 日本岡山伴手禮「菓子」成份說明
 
 打開外包裝，印入眼簾的是可愛超大桃太郎頭像，裡頭還有店長寫給顧客的話與一些商家介紹（不過我看不懂就是了，丟）。
 
-![Okayama Japanese Sweet Rice Cake Ganso Kibidango 4](../../assets/images/2018-12-Okayama-Japanese-Sweet-Rice-Cake-Ganso-Kibidango-4-1-1.jpg)
+![Okayama Japanese Sweet Rice Cake Ganso Kibidango 4](../../assets/images/2018/12/Okayama-Japanese-Sweet-Rice-Cake-Ganso-Kibidango-4.jpg)
 
 日本岡山伴手禮「菓子」開箱桃太郎
 
 一小盒裡面有十粒丸子。
 
-![Okayama Japanese Sweet Rice Cake Ganso Kibidango 5](../../assets/images/2018-12-Okayama-Japanese-Sweet-Rice-Cake-Ganso-Kibidango-5-1-1.jpg)
+![Okayama Japanese Sweet Rice Cake Ganso Kibidango 5](../../assets/images/2018/12/Okayama-Japanese-Sweet-Rice-Cake-Ganso-Kibidango-5.jpg)
 
 日本岡山伴手禮「菓子」10顆包裝
 
 每一顆丸子的外包紙袋都印有不同造型的可愛圖形（不過內容物都是一樣的）。
 
-![Okayama Japanese Sweet Rice Cake Ganso Kibidango 8](../../assets/images/2018-12-Okayama-Japanese-Sweet-Rice-Cake-Ganso-Kibidango-8-1-1.jpg)
+![Okayama Japanese Sweet Rice Cake Ganso Kibidango 8](../../assets/images/2018/12/Okayama-Japanese-Sweet-Rice-Cake-Ganso-Kibidango-8.jpg)
 
 每一個果子都有不同的設計
 
 吉備丸子的包裝紙袋採用日本和紙，外面印有廣榮堂本店的印章，相當富有日本設計的典雅精神。
 
-![Okayama Japanese Sweet Rice Cake Ganso Kibidango 6](../../assets/images/2018-12-Okayama-Japanese-Sweet-Rice-Cake-Ganso-Kibidango-6-1-1.jpg)
+![Okayama Japanese Sweet Rice Cake Ganso Kibidango 6](../../assets/images/2018/12/Okayama-Japanese-Sweet-Rice-Cake-Ganso-Kibidango-6.jpg)
 
 每一個菓子上都印有「廣榮堂本店」
 
@@ -60,7 +60,7 @@ heroImage: ""
 
 對於愛吃甜食的人來說可能會不夠甜，但是我覺得這種清香的甜度其實相當適合，即使是長輩也不會覺得太膩。
 
-![岡山伴手禮菓子](../../assets/images/2018-12-Okayama-Japanese-Sweet-Rice-Cake-Ganso-Kibidango-7-1-1.jpg)
+![岡山伴手禮菓子](../../assets/images/2018/12/Okayama-Japanese-Sweet-Rice-Cake-Ganso-Kibidango-7.jpg)
 
 日本岡山伴手禮「菓子」實體
 

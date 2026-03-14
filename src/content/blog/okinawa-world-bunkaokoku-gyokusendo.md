@@ -10,23 +10,23 @@ heroImage: ""
 
 ## 沖繩世界
 
-沖繩世界\[1\]位於南部的南城市，距離那霸機場約18公里，開車約需30分鐘左右。不想開車也可選擇市內公車搭乘，平日搭乘乘客不多，不用擔心會沒有位子可坐。
+沖繩世界[^1]位於南部的南城市，距離那霸機場約18公里，開車約需30分鐘左右。不想開車也可選擇市內公車搭乘，平日搭乘乘客不多，不用擔心會沒有位子可坐。
 
 在日本的南國海島上悠哉隨著公車在路面起伏，沿路靜瑟的海島風光本身就是一品。
 
 下面圖一和圖二就是沖繩世界的門票正面和反面，留存影像下來，以後想起這些旅遊體驗也是有趣的回憶念想。
 
-![okinawa world bunkaokoku gyokusendo ticket front](../../assets/images/2021-10-okinawa-world-bunkaokoku-gyokusendo-ticket-front-scaled-1.jpg)
+![okinawa world bunkaokoku gyokusendo ticket front](../../assets/images/2021/10/okinawa-world-bunkaokoku-gyokusendo-ticket-front.jpg)
 
 沖繩世界門票（玉泉洞、王國村）背面
 
-![okinawa world bunkaokoku gyokusendo ticket front](../../assets/images/2021-10-okinawa-world-bunkaokoku-gyokusendo-ticket-back-scaled-1.jpg)
+![okinawa world bunkaokoku gyokusendo ticket front](../../assets/images/2021/10/okinawa-world-bunkaokoku-gyokusendo-ticket-back.jpg)
 
 圖二，沖繩世界門票（玉泉洞、王國村）背面
 
 ### 玉泉洞
 
-沖繩世界最知名的景點莫過於鐘乳石洞「玉泉洞」，全長超過5000公尺（平常開放區域僅有890公尺），是日本國境內首屈一指的大規模鐘乳石洞窟，夏天時甚至有秘密行程可以跟隨專家探訪未開放區域（需報名預約\[2\]）。
+沖繩世界最知名的景點莫過於鐘乳石洞「玉泉洞」，全長超過5000公尺（平常開放區域僅有890公尺），是日本國境內首屈一指的大規模鐘乳石洞窟，夏天時甚至有秘密行程可以跟隨專家探訪未開放區域（需報名預約[^2]）。
 
 因為迷走實在太喜歡洞穴探險的感覺，自己跑去三次都是衝著這個地底洞穴。（另外位於日本宇都宮市的大谷石地下採掘場跡也是一絕，喜歡地底世界的人，有機會一定要去一次看看。）
 
@@ -42,37 +42,18 @@ heroImage: ""
 
 ## 沖繩世界園區資訊
 
-設施名稱
-
-沖繩世界（文化王國、玉泉洞）
-
-地址
-
-日本國沖繩縣南城市玉城字前川1336 
-
-MAPCODE
-
-232 495 333\*86
-
-營業時間
-
-早上9點至下午6點（最後入場時間：下午5點）
-
-門票費用
-
-「玉泉洞＋琉球王國城下町(王國村)＋毒蛇博物館公園套票」：成人1,700日圓、兒童850日圓  
-「玉泉洞＋琉球王國城下町(王國村)」：成人1,300日圓、兒童650日圓  
-「毒蛇博物館公園」：成人650日圓、兒童330日圓  
-如果想要玩遍沖繩世界的所有設施，請購買「套票」  
-※兒童乃指4歲至國中生，高中生以成人費用計算。
-
-聯絡電話
-
-098-949-7421（無提供中文服務）
-
-停車場
-
-免費
+* **設施名稱**：沖繩世界（文化王國、玉泉洞）
+* **地址**：日本國沖繩縣南城市玉城字前川1336
+* **MAPCODE**：232 495 333*86
+* **營業時間**：早上9點至下午6點（最後入場時間：下午5點）
+* **門票費用**：
+  * 「玉泉洞＋琉球王國城下町(王國村)＋毒蛇博物館公園套票」：成人1,700日圓、兒童850日圓
+  * 「玉泉洞＋琉球王國城下町(王國村)」：成人1,300日圓、兒童650日圓
+  * 「毒蛇博物館公園」：成人650日圓、兒童330日圓
+  * 如果想要玩遍沖繩世界的所有設施，請購買「套票」
+  * ※兒童乃指4歲至國中生，高中生以成人費用計算。
+* **聯絡電話**：098-949-7421（無提供中文服務）
+* **停車場**：免費
 
 ### 交通資訊
 
@@ -86,6 +67,7 @@ MAPCODE
 
 ## 延伸閱讀
 
-1.  [沖繩世界（文化王國、玉泉洞）中文官方網站](https://www.gyokusendo.co.jp/okinawaworld/)
-2.  夏季限定：[玉泉洞洞窟探險預約網站（日文）](https://www.gyokusendo.co.jp/okinawaworld/okinawacave/exploration.html)
-3.  [沖繩民謠、吶喊「IYASASA（いやささ）」日文有何含義？](https://aissue.com/what-the-iyasasa-in-okinawa-japan-means/)
+[^1]: [沖繩世界（文化王國、玉泉洞）中文官方網站](https://www.gyokusendo.co.jp/okinawaworld/)
+[^2]: 夏季限定：[玉泉洞洞窟探險預約網站（日文）](https://www.gyokusendo.co.jp/okinawaworld/okinawacave/exploration.html)
+
+3: [沖繩民謠、吶喊「IYASASA（いやささ）」日文有何含義？](https://aissue.com/what-the-iyasasa-in-okinawa-japan-means/)

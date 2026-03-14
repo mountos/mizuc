@@ -12,7 +12,7 @@ heroImage: ""
 
 大家只要從大馬路的入口走進樹林，不到五分鐘就能輕鬆飽覽迷幻的藍色光牆景觀，這可是其他商業探險所無法比擬的私房景點。
 
-![紐西蘭南島 Glow Worm Dell](../../assets/images/2019-07-Glow-Worm-Dell-Kumara-Jct-Hwy-Seaview-West-Coast-New-Zealand-1-1.jpg)
+![紐西蘭南島 Glow Worm Dell](../../assets/images/2019/07/Glow-Worm-Dell-Kumara-Jct-Hwy-Seaview-West-Coast-New-Zealand.jpg)
 
 紐西蘭南島 Glow Worm Dell
 

@@ -26,7 +26,7 @@ heroImage: ""
 
 旭海中正大草原擁有將近300公頃的廣大平坦地形，自然也被軍方接收進行管制使用。因此，旭海村民眾後來另外開發村子東北方與牡丹鼻山南麓一塊規模僅有140公頃的草原，並命名為「旭海親親大草原」，也通稱旭海大草原。
 
-![大尖山](https://mizuc.com/wp-content/uploads/2019/01/Taiwan-Travel-around-in-Pingtung-Kenting-Dajianshan-1-1.jpg)
+![大尖山](../../assets/images/2019/01/Taiwan-Travel-around-in-Pingtung-Kenting-Dajianshan.jpg)
 
 從旭海草原遠眺屏東墾丁的大尖山
 
@@ -40,7 +40,7 @@ heroImage: ""
 
 即使特意繞了車城、鵝鑾鼻後歷經千辛萬苦總算達到了旭海草原，卻又找不到門路可以上去。終於幾經探索後，才在看起來不起眼的鐵皮屋外看到一個看板，寫到可以前往旭海親親大草原。
 
-![](https://mizuc.com/wp-content/uploads/2019/01/Taiwan-Travel-around-in-Pingtung-Xuhai-Scene-1-1.jpg)
+![旭海親親大草原的海景](../../assets/images/2019/01/Taiwan-Travel-around-in-Pingtung-Xuhai-Scene.jpg)
 
 旭海大草原一景
 
