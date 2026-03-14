@@ -1,0 +1,27 @@
+
+> mizuc@0.0.1 build
+> astro build
+
+20:22:13 [content] Syncing content
+20:22:14 [content] Synced content
+20:22:14 [types] Generated 1.49s
+20:22:14 [build] output: "static"
+20:22:14 [build] mode: "static"
+20:22:14 [build] directory: /Users/mountos/Downloads/webDev/Mountos Institute/mizuc/dist/
+20:22:14 [build] Collecting build info...
+20:22:14 [build] ✓ Completed in 1.54s.
+20:22:14 [build] Building static entrypoints...
+20:22:18 [ERROR] [vite] ✗ Build failed in 4.33s
+[ImageNotFound] [commonjs--resolver] Could not find requested image `../../assets/images/2019-03-Scoot-Aviation-Cabin-Seat-Boeing-787-201903-1-scaled-1.jpeg`. Does it exist?
+  Hint:
+    This is often caused by a typo in the image path. Please make sure the file exists, and is spelled correctly.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/image-not-found/
+  Location:
+    /Users/mountos/Downloads/webDev/Mountos Institute/mizuc/node_modules/astro/dist/content/vite-plugin-content-assets.js:31:17
+  Stack trace:
+    at Object.resolveId (file:///Users/mountos/Downloads/webDev/Mountos%20Institute/mizuc/node_modules/astro/dist/content/vite-plugin-content-assets.js:31:17)
+    at async resolveId (file:///Users/mountos/Downloads/webDev/Mountos%20Institute/mizuc/node_modules/rollup/dist/es/shared/node-entry.js:20880:26)
+    at async Object.resolveId (file:///Users/mountos/Downloads/webDev/Mountos%20Institute/mizuc/node_modules/vite/dist/node/chunks/dep-D4NMHUTW.js:2835:10)
+    at async resolveId (file:///Users/mountos/Downloads/webDev/Mountos%20Institute/mizuc/node_modules/rollup/dist/es/shared/node-entry.js:20880:26)
+    at async file:///Users/mountos/Downloads/webDev/Mountos%20Institute/mizuc/node_modules/rollup/dist/es/shared/node-entry.js:21621:50

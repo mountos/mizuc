@@ -1,0 +1,27 @@
+
+> mizuc@0.0.1 build
+> astro build
+
+20:23:05 [content] Syncing content
+20:23:05 [content] Synced content
+20:23:05 [types] Generated 1.58s
+20:23:05 [build] output: "static"
+20:23:05 [build] mode: "static"
+20:23:05 [build] directory: /Users/mountos/Downloads/webDev/Mountos Institute/mizuc/dist/
+20:23:05 [build] Collecting build info...
+20:23:05 [build] ✓ Completed in 1.64s.
+20:23:05 [build] Building static entrypoints...
+20:23:09 [ERROR] [vite] ✗ Build failed in 4.35s
+[ImageNotFound] [commonjs--resolver] Could not find requested image `../../assets/images/2012-11-One-Piece-Companionship-Friendship.jpg`. Does it exist?
+  Hint:
+    This is often caused by a typo in the image path. Please make sure the file exists, and is spelled correctly.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/image-not-found/
+  Location:
+    /Users/mountos/Downloads/webDev/Mountos Institute/mizuc/node_modules/astro/dist/content/vite-plugin-content-assets.js:31:17
+  Stack trace:
+    at Object.resolveId (file:///Users/mountos/Downloads/webDev/Mountos%20Institute/mizuc/node_modules/astro/dist/content/vite-plugin-content-assets.js:31:17)
+    at async resolveId (file:///Users/mountos/Downloads/webDev/Mountos%20Institute/mizuc/node_modules/rollup/dist/es/shared/node-entry.js:20880:26)
+    at async Object.resolveId (file:///Users/mountos/Downloads/webDev/Mountos%20Institute/mizuc/node_modules/vite/dist/node/chunks/dep-D4NMHUTW.js:2835:10)
+    at async resolveId (file:///Users/mountos/Downloads/webDev/Mountos%20Institute/mizuc/node_modules/rollup/dist/es/shared/node-entry.js:20880:26)
+    at async file:///Users/mountos/Downloads/webDev/Mountos%20Institute/mizuc/node_modules/rollup/dist/es/shared/node-entry.js:21621:50
