@@ -21,13 +21,13 @@ const pageDescription = `The latest news from 迷走客${page.currentPage > 1 ? 
 ---
 <Layout title={pageTitle} description={pageDescription}>
 	<section class="post-list">
-		<h2>Latest Posts</h2>
+		<h2 class="section-title">最新文章</h2>
 		<ul>
 			{page.data.map((post) => (
 				<li>
 					<a href={`/blog/${post.slug}/`} class="post-link">
-						<span class="post-date">{post.data.pubDate.toLocaleDateString('en-US')}</span>
 						<h3 class="post-title">{post.data.title}</h3>
+						<span class="post-date">{post.data.pubDate.toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
 						{post.data.description && <p class="post-description">{post.data.description}</p>}
 					</a>
 				</li>
@@ -39,12 +39,15 @@ const pageDescription = `The latest news from 迷走客${page.currentPage > 1 ? 
 </Layout>
 
 <style>
-	.post-list h2 {
-		font-size: 2rem;
+	.post-list .section-title {
+		font-size: 1.8rem;
 		font-family: var(--font-serif);
-		margin-bottom: 2.5rem;
-		border-bottom: 1px solid var(--color-border);
+		font-weight: 700;
+		color: #1a1a18;
+		margin-bottom: 3rem;
+		border-bottom: 2px solid rgba(0, 0, 0, 0.05); /* very light seal line */
 		padding-bottom: 1rem;
+		letter-spacing: 0.1em;
 	}
 	.post-list ul {
 		list-style: none;
@@ -52,38 +55,42 @@ const pageDescription = `The latest news from 迷走客${page.currentPage > 1 ? 
 		margin: 0;
 	}
 	.post-list li {
-		margin-bottom: 2.5rem;
+		margin-bottom: 3.5rem;
 	}
 	.post-link {
 		display: block;
 		text-decoration: none;
 		color: var(--color-text);
-		transition: opacity 0.2s ease;
+		transition: opacity 0.3s ease;
 	}
 	.post-link:hover {
-		opacity: 0.7;
+		opacity: 0.75;
 	}
 	.post-date {
 		display: block;
+		font-family: var(--font-serif);
 		font-size: 0.85rem;
-		color: #999;
-		margin-bottom: 0.4rem;
+		color: #8c8c88;
+		margin-top: 0.5rem;
+		margin-bottom: 1rem;
 		letter-spacing: 0.05em;
 	}
 	.post-title {
 		font-family: var(--font-serif);
-		font-size: 1.5rem;
+		font-size: 1.6rem;
 		font-weight: 700;
-		margin: 0 0 0.5rem 0;
-		line-height: 1.4;
+		margin: 0;
+		line-height: 1.35;
+		color: #1a1a18;
+		letter-spacing: 0.05em;
 	}
 	.post-description {
-		font-size: 1rem;
-		color: #666;
+		font-size: 1.05rem;
+		color: #555;
 		margin: 0;
-		line-height: 1.6;
+		line-height: 1.8;
 		display: -webkit-box;
-		-webkit-line-clamp: 2;
+		-webkit-line-clamp: 3;
 		-webkit-box-orient: vertical;
 		overflow: hidden;
 	}

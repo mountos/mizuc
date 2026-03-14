@@ -28,6 +28,16 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+  color: #1a1a18;
+  line-height: 1.4;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
 }
 
 .main-content {
@@ -47,9 +57,9 @@ header {
   right: 0;
   height: var(--header-height);
   background-color: rgba(253, 251, 247, 0.85);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  border-bottom: 1px solid rgba(230, 228, 222, 0.5);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
   display: flex;
   align-items: center;
   z-index: 1000;
@@ -73,19 +83,21 @@ header {
 
 .site-title {
   font-family: var(--font-serif);
-  font-size: 1.6rem;
-  font-weight: 700;
+  font-size: 1.75rem;
+  font-weight: 800;
   margin: 0;
   line-height: 1.2;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.1em; /* Increased spacing for an elegant look */
   color: var(--color-text);
 }
 
 .site-description {
+  font-family: var(--font-serif);
   font-size: 0.85rem;
-  color: #666;
-  margin: 0.2rem 0 0 0;
-  line-height: 1;
+  color: #6a6a66;
+  margin: 0.3rem 0 0 0;
+  line-height: 1.4;
+  letter-spacing: 0.03em;
 }
 
 .nav-buttons {
@@ -102,15 +114,17 @@ header {
   border: 1px solid transparent;
   border-radius: 4px;
   background-color: transparent;
-  color: #555;
+  color: #6a6a66;
   font-size: 0.95rem;
+  font-family: var(--font-serif);
+  letter-spacing: 0.05em;
   text-decoration: none;
   transition: all 0.3s ease;
 }
 
 .nav-buttons a.nav-link:hover {
   color: var(--color-text);
-  border-bottom-color: var(--color-text);
+  border-bottom-color: rgba(45, 45, 42, 0.3);
   border-radius: 0;
 }
 
