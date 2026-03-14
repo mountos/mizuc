@@ -5,6 +5,12 @@ const { frontmatter, headings } = Astro.props;
 
 const hasHeadings = headings.filter(h => h.depth > 1 && h.depth < 4).length > 0;
 const primaryCategory = frontmatter.categories?.[0] || frontmatter.category;
+const categoryMap: Record<string, string> = {
+  'roam': '漫遊',
+  'walk': '行路',
+  'guide': '路引'
+};
+const displayCategory = primaryCategory ? (categoryMap[primaryCategory.toLowerCase()] || primaryCategory) : null;
 ---
 <Layout title={`${frontmatter.title}`} description={frontmatter.description}>
 
@@ -30,7 +36,9 @@ const primaryCategory = frontmatter.categories?.[0] || frontmatter.category;
         {primaryCategory && (
           <div class="meta-item">
             <span class="label">分類</span>
-            <span class="value">{primaryCategory}</span>
+            <span class="value">
+              <a href={`/categories/${primaryCategory}`} class="tag-link">{displayCategory}</a>
+            </span>
           </div>
         )}
         {frontmatter.tags?.length > 0 && (

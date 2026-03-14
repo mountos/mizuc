@@ -5,6 +5,12 @@ const posts = await getCollection('blog');
 const allCategories = posts.flatMap(post => post.data.categories || (post.data.category ? [post.data.category] : []));
 const uniqueCategories = [...new Set(allCategories)];
 
+const categoryMap: Record<string, string> = {
+  'roam': '漫遊',
+  'walk': '行路',
+  'guide': '路引'
+};
+
 const today = new Date();
 ---
 <footer>
@@ -18,12 +24,12 @@ const today = new Date();
       </div>
       <div class="footer-menus">
         <div class="footer-menu">
-          <h4>Categories</h4>
+          <h4>全站分類</h4>
           <ul>
             {uniqueCategories.slice(0, 5).map(category => (
-              <li><a href={`/categories/${category}`}>{category}</a></li>
+              <li><a href={`/categories/${category}`}>{categoryMap[category.toLowerCase()] || category}</a></li>
             ))}
-            {uniqueCategories.length > 5 && <li><a href="/categories">...More</a></li>}
+            {uniqueCategories.length > 5 && <li><a href="/categories">...更多</a></li>}
           </ul>
         </div>
         <div class="footer-menu">
@@ -46,29 +52,29 @@ const today = new Date();
     <div class="footer-bottom">
       <p class="copyright">&copy; {today.getFullYear()} 迷走客. Powered by <a href="https://mountos.com/" target="_blank">Mountos</a>.</p>
       <div class="footer-socials">
-        <a href="#" class="social-link" aria-label="Facebook" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://www.facebook.com/Mizuc/" class="social-link" aria-label="Facebook" rel="nofollow noopener noreferrer" target="_blank">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor">
             <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0 0 3.504 0 8.049c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05h2.03v-2.072c0-2.008 1.192-3.1 3.022-3.1.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951"/>
           </svg>
         </a>
-        <a href="#" class="social-link" aria-label="X" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://x.com/intent/user?screen_name=mizucer" class="social-link" aria-label="X" rel="nofollow noopener noreferrer" target="_blank">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor">
             <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-1.148 12.877h1.68l-6.57-8.875h-1.68l6.57 8.875Z"/>
           </svg>
         </a>
-        <a href="#" class="social-link" aria-label="TikTok" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://lin.ee/mgRos7c" class="social-link" aria-label="LINE" rel="nofollow noopener noreferrer" target="_blank">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor">
+            <path d="M8 0c4.411 0 8 2.912 8 6.492 0 3.143-2.618 5.865-6.38 6.425-.436.082-.82-.016-1.159-.286-.239-.19-.345-.487-.417-.89l-.261-1.378c-.019-.101-.064-.204.044-.298.109-.094.226-.062.333-.038C10.743 10.74 13.5 8.941 13.5 6.492 13.5 3.791 11.033 1.6 8 1.6C4.967 1.6 2.5 3.791 2.5 6.492c0 2.21 1.761 4.148 4.343 4.757.17.04.356.126.356.286v1.36c0 .26-.14.364-.326.364h-.01c-3.79-.533-6.863-3.08-6.863-6.767C0 2.912 3.589 0 8 0zM4.773 8.35c-.004.22-.196.398-.415.398H3.344a.406.406 0 0 1-.408-.408V5.006c0-.224.181-.406.405-.406.223 0 .404.182.404.406v2.536h1.026c.22 0 .398.196.398.414.004-.006.004-.006 0-.006zm2.34-.398a.406.406 0 0 1-.408.408H5.688a.406.406 0 0 1-.408-.408V5.006c0-.224.18-.406.404-.406h1.018a.406.406 0 0 1 .408.408zm2.251-.408a.406.406 0 0 1-.404.408H8.341c-.22 0-.398-.196-.398-.415V5.007c0-.224.181-.407.404-.407.224 0 .408.183.408.407v2.535zm1.517 0a.406.406 0 0 1-.408.408H9.375a.406.406 0 0 1-.408-.408V5.006c0-.224.181-.406.405-.406h1.098a.406.406 0 0 1 .408.408v.006zm-1.022-2.13h.624a.406.406 0 0 1 0 .813h-.624a.406.406 0 0 1 0-.813zm0-1.127h.624a.406.406 0 0 1 0 .812h-.624a.406.406 0 0 1 0-.812v.005zm0 2.253h.624a.406.406 0 0 1 .004.814h-.624a.406.406 0 0 1 0-.814z"/>
+          </svg>
+        </a>
+        <a href="https://www.tiktok.com/@mizuc.com?_t=8m3EQOn38IU&_r=1" class="social-link" aria-label="TikTok" rel="nofollow noopener noreferrer" target="_blank">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor">
             <path d="M9 0h1.98c.144.715.54 1.617 1.235 2.512C12.895 3.389 13.797 4 15 4v2c-1.753 0-3.07-.814-4-1.829V11a5 5 0 1 1-5-5v2a3 3 0 1 0 3 3z"/>
           </svg>
         </a>
-        <a href="#" class="social-link" aria-label="YouTube" rel="nofollow noopener noreferrer" target="_blank">
+        <a href="https://youtube.com/@mizuc?sub_confirmation=1" class="social-link" aria-label="YouTube" rel="nofollow noopener noreferrer" target="_blank">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor">
             <path d="M8.051 1.999h.084c.822.006 4.337.017 5.797.048 2.19.074 3.48 1.625 3.48 3.554 0 2.848-.062 4.09-.062 4.09s-.063 1.242-.063 4.09c0 1.929-1.29 3.48-3.48 3.554-1.46.03-4.976.048-5.797.048h-.084c-.822-.006-4.337-.017-5.797-.048-2.19-.074-3.48-1.625-3.48-3.554 0-2.848.062-4.09.062-4.09s.063-1.242.063-4.09c0-1.929 1.29-3.48 3.48-3.554 1.46-.03 4.976.048 5.797.048zM6.425 12.28l5.71-3.28-5.71-3.28v6.56z"/>
-          </svg>
-        </a>
-        <a href="mailto:info@example.com" class="social-link" aria-label="Email" rel="nofollow noopener noreferrer" target="_blank">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor">
-            <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z"/>
           </svg>
         </a>
       </div>
