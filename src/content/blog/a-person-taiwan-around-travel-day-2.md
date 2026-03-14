@@ -54,7 +54,7 @@ heroImage: ""
 
 其實ㄧ開始也不是真的打算步行環湖，想說應該不會太大，看一看也就算了。結果沒想到，一走下去就是沒完沒了了。
 
-![花蓮鯉魚潭](http://mizuc.com/wp-content/uploads/2019/01/Taiwan-Travel-around-in-Hualien-Liyutan-1.jpg)
+![花蓮鯉魚潭](../../assets/images/2019/01/Taiwan-Travel-around-in-Hualien-Liyutan.jpg)
 
 花蓮鯉魚潭景觀
 
@@ -112,7 +112,7 @@ heroImage: ""
 
 開著車倒頭，沿著省道台九線公路回去台東的富里，那邊是省道臺23線公路的入口。不過當我到了公路入口處附近時，找半天竟然一時找不到公路在哪裡，挖哩咧，不是省道嗎？怎麼入口跟普通巷子差不多而已？忽然心中升起一股不妙的感覺，這條省道好像怪怪的。
 
-![省23號公路](http://mizuc.com/wp-content/uploads/2019/01/Taiwan-Travel-around-in-Hualien-Mountain-Road-1.jpg)
+![省23號公路](../../assets/images/2019/01/Taiwan-Travel-around-in-Hualien-Mountain-Road.jpg)
 
 神秘山路景一
 
@@ -126,7 +126,7 @@ heroImage: ""
 
 嗯，如果不看一線道的去向路一大半掉落到山谷的話，用想像的話，其實省23號公路還算是蠻好開的一段路。姑且就先稱省23號公路為神秘肉包路吧！  
 
-![省23號公路](http://mizuc.com/wp-content/uploads/2019/01/Taiwan-Travel-around-in-Hualien-Mountain-Road-Scene-02-1.jpg)
+![省23號公路](../../assets/images/2019/01/Taiwan-Travel-around-in-Hualien-Mountain-Road-Scene-02.jpg)
 
 神秘山路景二
 
@@ -136,7 +136,7 @@ heroImage: ""
 
 延伸閱讀：《[金崙溫泉旅館：台東開車自駕旅行第二日的濕氣與泡麵](https://mizuc.com/hot-spring-hotel-of-jinlum-taitung/)》  
 
-![金崙溫泉旅館](http://mizuc.com/wp-content/uploads/2019/01/Taiwan-Travel-around-in-Taitung-Jinlun-Hot-Spring-1.jpg)
+![金崙溫泉旅館](../../assets/images/2019/01/Taiwan-Travel-around-in-Taitung-Jinlun-Hot-Spring.jpg)
 
 金崙溫泉旅館
 

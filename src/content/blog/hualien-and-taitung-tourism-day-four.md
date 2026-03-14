@@ -14,13 +14,13 @@ heroImage: ""
 
 我的年輕辣妹呢？都跑去哪了？（被毆）
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-59-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-59/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-59-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-59/)
 
 知本溫泉飯店的游泳池
 
 從房間看出去，在飯店後方的大樓，蠻有生活感，有人曬衣服跟拖把，有的還有遮雨棚，像是一般公寓住宅的房間。能住在這種偏僻的知本，還特地住在集合型住宅，感覺是用來度假專用。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-60-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-60/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-60-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-60/)
 
 飯店後面的大樓
 
@@ -28,7 +28,7 @@ heroImage: ""
 
 以後去知本的人，一定要指定我們540房．的．對．面．喔！
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-61-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-61/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-61-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-61/)
 
 知本溫泉飯店的大門
 
@@ -42,7 +42,7 @@ heroImage: ""
 
 下面照片是台東最先開始出名的肉包子店「東河肉包」，這也是我心木東惡中華民國四大肉包之一，和民雄肉包、鹿港肉包與新竹黑貓包齊名。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-62-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-62/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-62-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-62/)
 
 台東「東河包子」
 
@@ -56,13 +56,13 @@ heroImage: ""
 
 > 全球一共有9座北迴歸線碑，中華民國就有3座北迴歸線標誌，一座位在台灣島西部的嘉義縣水上機場，一處在台灣島東部的花蓮瑞穗鄉台9線上的舞鶴鄉（海岸公路）， 一處在台灣東部的花蓮台11線豐濱鄉的靜浦村（花東縱谷）。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-63-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-63/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-63-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-63/)
 
 北回歸線（海線）
 
 用不一樣的角度再拍一張剪影，挺具有戲劇效果的。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-64-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-64/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-64-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-64/)
 
 北回歸線
 
@@ -72,13 +72,13 @@ heroImage: ""
 
 晚上直接睡在車上，除了夏天的熱氣外，還有玩車的跑去那邊試車廂音響，讓人幾乎是一夜難眠。隔天一早還跑去附近的早餐店吃早餐，順便去參觀小華生活過五年的學校。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-66-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-66/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-66-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-66/)
 
 花蓮大漢大學外的 7-Eleven
 
 大漢技術學院的校門口，上一次環島因為只帶著尼康 Nikon FM2 底片相機，也沒有拍太多照片，這次算補拍吧。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-67-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-67/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-67-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-67/)
 
 大漢技術學院的校門
 
@@ -86,19 +86,19 @@ heroImage: ""
 
 明明也不是假日，到了雪山隧道依然塞車中。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-68-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-68/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-68-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-68/)
 
 雪山隧道塞車中
 
 最後用超長 12.6 公里的隧道尾巴來替這次環島旅行（失敗篇）做一個結尾（超累）。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-69-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-69/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-69-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-69/)
 
 雪山隧道出口
 
 歸賦，連太陽公公都來道晚安。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-70-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-70/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-70-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-70/)
 
 國道上的太陽公公
 
@@ -116,7 +116,7 @@ heroImage: ""
     *   第三日：紅葉溫泉→瑞穗牧場→池上→太麻裏→知本溫泉。
     *   第四日：知本溫泉→花蓮市→蘇花公路→雪山隧道→淡水。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-71-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-71/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-71-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-71/)
 
 花蓮、台東四日環島路線地圖。
 

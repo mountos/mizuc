@@ -10,37 +10,37 @@ heroImage: ""
 
 一大早開車跑沒多久後，就看到一間無須多說的熱門景點「瑞穗牧場」。每次經過都得進去繞一圈的點，這次當然也不例外得進去吃吃喝喝。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-31-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-31/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-31-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-31/)
 
 花蓮瑞穗牧場的小吃部
 
 櫃檯裡站著一大早就開始辛勤工作的一群工作人員，可愛的女生顏值頗高。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-32-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-32/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-32-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-32/)
 
 瑞穗牧場的小吃部
 
 瑞穗牧場的牛的鮮奶，味道非常香醇濃厚，一杯三十元，每到必點。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-33-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-33/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-33-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-33/)
 
 瑞穗牧場販售的新鮮牛奶
 
 用牧場生產牛奶做成的鮮奶冰淇淋，口味較為清淡，應該沒特別另外加入香精。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-34-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-34/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-34-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-34/)
 
 瑞穗牧場的冰淇淋
 
 牧場小吃部的屋外一角，感覺還蠻有幾何感的。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-35-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-35/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-35-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-35/)
 
 瑞穗牧場小吃部的建築結構
 
 小吃部外空蕩蕩的桌椅，看來我們三人真的太早來了。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-36-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-36/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-36-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-36/)
 
 瑞穗牧場小吃部
 
@@ -50,7 +50,7 @@ heroImage: ""
 
 > 全球一共有9座北迴歸線碑，中華民國就有3座北迴歸線標誌，一座位在台灣島西部的嘉義縣水上機場，一處在台灣島東部的花蓮瑞穗鄉台9線上的舞鶴鄉（海岸公路）， 一處在台灣東部的花蓮台11線豐濱鄉的靜浦村（花東縱谷）。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-37-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-37/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-37-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-37/)
 
 北回歸線
 
@@ -58,31 +58,31 @@ heroImage: ""
 
 感覺像是一頭外星怪物從天而降後開始攻擊迷走號。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-38-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-38/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-38-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-38/)
 
 北回歸線與迷走號
 
 前往太麻里尋找金針花的路上，此時海拔高度約在600M左右，但是一望無際的藍色大海已經被厚厚的雲層藏了起來。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-39-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-39/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-39-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-39/)
 
 往太麻里的路上
 
 同樣的地方，從另一邊看出去就是山景了，大量的人工開墾痕跡讓人感覺台灣島上真的土地寸土寸金。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-40-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-40/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-40-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-40/)
 
 往太麻里的路上
 
 終於看到金針花了，這還是我第一次來對季節。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-41-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-41/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-41-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-41/)
 
 太麻里的金針花
 
 金針花的花蕊其實很值得一番觀察，畢竟這麼大也算城市中難得一見的生態學教材。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-42-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-42/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-42-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-42/)
 
 金針花的花蕊
 
@@ -94,19 +94,19 @@ heroImage: ""
 
 因為很重要所以得說三次。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-43-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-43/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-43-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-43/)
 
 金針花田
 
 為了證明我真的在拍花田而已再來一張。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-44-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-44/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-44-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-44/)
 
 金針花田
 
 滿山谷的金針花田讓台東太麻里成為夏天必來的熱門景點之一。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-45-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-45/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-45-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-45/)
 
 滿山谷的金針花田
 
@@ -114,7 +114,7 @@ heroImage: ""
 
 不過實際上到了太麻里要再往山上開車一大段距離才能看到金針花，沿路的山路雖然有些會規劃成單向道，不過實際開車體驗還是需要一點點小技術就是了。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-46-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-46/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-46-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-46/)
 
 金針花田
 
@@ -124,31 +124,31 @@ heroImage: ""
 
 雖然忘憂也不是不行，因為要開進這山谷的路況還挺糟，一個不小心說不定真的忘憂了（喂）。
 
-[![忘憂谷](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-47-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-47/)
+[![忘憂谷](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-47-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-47/)
 
 太麻里金針花：忘憂谷
 
 大家可以從下面這張照片看出山坡的斜度，山坡上的金針花不太容易看清楚，仔細看還是有的。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-48-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-48/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-48-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-48/)
 
 迷走號在忘憂谷
 
 下午的時候會有雲霧飄緲在忘憂谷裡，充滿著望幽的意境。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-49-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-49/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-49-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-49/)
 
 忘憂谷
 
 在太麻里山區里偶而可看見的紫色小花。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-50-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-50/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-50-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-50/)
 
 路邊的野花
 
 從金針山下來後，原本想直接開車去屏東四重溪溫泉，不過濃重的烏雲已經逐漸在天空上成型。下面照片是我們一行人在台東的省道上看到的海景。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-51-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-51/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-51-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-51/)
 
 大雨來臨前的台東大海
 
@@ -156,25 +156,25 @@ heroImage: ""
 
 仔細看的話，看起來也很像日本繩紋時代的火焰陶器。說不定幾千年前的日本土著也是在看過類似的暴風雨雲才有的靈感。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-52-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-52/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-52-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-52/)
 
 台東外海上的空島
 
 哇咧，開在中華民國臺灣省道第九號公路（簡稱台九線）上時瞬間下起大雨，而且是一下子變得超級大！
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-53-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-53/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-53-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-53/)
 
 台九線上的大雨
 
 沒一下子，台九線路面上已經開始積水。而且還是黃澄澄的泥水，看來附近土地已經被沖刷出來了。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-54-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-54/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-54-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-54/)
 
 台九線的路面積水
 
 再往南方開一點，簡直像泡在水裡一樣，連路都快看不見了。乾脆一路跟著砂石車慢慢開，安全第一。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-55-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-55/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-55-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-55/)
 
 台九線上大淹水
 
@@ -184,7 +184,7 @@ heroImage: ""
 
 看到下面這張照片的影像會讓人感覺是不是進入災區了。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-56-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-56/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-56-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-56/)
 
 台九線上淹大水
 
@@ -208,13 +208,13 @@ heroImage: ""
 
 到了櫃台就是先使出老規矩「殺價」。我們從兩千四殺到兩千。只是時間有點晚，戶外的溫泉游泳池剩沒幾小時能用。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-57-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-57/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-57-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-57/)
 
 知本溫泉飯店的房間
 
 其實這個溫泉飯店的房間也有點詭異。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-58-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-58/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-58-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-three/hualien-and-taitung-tourism-four-days-58/)
 
 知本溫泉飯店的房間內陳設與室內設計
 
@@ -244,7 +244,7 @@ heroImage: ""
     *   第三日：紅葉溫泉→瑞穗牧場→池上→太麻裏→知本溫泉。
     *   第四日：知本溫泉→花蓮市→蘇花公路→雪山隧道→淡水。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-71-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-71/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-71-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-71/)
 
 花蓮、台東四日環島路線地圖。
 

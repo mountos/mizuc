@@ -44,7 +44,7 @@ heroImage: ""
 
 回到旅館，一打開房間門就感覺到一股濕氣撲面而來，整個房間除了浴室，幾乎就是被照片中的雙人彈簧床給佔據了整個房間。
 
-[![台東金崙溫泉旅館](http://mizuc.com/wp-content/uploads/2018/11/JinLun-Hot-Spring-Hotel-TaiTung-1.jpg)](https://mizuc.com/hot-spring-hotel-of-jinlum-taitung/jinlun-hot-spring-hotel-taitung/)
+[![台東金崙溫泉旅館](../../assets/images/2018/11/JinLun-Hot-Spring-Hotel-TaiTung-1.jpg)](https://mizuc.com/hot-spring-hotel-of-jinlum-taitung/jinlun-hot-spring-hotel-taitung/)
 
 金崙溫泉旅館的房間
 

@@ -12,13 +12,13 @@ heroImage: ""
 
 雖然沒能趕上拍曙光的瞬間，但是山上的清晨光線依然迷人。隨手拍了幾張照片後便穿戴整齊，準備來個清晨健行，高山上的新鮮空氣可別浪費了。
 
-![Hualien-and-taitung-tourism-four-days-11](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-11-1.jpg)
+![Hualien-and-taitung-tourism-four-days-11](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-11-1.jpg)
 
 武陵農場的清晨魚肚光
 
 在太陽緩慢的上昇中，魚肚白被煎熟了。
 
-![Hualien-and-taitung-tourism-four-days-12](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-12-1.jpg)
+![Hualien-and-taitung-tourism-four-days-12](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-12-1.jpg)
 
 武陵農場的清晨光線
 
@@ -26,7 +26,7 @@ heroImage: ""
 
 聳立在眼前，剪個黑影，實在與清晨的天空很速配。
 
-![武陵農場](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-13-1.jpg)
+![武陵農場](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-13-1.jpg)
 
 武陵農場的樹
 
@@ -34,7 +34,7 @@ heroImage: ""
 
 如果沒人時，還可以直接下到溪畔，撈個幾尾來吃吃，做個煙燻鮭魚應該不錯（錯誤示範，小朋友勿學）。
 
-![Hualien-and-taitung-tourism-four-days-14](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-14-1.jpg)
+![Hualien-and-taitung-tourism-four-days-14](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-14-1.jpg)
 
 武陵橋
 
@@ -44,7 +44,7 @@ heroImage: ""
 
 從樹林中破林而出所取得的美景，名稱就叫做「朦朧與現實之間隙」好了。
 
-![Hualien-and-taitung-tourism-four-days-15](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-15-1.jpg)
+![Hualien-and-taitung-tourism-four-days-15](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-15-1.jpg)
 
 樹林
 
@@ -52,7 +52,7 @@ heroImage: ""
 
 照片的指示牌就是桃山的入山口，不過今天只是來晃晃而已，真要攀登的話，下次請早。
 
-![桃山登山口](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-16-1.jpg)
+![桃山登山口](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-16-1.jpg)
 
 桃山登山口入口
 
@@ -60,13 +60,13 @@ heroImage: ""
 
 噹噹噹噹，下面照片就是中華民國東勢林區管理處所管轄之武陵國家森林遊樂區（Wu-Ling National Forest Recreation Area of Republic of China）——金字招牌。
 
-![武陵國家森林遊樂區](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-17-1.jpg)
+![武陵國家森林遊樂區](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-17-1.jpg)
 
 武陵國家森林遊樂區看板
 
 這就是武陵比較多人知道可以觀賞煙燻鮭魚的觀魚台。
 
-![觀魚台](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-18-1.jpg)
+![觀魚台](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-18-1.jpg)
 
 武陵農場觀魚台
 
@@ -74,7 +74,7 @@ heroImage: ""
 
 像是下面照片的深潭和激流處就比較容易有所收穫。記得，趁四下無人時才能下釣竿，免得被抓去餵魚（被毆飛）。
 
-![Hualien-and-taitung-tourism-four-days-19](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-19-1.jpg)
+![Hualien-and-taitung-tourism-four-days-19](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-19-1.jpg)
 
 櫻花鉤吻鮭出沒處
 
@@ -82,35 +82,35 @@ heroImage: ""
 
 欣賞完山山水水後也到了離開武陵農場的時候。就在我們一行人朝著梨山前進，濃厚的白雲就在深山野嶺中漂浮著。
 
-![Hualien-and-taitung-tourism-four-days-20](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-20-1.jpg)
+![Hualien-and-taitung-tourism-four-days-20](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-20-1.jpg)
 
 深山裡漂浮的白雲
 
 好吧，我承認，我也不知道我為何要拍這座鐵橋，大概是——鐵橋也很美吧。
 
-![Hualien-and-taitung-tourism-four-days-21](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-21-1.jpg)
+![Hualien-and-taitung-tourism-four-days-21](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-21-1.jpg)
 
 台七線上的紅色鐵橋
 
-![Hualien-and-taitung-tourism-four-days-22](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-22-1.jpg)
+![Hualien-and-taitung-tourism-four-days-22](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-22-1.jpg)
 
 鐵橋旁的水溝，山上的一個奇景，你會看到有人把腳伸下水溝，你在都市看得到的話，算我輸你，很乾淨清澈的水溝水，重點是，冰冰冰冰冰。
 
-![Hualien-and-taitung-tourism-four-days-23](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-23-1.jpg)
+![Hualien-and-taitung-tourism-four-days-23](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-23-1.jpg)
 
 我說過是水溝了吧。
 
-![Hualien-and-taitung-tourism-four-days-24](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-24-1.jpg)
+![Hualien-and-taitung-tourism-four-days-24](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-24-1.jpg)
 
 「金馬隧道」自己查，這個隧道跟金馬獎有何關聯。
 
 隧道口一片矇矓，難道是我遇到什麼了嗎？
 
-![Hualien-and-taitung-tourism-four-days-25](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-25-1.jpg)
+![Hualien-and-taitung-tourism-four-days-25](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-25-1.jpg)
 
 不怕不怕，我八字重。
 
-![Hualien-and-taitung-tourism-four-days-26](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-26-1.jpg)
+![Hualien-and-taitung-tourism-four-days-26](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-26-1.jpg)
 
 原來才過一個隧道，對面已被濃霧所覆蓋。
 
@@ -120,9 +120,9 @@ heroImage: ""
 
 當時是冬天，一個冷到大屯山都會下雪的日子。一個晚上開著迷走號跑去陽明山上泡溫泉。後來沿著陽金公路想說繞去大屯山尋雪時，沒想到雪沒看到，卻發現山頂起霧了，而且是像乾冰般僅浮在地面上方的一層濃厚霧氣。膝蓋以上的空間則是通透到一個不可思議的地步，但是這種霧氣卻是唯一一次讓我完全看不到路，只能呆在山上打電話跟婉蓁聊天，也算是我迷走這麼多年來一次特別經驗。
 
-![Hualien-and-taitung-tourism-four-days-27](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-27-1.jpg)
+![Hualien-and-taitung-tourism-four-days-27](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-27-1.jpg)
 
-![Hualien-and-taitung-tourism-four-days-28](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-28-1.jpg)
+![Hualien-and-taitung-tourism-four-days-28](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-28-1.jpg)
 
 謝謝喔，讓我知道在霧裡有很多落石，連閃都不用閃了。
 
@@ -132,11 +132,11 @@ heroImage: ""
 
 這向來都是高山上的七大不可思議事件。
 
-![Hualien-and-taitung-tourism-four-days-29](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-29-1.jpg)
+![Hualien-and-taitung-tourism-four-days-29](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-29-1.jpg)
 
 這段路其實是中華民國台八線，從大禹嶺接往太魯閣的一段路，路況還不錯。至少比起宜蘭到武陵以及武陵到大禹嶺的那二段好太多了。
 
-![Hualien-and-taitung-tourism-four-days-30](http://mizuc.com/wp-content/uploads/2018/11/Hualien-and-taitung-tourism-four-days-30-1.jpg)
+![Hualien-and-taitung-tourism-four-days-30](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-30-1.jpg)
 
 今天中午左右就已經穿越太魯閣來到花蓮市，不過年獸此時提議說午餐分開來吃，就隨便他吧。
 
@@ -168,7 +168,7 @@ heroImage: ""
     *   第三日：紅葉溫泉→瑞穗牧場→池上→太麻裏→知本溫泉。
     *   第四日：知本溫泉→花蓮市→蘇花公路→雪山隧道→淡水。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-71-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-71/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-71-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-71/)
 
 花蓮、台東四日環島路線地圖。
 

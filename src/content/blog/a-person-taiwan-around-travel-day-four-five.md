@@ -34,7 +34,7 @@ heroImage: ""
 
 離開她們家後不久，在路邊小卡車上買了幾包鮮蝦餅當做伴手禮。
 
-![鮮蝦餅](http://mizuc.com/wp-content/uploads/2019/01/Taiwan-Travel-around-and-Shrimp-cake-in-Yongan-Tainan-1.jpg)
+![鮮蝦餅](../../assets/images/2019/01/Taiwan-Travel-around-and-Shrimp-cake-in-Yongan-Tainan-1.jpg)
 
 鮮蝦餅
 

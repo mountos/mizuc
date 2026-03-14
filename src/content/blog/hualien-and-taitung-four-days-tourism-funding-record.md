@@ -71,7 +71,7 @@ heroImage: ""
     *   第三日：紅葉溫泉→瑞穗牧場→池上→太麻裏→知本溫泉。
     *   第四日：知本溫泉→花蓮市→蘇花公路→雪山隧道→淡水。
 
-[![](http://mizuc.com/wp-content/uploads/2018/12/Hualien-and-taitung-tourism-four-days-71-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-71/)
+[![](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-71-1.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-71/)
 
 花蓮、台東四日環島路線地圖。
 

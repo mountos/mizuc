@@ -20,15 +20,15 @@ heroImage: ""
 
 ## 三峽祖師廟隨拍景色
 
-*   ![三峽祖師廟祭拜](http://mizuc.com/wp-content/uploads/2019/01/SanXia-Temple-Worship-gods-1.jpg)
+*   ![三峽祖師廟祭拜](../../assets/images/2019/01/SanXia-Temple-Worship-gods-1.jpg)
     
     三峽祖師廟祭拜
     
-*   ![三峽祖師廟金紙](http://mizuc.com/wp-content/uploads/2019/01/SanXia-Temple-1.jpg)
+*   ![三峽祖師廟金紙](../../assets/images/2019/01/SanXia-Temple-1.jpg)
     
     三峽祖師廟金紙
     
-*   ![三峽祖師廟燒香拜天](http://mizuc.com/wp-content/uploads/2019/01/SanXia-Temple-Worship-world-1.jpg)
+*   ![三峽祖師廟燒香拜天](../../assets/images/2019/01/SanXia-Temple-Worship-world-1.jpg)
     
     三峽祖師廟燒香拜天
     
@@ -43,7 +43,7 @@ heroImage: ""
 
 聽到警察哥哥們的這種說法，內心對藍染的期待都瞬間冷掉。只好安慰自己算了，或許附近有簡易版本的藍染教學，多晃一下說不定就能找到。
 
-![三峽老街](http://mizuc.com/wp-content/uploads/2019/01/SanXia-Old-Street-Scene-1.jpg)
+![三峽老街](../../assets/images/2019/01/SanXia-Old-Street-Scene-1.jpg)
 
 三峽老街街景
 
@@ -57,13 +57,13 @@ heroImage: ""
 
 不過當我們走到那條小路的盡頭，準備轉彎繼續前行時，我才發現這下子似乎得走很遠，看來那個簡易版地圖的比例尺有些「小」問題。
 
-![三峽旅遊](http://mizuc.com/wp-content/uploads/2019/01/SanXia-Old-Street-Indigo-Blue-Dyed-Cloth-Yvonne-Foot-1.jpg)
+![三峽旅遊](../../assets/images/2019/01/SanXia-Old-Street-Indigo-Blue-Dyed-Cloth-Yvonne-Foot-1.jpg)
 
 三峽老街旅遊走到痠
 
 為了怕一整路被盈慧碎念，還是決定先回去開車好了。哪曉得白眼看完左邊那條看似很遠、很遠的路後，向右一轉頭，立刻看到一棟建築物聳立在我們的眼前，幾個碩大的字更是不斷閃著我的眼睛：「三峽鎮公所」。
 
-![CAT](http://mizuc.com/wp-content/uploads/2019/01/adorable-angry-animal-portrait-cat-tiger-Disdain-1-200x300.jpeg)
+![CAT](../../assets/images/2019/01/adorable-angry-animal-portrait-cat-tiger-Disdain-1-200x300.jpeg)
 
 Orz，好吧，果然人民的保姆只是「應該」值得信賴。
 
@@ -83,7 +83,7 @@ Orz，好吧，果然人民的保姆只是「應該」值得信賴。
 
 我在那天製作的成品就在下面照片，看著自己作品其實有一股感概，科學家做出來的藝術品，還是充滿科學的味道（遠目羞）。
 
-![三峽藍染](http://mizuc.com/wp-content/uploads/2019/01/SanXia-Old-Street-Indigo-Blue-Dyed-Cloth-Jinliang-Lin-Design-1.jpg)
+![三峽藍染](../../assets/images/2019/01/SanXia-Old-Street-Indigo-Blue-Dyed-Cloth-Jinliang-Lin-Design-1.jpg)
 
 三峽藍染作品
 
