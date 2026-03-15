@@ -56,7 +56,30 @@ const displayCategory = primaryCategory ? (categoryMap[primaryCategory.toLowerCa
       <div class="content">
         <slot />
       </div>
+
+      <!-- Comment Section -->
+      <section class="comment-section">
+        <h3 class="comment-title">發表評論</h3>
+        <iframe 
+          src={`https://comment.mountos.com/embed/area/mizuc?page_key=${encodeURIComponent(Astro.url.pathname)}&theme=light&lang=zh-TW`}
+          class="comment-iframe"
+          id="comment-iframe"
+          loading="lazy"
+          title="Comments"
+        ></iframe>
+      </section>
     </article>
+
+    <script is:inline>
+      window.addEventListener('message', function(event) {
+        if (event.data && event.data.type === 'iframe-resize') {
+          const iframe = document.getElementById('comment-iframe');
+          if (iframe) {
+            iframe.style.height = event.data.height + 'px';
+          }
+        }
+      });
+    </script>
     
     {hasHeadings &&
       <aside class="toc-container">
@@ -218,5 +241,27 @@ const displayCategory = primaryCategory ? (categoryMap[primaryCategory.toLowerCa
     .toc-container {
       display: block;
     }
+  }
+
+  /* --- Comment Section --- */
+  .comment-section {
+    margin-top: 5rem;
+    padding-top: 3rem;
+    border-top: 2px solid rgba(0, 0, 0, 0.05);
+  }
+  .comment-title {
+    font-family: var(--font-serif);
+    font-size: 1.5rem;
+    color: #1a1a18;
+    margin-bottom: 2rem;
+    letter-spacing: 0.1em;
+  }
+  .comment-iframe {
+    width: 100%;
+    height: 300px; /* Initial height */
+    border: none;
+    overflow: hidden;
+    background: transparent;
+    transition: height 0.3s ease;
   }
 </style>
