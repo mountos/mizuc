@@ -1,5 +1,5 @@
 ---
-import Layout from "../layouts/Layout.astro";
+import BlogPostLayout from "../layouts/BlogPostLayout.astro";
 
 const categories = [
   {
@@ -123,101 +123,66 @@ const categories = [
     ]
   }
 ];
+
+const frontmatter = {
+  title: "旅遊資源庫",
+  description: "迷走客的自助旅行資源整合。沒錢靠走，有錢靠駿馬，有錢有權靠八人大轎。",
+  pubDate: new Date(),
+  heroImage: "/images/mizuc_travel_resources_hero.png",
+  category: "roam"
+};
 ---
 
-<Layout 
-  title="旅遊資源 | 迷走客" 
-  description="迷走客的自助旅行資源庫。精選租車、訂房、政府官方與旅遊地圖工具。"
->
-  <div class="static-page">
-    <header class="page-header">
-      <p class="header-label">Travel Resources</p>
-      <h1>旅遊資源庫</h1>
-    </header>
-    
-    <div class="content">
-      <p class="intro-text">
-        迷走客的自助旅行，沒錢靠走，有錢靠駿馬，有錢有權靠八人大轎。下面是迷走常用的旅遊工具與資源，希望能幫到大家，更輕鬆自由地到處迷走。
-      </p>
+<BlogPostLayout frontmatter={frontmatter} headings={[]}>
+  <p class="intro-text">
+    迷走客的自助旅行，沒錢靠走，有錢靠駿馬，有錢有權靠八人大轎。下面是迷走常用的旅遊工具與資源，希望能幫到大家，更輕鬆自由地到處迷走。
+  </p>
 
-      <div class="categories-grid">
-        {categories.map((category) => (
-          <section class="category-section">
-            <div class="category-header">
-              <h2>{category.title}</h2>
-              <p>{category.description}</p>
-            </div>
-            <div class="resources-grid">
-              {category.items.map((item) => (
-                <a href={item.url} target="_blank" rel="noopener nofollow" class="resource-card">
-                  <div class="card-icon">
-                    <span class={`icon-${item.icon}`}></span>
-                  </div>
-                  <div class="card-content">
-                    <h3>{item.name}</h3>
-                    <p>{item.desc}</p>
-                  </div>
-                  <div class="card-arrow">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                      <line x1="7" y1="17" x2="17" y2="7"></line>
-                      <polyline points="7 7 17 7 17 17"></polyline>
-                    </svg>
-                  </div>
-                </a>
-              ))}
-            </div>
-          </section>
-        ))}
-      </div>
-
-      <blockquote class="wandering-quote">
-        「迷路到處走，無拘無束，自由自在的人生觀。即便再痛苦，也要堅持自己的微笑。」
-      </blockquote>
-    </div>
+  <div class="categories-grid">
+    {categories.map((category) => (
+      <section class="category-section">
+        <div class="category-header">
+          <h2>{category.title}</h2>
+          <p>{category.description}</p>
+        </div>
+        <div class="resources-grid">
+          {category.items.map((item) => (
+            <a href={item.url} target="_blank" rel="noopener nofollow" class="resource-card">
+              <div class="card-icon">
+                <span class={`icon-${item.icon}`}></span>
+              </div>
+              <div class="card-content">
+                <h3>{item.name}</h3>
+                <p>{item.desc}</p>
+              </div>
+              <div class="card-arrow">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <line x1="7" y1="17" x2="17" y2="7"></line>
+                  <polyline points="7 7 17 7 17 17"></polyline>
+                </svg>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    ))}
   </div>
-</Layout>
+
+  <blockquote class="wandering-quote">
+    「迷路到處走，無拘無束，自由自在的人生觀。即便再痛苦，也要堅持自己的微笑。」
+  </blockquote>
+</BlogPostLayout>
 
 <style>
-  .static-page {
-    max-width: 960px;
-    margin: 0 auto;
-    padding-bottom: 5rem;
-  }
-
-  .page-header {
-    text-align: center;
-    margin-bottom: 4rem;
-    padding-top: 2rem;
-  }
-
-  .header-label {
-    font-size: 0.9rem;
-    text-transform: uppercase;
-    letter-spacing: 0.2em;
-    color: #8c8c88;
-    margin-bottom: 0.5rem;
-    display: block;
-  }
-
-  .page-header h1 {
-    font-size: 3.2rem;
-    font-family: var(--font-serif);
-    margin: 0;
-    color: #1a1a18;
-  }
-
-  .content {
-    font-size: 1.15rem;
-    line-height: 1.8;
-    color: var(--color-text);
-  }
-
+  /* Override styles since the layout handles general page setup */
   .intro-text {
     text-align: center;
     max-width: 720px;
     margin: 0 auto 5rem;
-    color: #4a4a48;
+    color: #8c8c88;
     font-style: italic;
+    font-family: var(--font-serif);
+    line-height: 1.8;
   }
 
   .categories-grid {
@@ -229,7 +194,7 @@ const categories = [
   .category-header {
     margin-bottom: 2.5rem;
     border-bottom: 1px solid rgba(0,0,0,0.05);
-    padding-bottom: 1rem;
+    padding-bottom: 1.2rem;
   }
 
   .category-header h2 {
@@ -237,7 +202,8 @@ const categories = [
     font-family: var(--font-serif);
     margin: 0 0 0.5rem 0;
     color: #1a1a18;
-    border: none; /* Reset global h2 border if any */
+    border: none;
+    letter-spacing: 0.05em;
   }
 
   .category-header p {
@@ -249,34 +215,35 @@ const categories = [
   .resources-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 1.5rem;
+    gap: 1.8rem;
   }
 
   .resource-card {
     display: flex;
     align-items: flex-start;
     padding: 1.5rem;
-    background: white;
+    background: #fdfbf7;
     border: 1px solid var(--color-border);
-    border-radius: 8px;
+    border-radius: 4px;
     text-decoration: none;
     color: inherit;
-    transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+    transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
     position: relative;
     overflow: hidden;
   }
 
   .resource-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 12px 24px rgba(0,0,0,0.06);
+    transform: translateY(-8px);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.08);
+    background: white;
     border-color: #8c8c88;
   }
 
   .card-icon {
     width: 48px;
     height: 48px;
-    background: #fdfbf7;
-    border-radius: 12px;
+    background: #f7f5f0;
+    border-radius: 4px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -292,12 +259,13 @@ const categories = [
   .card-content h3 {
     font-size: 1.15rem;
     font-family: var(--font-serif);
-    margin: 0 0 0.5rem 0;
+    margin: 0 0 0.6rem 0;
     color: #1a1a18;
+    line-height: 1.4;
   }
 
   .card-content p {
-    font-size: 0.9rem;
+    font-size: 0.88rem;
     line-height: 1.6;
     color: #6a6a66;
     margin: 0;
@@ -318,50 +286,40 @@ const categories = [
   }
 
   .wandering-quote {
-    margin: 6rem auto 0;
+    margin: 8rem auto 4rem;
     max-width: 600px;
     text-align: center;
     font-family: var(--font-serif);
     font-style: italic;
-    font-size: 1.25rem;
+    font-size: 1.3rem;
     color: #4a4a48;
-    line-height: 1.8;
+    line-height: 2;
     position: relative;
-    padding: 2rem;
-  }
-
-  .wandering-quote::before,
-  .wandering-quote::after {
-    content: '"';
-    font-size: 3rem;
-    color: rgba(0,0,0,0.05);
-    position: absolute;
+    padding: 3rem 2rem;
+    border-top: 1px solid rgba(0,0,0,0.05);
   }
 
   .wandering-quote::before {
-    top: 0;
-    left: 0;
+    content: '"';
+    font-size: 4rem;
+    color: rgba(0,0,0,0.03);
+    position: absolute;
+    top: -1.5rem;
+    left: 50%;
+    transform: translateX(-50%);
   }
 
-  .wandering-quote::after {
-    bottom: -1rem;
-    right: 0;
-  }
-
-  /* --- Simple Icon Simulation (Real projects use SVGs, I will use circles/dots for aesthetic placeholder icons if needed, but I'll add specific colors) --- */
+  /* Dot Simulation for icons */
   .card-icon::after {
     content: '';
-    width: 12px;
-    height: 12px;
+    width: 8px;
+    height: 8px;
     border-radius: 50%;
     background: #8c8c88;
-    opacity: 0.2;
+    opacity: 0.3;
   }
 
   @media (max-width: 768px) {
-    .page-header h1 {
-      font-size: 2.5rem;
-    }
     .resources-grid {
       grid-template-columns: 1fr;
     }
