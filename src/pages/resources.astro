@@ -1,0 +1,369 @@
+---
+import Layout from "../layouts/Layout.astro";
+
+const categories = [
+  {
+    title: "自駕租車",
+    description: "沒錢靠走，有錢靠駿馬。精選日本與全球專業租車服務。",
+    items: [
+      { 
+        name: "日本租車 (Tabirai)", 
+        url: "https://oon.me/tabiraijapancar", 
+        desc: "日本自助旅行首選，比價透明且包含免責補償。",
+        icon: "car" 
+      },
+      { 
+        name: "全球租車 (RentalCars)", 
+        url: "https://oon.me/rentalcars", 
+        desc: "全球最大租車比價網站，涵蓋超過 60,000 個地點。",
+        icon: "globe" 
+      },
+      { 
+        name: "Klook 交通/租車", 
+        url: "https://www.klook.com/zh-TW/transport/cars/", 
+        desc: "一站式預訂租車、火車票與機場接送，介面友善。",
+        icon: "ticket" 
+      }
+    ]
+  },
+  {
+    title: "民宿、旅館訂房",
+    description: "每個人總能找著自己喜歡的旅行方式，從百年旅館到溫馨民宿。",
+    items: [
+      { 
+        name: "日本住宿 (Japan Hotel)", 
+        url: "https://oon.me/japanhotel", 
+        desc: "深耕日本各地的精選住宿預訂資源。",
+        icon: "home" 
+      },
+      { 
+        name: "Booking.com", 
+        url: "https://www.booking.com/", 
+        desc: "全球最受歡迎的訂房網站，具備靈活的取消政策。",
+        icon: "building" 
+      },
+      { 
+        name: "Agoda", 
+        url: "https://www.agoda.com/", 
+        desc: "亞洲地區住宿選擇極多，常有隱藏版優惠房價。",
+        icon: "stars" 
+      }
+    ]
+  },
+  {
+    title: "政府機關",
+    description: "出發前的必要檢查，確保旅程安全無虞。",
+    items: [
+      { 
+        name: "外交部領事事務局", 
+        url: "https://www.boca.gov.tw", 
+        desc: "中華民國 🇹🇼 官方簽證、護照與旅安資訊查詢。",
+        icon: "landmark" 
+      },
+      { 
+        name: "旅外國人登錄系統", 
+        url: "https://www.boca.gov.tw/sp-abr-main-1.html", 
+        desc: "前往高風險區域或長途旅行時的必備登錄。",
+        icon: "shield" 
+      }
+    ]
+  },
+  {
+    title: "旅遊雜誌與傳媒",
+    description: "餵養心靈的風景，從專業報導中尋找下一趟迷走的靈感。",
+    items: [
+      { 
+        name: "BBC Travel", 
+        url: "http://www.bbc.com/travel", 
+        desc: "深度挖掘全球文化與獨特旅程的權威傳媒。",
+        icon: "book" 
+      },
+      { 
+        name: "NatGeo Travel", 
+        url: "https://www.nationalgeographic.com/travel/", 
+        desc: "國家地理雜誌，提供最震撼的攝影與地理探索。",
+        icon: "camera" 
+      },
+      { 
+        name: "鷹眼觀察", 
+        url: "https://www.vedfolnir.com", 
+        desc: "深度文化觀察與精準的科技旅遊思維。",
+        icon: "eye" 
+      },
+      { 
+        name: "Tamsuian (淡水人)", 
+        url: "https://tamsuian.com/", 
+        desc: "在地人文與淡水日常的細膩筆觸。",
+        icon: "anchor" 
+      }
+    ]
+  },
+  {
+    title: "規劃工具與資源",
+    description: "客製化你的秘密地圖，規劃一場無拘無束的精彩假期。",
+    items: [
+      { 
+        name: "Google Earth 地球", 
+        url: "https://www.google.com/earth/", 
+        desc: "從衛星視角預覽地形與環境，探險者的前導儀。",
+        icon: "map" 
+      },
+      { 
+        name: "Google My Maps", 
+        url: "https://oon.me/googlemymaps", 
+        desc: "客製化專屬景點地圖，迷走客最重要的規劃工具。",
+        icon: "pin" 
+      },
+      { 
+        name: "Skyscanner", 
+        url: "https://www.skyscanner.com.tw/", 
+        desc: "全球機票即時比價，尋找最超值的出走時機。",
+        icon: "plane" 
+      }
+    ]
+  }
+];
+---
+
+<Layout 
+  title="旅遊資源 | 迷走客" 
+  description="迷走客的自助旅行資源庫。精選租車、訂房、政府官方與旅遊地圖工具。"
+>
+  <div class="static-page">
+    <header class="page-header">
+      <p class="header-label">Travel Resources</p>
+      <h1>旅遊資源庫</h1>
+    </header>
+    
+    <div class="content">
+      <p class="intro-text">
+        迷走客的自助旅行，沒錢靠走，有錢靠駿馬，有錢有權靠八人大轎。下面是迷走常用的旅遊工具與資源，希望能幫到大家，更輕鬆自由地到處迷走。
+      </p>
+
+      <div class="categories-grid">
+        {categories.map((category) => (
+          <section class="category-section">
+            <div class="category-header">
+              <h2>{category.title}</h2>
+              <p>{category.description}</p>
+            </div>
+            <div class="resources-grid">
+              {category.items.map((item) => (
+                <a href={item.url} target="_blank" rel="noopener nofollow" class="resource-card">
+                  <div class="card-icon">
+                    <span class={`icon-${item.icon}`}></span>
+                  </div>
+                  <div class="card-content">
+                    <h3>{item.name}</h3>
+                    <p>{item.desc}</p>
+                  </div>
+                  <div class="card-arrow">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <line x1="7" y1="17" x2="17" y2="7"></line>
+                      <polyline points="7 7 17 7 17 17"></polyline>
+                    </svg>
+                  </div>
+                </a>
+              ))}
+            </div>
+          </section>
+        ))}
+      </div>
+
+      <blockquote class="wandering-quote">
+        「迷路到處走，無拘無束，自由自在的人生觀。即便再痛苦，也要堅持自己的微笑。」
+      </blockquote>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  .static-page {
+    max-width: 960px;
+    margin: 0 auto;
+    padding-bottom: 5rem;
+  }
+
+  .page-header {
+    text-align: center;
+    margin-bottom: 4rem;
+    padding-top: 2rem;
+  }
+
+  .header-label {
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: #8c8c88;
+    margin-bottom: 0.5rem;
+    display: block;
+  }
+
+  .page-header h1 {
+    font-size: 3.2rem;
+    font-family: var(--font-serif);
+    margin: 0;
+    color: #1a1a18;
+  }
+
+  .content {
+    font-size: 1.15rem;
+    line-height: 1.8;
+    color: var(--color-text);
+  }
+
+  .intro-text {
+    text-align: center;
+    max-width: 720px;
+    margin: 0 auto 5rem;
+    color: #4a4a48;
+    font-style: italic;
+  }
+
+  .categories-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 6rem;
+  }
+
+  .category-header {
+    margin-bottom: 2.5rem;
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+    padding-bottom: 1rem;
+  }
+
+  .category-header h2 {
+    font-size: 2rem;
+    font-family: var(--font-serif);
+    margin: 0 0 0.5rem 0;
+    color: #1a1a18;
+    border: none; /* Reset global h2 border if any */
+  }
+
+  .category-header p {
+    font-size: 1rem;
+    color: #8c8c88;
+    margin: 0;
+  }
+
+  .resources-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .resource-card {
+    display: flex;
+    align-items: flex-start;
+    padding: 1.5rem;
+    background: white;
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .resource-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 24px rgba(0,0,0,0.06);
+    border-color: #8c8c88;
+  }
+
+  .card-icon {
+    width: 48px;
+    height: 48px;
+    background: #fdfbf7;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 1.2rem;
+    flex-shrink: 0;
+    border: 1px solid rgba(0,0,0,0.03);
+  }
+
+  .card-content {
+    flex-grow: 1;
+  }
+
+  .card-content h3 {
+    font-size: 1.15rem;
+    font-family: var(--font-serif);
+    margin: 0 0 0.5rem 0;
+    color: #1a1a18;
+  }
+
+  .card-content p {
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: #6a6a66;
+    margin: 0;
+    padding-right: 1.5rem;
+  }
+
+  .card-arrow {
+    position: absolute;
+    top: 1.5rem;
+    right: 1.5rem;
+    color: #d1d1cf;
+    transition: transform 0.3s ease, color 0.3s ease;
+  }
+
+  .resource-card:hover .card-arrow {
+    transform: translate(3px, -3px);
+    color: #1a1a18;
+  }
+
+  .wandering-quote {
+    margin: 6rem auto 0;
+    max-width: 600px;
+    text-align: center;
+    font-family: var(--font-serif);
+    font-style: italic;
+    font-size: 1.25rem;
+    color: #4a4a48;
+    line-height: 1.8;
+    position: relative;
+    padding: 2rem;
+  }
+
+  .wandering-quote::before,
+  .wandering-quote::after {
+    content: '"';
+    font-size: 3rem;
+    color: rgba(0,0,0,0.05);
+    position: absolute;
+  }
+
+  .wandering-quote::before {
+    top: 0;
+    left: 0;
+  }
+
+  .wandering-quote::after {
+    bottom: -1rem;
+    right: 0;
+  }
+
+  /* --- Simple Icon Simulation (Real projects use SVGs, I will use circles/dots for aesthetic placeholder icons if needed, but I'll add specific colors) --- */
+  .card-icon::after {
+    content: '';
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #8c8c88;
+    opacity: 0.2;
+  }
+
+  @media (max-width: 768px) {
+    .page-header h1 {
+      font-size: 2.5rem;
+    }
+    .resources-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
