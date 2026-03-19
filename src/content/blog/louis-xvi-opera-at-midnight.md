@@ -4,7 +4,7 @@ description: "記錄一段都市傳說般的深夜驚悚體驗。當優雅的古
 pubDate: 2026-02-05
 tags: ["古典音樂", "歌劇", "深夜驚魂", "生活觀察", "路易十六", "都市傳說", "黑色幽默"]
 category: "walk"
-heroImage: ""
+heroImage: "../../assets/images/2026/02/Tamsui-River-Surface-Ripples.jpeg"
 ---
 
 我一直以為，西洋古典樂是優雅與文明的象徵。直到那個月黑風高的深夜，我的認知被一台破舊腳踏車徹底顛覆。

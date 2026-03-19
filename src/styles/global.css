@@ -3,9 +3,16 @@
   --max-width: 960px;
   --font-sans: 'Helvetica Neue', Helvetica, Arial, 'PingFang TC', 'Heiti TC', 'Microsoft JhengHei', sans-serif;
   --font-serif: 'Noto Serif TC', 'PMingLiU', 'Songti TC', serif;
-  --color-text: #2d2d2a;
-  --color-background: #fdfbf7;
-  --color-border: #e6e4de;
+  
+  /* --- Van Gogh Inspired Palette --- */
+  --color-primary: #0F4C81;      /* Starry Night Blue */
+  --color-secondary: #FAD02E;    /* Sunflower Gold */
+  --color-accent: #A64B2A;       /* Ochre / Terracotta */
+  --color-text: #2D2A26;         /* Warm Charcoal */
+  --color-text-muted: #6A665A;   /* Olive Grey */
+  --color-background: #FDFBF7;   /* Canvas Cream */
+  --color-border: #E6E4DE;       /* Soft Beige */
+  
   --header-height: 80px;
 }
 
@@ -33,7 +40,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-serif);
-  color: #1a1a18;
+  color: var(--color-primary);
   line-height: 1.4;
   margin-top: 2rem;
   margin-bottom: 1rem;
@@ -56,10 +63,10 @@ header {
   left: 0;
   right: 0;
   height: var(--header-height);
-  background-color: rgba(253, 251, 247, 0.85);
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  background-color: rgba(253, 251, 247, 0.85); /* Slightly transparent Canvas Cream */
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid rgba(15, 76, 129, 0.1); /* Subtle Primary Blue border */
   display: flex;
   align-items: center;
   z-index: 1000;
@@ -87,14 +94,14 @@ header {
   font-weight: 800;
   margin: 0;
   line-height: 1.2;
-  letter-spacing: 0.1em; /* Increased spacing for an elegant look */
-  color: var(--color-text);
+  letter-spacing: 0.1em;
+  color: var(--color-primary);
 }
 
 .site-description {
   font-family: var(--font-serif);
   font-size: 0.85rem;
-  color: #6a6a66;
+  color: var(--color-text-muted);
   margin: 0.3rem 0 0 0;
   line-height: 1.4;
   letter-spacing: 0.03em;
@@ -114,7 +121,7 @@ header {
   border: 1px solid transparent;
   border-radius: 4px;
   background-color: transparent;
-  color: #6a6a66;
+  color: var(--color-text-muted);
   font-size: 0.95rem;
   font-family: var(--font-serif);
   letter-spacing: 0.05em;
@@ -123,9 +130,10 @@ header {
 }
 
 .nav-buttons a.nav-link:hover {
-  color: var(--color-text);
-  border-bottom-color: rgba(45, 45, 42, 0.3);
+  color: var(--color-primary);
+  border-bottom-color: var(--color-secondary);
   border-radius: 0;
+  background-color: rgba(250, 208, 46, 0.05); /* Very subtle Sunflower gold glow */
 }
 
 .nav-link.search-link {
@@ -140,12 +148,12 @@ header {
 
 /* --- Footer --- */
 footer {
-  background-color: #f7f5f0;
-  color: #555;
+  background-color: #F8F6F1; /* Slightly darker Canvas Cream */
+  color: var(--color-text-muted);
   border-top: 1px solid var(--color-border);
   padding: 3rem 0 0 0;
   font-size: 0.95rem;
-  margin-top: auto; /* Pushes footer to the bottom */
+  margin-top: auto;
 }
 
 .footer-container {
@@ -167,6 +175,7 @@ footer {
 }
 
 .footer-intro h3 {
+  color: var(--color-primary);
   font-size: 1.5rem;
   font-weight: 700;
   margin-top: 0;
@@ -176,7 +185,7 @@ footer {
 .footer-intro p {
   line-height: 1.6;
   max-width: 350px;
-  color: #555;
+  color: var(--color-text-muted);
 }
 
 .footer-menus {
@@ -197,7 +206,7 @@ footer {
   font-weight: 600;
   margin-top: 0;
   margin-bottom: 1rem;
-  color: #333;
+  color: var(--color-primary);
 }
 
 .footer-menu ul {
@@ -212,12 +221,12 @@ footer {
 
 .footer-menu a {
   text-decoration: none;
-  color: #555;
+  color: var(--color-text-muted);
   transition: color 0.2s ease;
 }
 
 .footer-menu a:hover {
-  color: #000;
+  color: var(--color-primary);
 }
 
 .footer-bottom {
@@ -229,7 +238,7 @@ footer {
   border-top: 1px solid var(--color-border);
   padding: 1.5rem 0;
   font-size: 0.9rem;
-  color: #777;
+  color: var(--color-text-muted);
 }
 
 .copyright {
@@ -243,12 +252,13 @@ footer {
 }
 
 .social-link {
-  color: #777;
-  transition: color 0.2s ease;
+  color: var(--color-text-muted);
+  transition: all 0.2s ease;
 }
 
 .social-link:hover {
-  color: #333;
+  color: var(--color-primary);
+  transform: translateY(-2px);
 }
 
 .social-link svg {
@@ -256,11 +266,24 @@ footer {
   height: 22px;
 }
 
+/* --- Pagefind UI Theme Overrides --- */
+:root {
+  --pagefind-ui-primary: var(--color-primary);
+  --pagefind-ui-text: var(--color-text);
+  --pagefind-ui-background: var(--color-background);
+  --pagefind-ui-border: var(--color-border);
+  --pagefind-ui-tag: var(--color-secondary);
+}
+
+.pagefind-ui {
+  --pagefind-ui-font: var(--font-serif);
+}
+
 /* Make images in markdown content responsive */
 .content img {
   max-width: 100%;
   height: auto;
-  display: block; /* To remove extra space below image */
-  margin-left: auto; /* Center images */
-  margin-right: auto; /* Center images */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
