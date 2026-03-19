@@ -137,12 +137,128 @@ header {
 }
 
 .nav-link.search-link {
-  padding: 0.5rem; /* Make it square */
+  padding: 0.5rem;
 }
 
 .search-icon {
   width: 18px;
   height: 18px;
+}
+
+/* --- Mobile Menu Toggle --- */
+.menu-toggle {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  z-index: 1100;
+  margin-left: auto;
+}
+
+.hamburger {
+  display: block;
+  width: 24px;
+  height: 2px;
+  background-color: var(--color-primary);
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.hamburger::before,
+.hamburger::after {
+  content: '';
+  position: absolute;
+  width: 24px;
+  height: 2px;
+  background-color: var(--color-primary);
+  left: 0;
+  transition: all 0.3s ease;
+}
+
+.hamburger::before { top: -8px; }
+.hamburger::after { top: 8px; }
+
+/* Hamburger Active State */
+.menu-toggle.is-active .hamburger {
+  background-color: transparent;
+}
+.menu-toggle.is-active .hamburger::before {
+  top: 0;
+  transform: rotate(45deg);
+}
+.menu-toggle.is-active .hamburger::after {
+  top: 0;
+  transform: rotate(-45deg);
+}
+
+
+/* --- Responsive Header Styles --- */
+@media (max-width: 768px) {
+  .site-description {
+    display: none; /* Hidden visually, but still in the DOM for SEO */
+  }
+
+  .site-title {
+    font-size: 1.4rem;
+  }
+
+  .menu-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .nav-buttons {
+    display: none; /* CSS will handle showing it via .is-active */
+    position: fixed;
+    top: var(--header-height);
+    left: 0;
+    right: 0;
+    height: calc(100vh - var(--header-height));
+    background-color: rgba(253, 251, 247, 0.98);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    gap: 1.5rem;
+    z-index: 1050;
+    border-top: 1px solid rgba(15, 76, 129, 0.05);
+  }
+
+  .nav-buttons.is-active {
+    display: flex;
+    animation: slideDown 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  @keyframes slideDown {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .nav-buttons a.nav-link {
+    font-size: 1.25rem;
+    padding: 1rem 2rem;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.03);
+    color: var(--color-primary);
+  }
+  
+  .nav-buttons a.nav-link:last-child {
+    border-bottom: none;
+  }
+
+  .nav-buttons a.nav-link:hover {
+    background-color: rgba(250, 208, 46, 0.1);
+    border-radius: 8px;
+  }
+
+  body.menu-open {
+    overflow: hidden;
+  }
 }
 
 

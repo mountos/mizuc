@@ -22,25 +22,21 @@ const displayCategory = primaryCategory ? (categoryMap[primaryCategory.toLowerCa
   }
 
   <div class="hero-foreground-content">
-    {primaryCategory && <p class="hero-category">{primaryCategory}</p>}
+    {displayCategory && <p class="hero-category">{displayCategory}</p>}
     <h1 class="hero-title">{frontmatter.title}</h1>
   </div>
 
   <div class="blog-container">
     <article class="post">
+      <div class="content">
+        <slot />
+      </div>
+
       <div class="post-meta-bar">
         <div class="meta-item">
           <span class="label">日期</span>
           <span class="value">{frontmatter.pubDate.toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
         </div>
-        {primaryCategory && (
-          <div class="meta-item">
-            <span class="label">分類</span>
-            <span class="value">
-              <a href={`/categories/${primaryCategory}`} class="tag-link">{displayCategory}</a>
-            </span>
-          </div>
-        )}
         {frontmatter.tags?.length > 0 && (
           <div class="meta-item meta-tags">
             <span class="label">標籤</span>
@@ -51,10 +47,6 @@ const displayCategory = primaryCategory ? (categoryMap[primaryCategory.toLowerCa
             </div>
           </div>
         )}
-      </div>
-
-      <div class="content">
-        <slot />
       </div>
 
       <!-- Comment Section -->
@@ -133,12 +125,25 @@ const displayCategory = primaryCategory ? (categoryMap[primaryCategory.toLowerCa
     z-index: 5; /* Above the background hero, below main content */
   }
   .hero-category {
-    font-size: 1rem;
-    font-weight: 500;
-    letter-spacing: 0.15em;
+    font-family: var(--font-sans);
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 0.35em;
     text-transform: uppercase;
-    margin: 0 0 1rem 0;
+    margin: 0 0 1.5rem 0;
     opacity: 0.9;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    color: var(--color-secondary);
+  }
+  .hero-category::before,
+  .hero-category::after {
+    content: '';
+    width: 20px;
+    height: 1px;
+    background-color: currentColor;
+    opacity: 0.5;
   }
   .hero-title {
     font-family: var(--font-serif);
@@ -185,10 +190,11 @@ const displayCategory = primaryCategory ? (categoryMap[primaryCategory.toLowerCa
   }
 
   .post-meta-bar {
-    border-top: 1px solid var(--color-border);
-    border-bottom: 1px solid var(--color-border);
-    padding: 1.2rem 0;
-    margin-bottom: 3.5rem;
+    border-top: 1px dotted var(--color-border);
+    border-bottom: 1px dotted var(--color-border);
+    padding: 2rem 0;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
