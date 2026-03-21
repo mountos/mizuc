@@ -2,11 +2,10 @@
 title: "川普譯名新思維：房地產大亨的「創璞」之選"
 description: "趣味探討美國前總統唐納．川普（Donald J. Trump）的中文譯名。除了兩岸惡搞的「川建國」以外，結合其地產背景與建案奢華感，提出「創璞」這一兼具原音與品牌形象的雅化譯名。從淡水老家的新建案廣告中獲得的語言學靈感。"
 pubDate: 2025-05-03
-tags: ["川普", "房地產", "美國"]
 category: "roam"
-heroImage: "../../assets/images/National-Flag-of-Taiwan-Penghu-Kinmen-Matsu-Nansha-of-Republic-of-China-ROC.jpg"
+heroImage: "../../assets/images/gray-cat-eye-angry-pissed-off-mad-mood.jpeg"
+tags: ["川普", "房地產", "美國", "建案"]
 ---
-
 
 美國前總統 **Donald J. Trump**，其中文譯名「唐納．川普」已是深植人心的既存事實。
 
