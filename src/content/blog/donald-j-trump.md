@@ -4,8 +4,9 @@ description: "趣味探討美國前總統唐納．川普（Donald J. Trump）的
 pubDate: 2025-05-03
 tags: ["川普", "房地產", "美國"]
 category: "roam"
-heroImage: ""
+heroImage: "../../assets/images/National-Flag-of-Taiwan-Penghu-Kinmen-Matsu-Nansha-of-Republic-of-China-ROC.jpg"
 ---
+
 
 美國前總統 **Donald J. Trump**，其中文譯名「唐納．川普」已是深植人心的既存事實。
 
