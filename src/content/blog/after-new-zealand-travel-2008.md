@@ -4,7 +4,7 @@ description: "從紐西蘭中土大陸返回中華民國一年後的思索。記
 pubDate: 2008-02-20
 tags: ["冒險", "家鄉", "時光", "生活", "神秘", "紐西蘭"]
 category: "roam"
-heroImage: ""
+heroImage: "../../assets/images/shared/Travel-Macbook-Camera-Coffee-Camera-Bookk-Map-Pen-Hand.jpeg"
 ---
 
 勇者迷走客從紐西蘭（New Zealand）中土大陸的神祕國度返回家鄉後，轉眼間也過了一年無所事事的生活。
@@ -14,8 +14,6 @@ heroImage: ""
 直到有一天，勇者無意間從他所蒐藏的「書山」中，找出一本佈滿灰塵的冒險筆記本時，勇者的思緒漸漸地被拉回到那段在神祕國度的冒險時光。
 
 > **書山**：由於勇者圖書館藏書巨量，只能空出一個房間，讓書本以一本疊一本的方式堆疊出好幾個區域，導致房間內有著一座又一座的小山，簡稱為「書山」。
-
----
 
 ## 延伸閱讀
 

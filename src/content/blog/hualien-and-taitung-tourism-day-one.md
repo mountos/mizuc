@@ -4,7 +4,7 @@ description: "這是一場臨時起意的五天環島之旅，由淡水出發，
 pubDate: 2006-08-01
 tags: ["中華民國", "台七線", "台東", "台灣", "國道五號", "攝影機", "武陵農場", "海盜桶", "環島", "省道", "車禍", "雪山隧道"]
 category: "roam"
-heroImage: ""
+heroImage: "../../assets/images/ROC/Taiwan/Hualien/Hualien-and-taitung-tourism-four-days-10.jpg"
 ---
 
 一次隨意相約的場合下，預定五天的一場環島之旅就臨時訂下了。這次參加迷走之旅的人，不光只有我跟謝宗翔（小翔）這兩個本來就經常相約開車環島的老戰友，新成員是我們共同專科同學「年獸」。下面是我們第一日從淡水到台中武陵農場的行程紀錄。
@@ -15,7 +15,7 @@ heroImage: ""
 
 雖然一夥人的心已高歌飛往美麗的臺灣東部，現實卻是立刻陷在中華民國國道三號（北二高）。直到終於通過塞車結點後，才發現又是車禍。車禍也就算了，偏偏還是軍用卡車跟貨櫃車發生追撞事故！兩輛巨無霸佔據著高速公路好幾線道，雖然還剩下一線道可供通行，不過華人名產插隊車可不是浪得虛名，所有車輛只能緩慢行駛也是意料中事。
 
-![國道三號車禍現場](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-01.jpg)
+![國道三號車禍現場](../../assets/images/ROC/Taiwan/Hualien/Hualien-and-taitung-tourism-four-days-01.jpg)
 *國道三號車禍現場*
 
 尤其啊，那種從最內側車道慢慢移到最外側後，又摧估拉朽般切回最內側車道的那種莫名其妙的車輛，永遠是我們駕駛最鄙夷的對象。反正我是永遠不可能理解那些連基本的道路常識都不懂的駕駛。我只好善盡良心，幫他們想些理由。例如老婆快生了，或是一些... 嗯，還是別說的好。
@@ -26,7 +26,7 @@ heroImage: ""
 
 但是進入隧道沒多久卻立刻看到出口，我們三人的頭上就像是飛過幾隻烏鴉，內心只有點點點可以形容。後來又開過幾個隧道後，我們終於肯定接下來的一定才是正牌的「雪山隧道」。但是路牌上寫雪山隧道總長有 12.6 公里，會不會有點給他太長了些？
 
-![雪山隧道入口](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-02.jpg)
+![雪山隧道入口](../../assets/images/ROC/Taiwan/Hualien/Hualien-and-taitung-tourism-four-days-02.jpg)
 *雪山隧道入口*
 
 而且不僅隧道長，連開車限制都能列出一長串，例如速限必須維持在 50 至 70 公里間、開頭燈、保持車距 50 公尺等等。讓我們這種身性自由的開車駕駛感覺綁手綁腳，只覺得跑雪山隧道非常單調，還有些後悔。雖然走雪山隧道可以很快從臺北接到宜蘭，不過沒必要的話還是寧可跑北宜或濱海。如果有人笑我繞遠路的話，就假裝我有幽閉恐懼症好了。
@@ -39,7 +39,7 @@ heroImage: ""
 
 開在隧道內也稍微計算了一下，如果以時速 60KM 與約 15 秒即出現一台攝影機的計算後，可發現隧道內每 250 公尺就有一台攝影機。計算完後我內心又默默說了一次：「政府真是缺錢呀！」大概都被浪費跟貪污花光了（遠目）。
 
-![雪山隧道的那道光](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-03.jpg)
+![雪山隧道的那道光](../../assets/images/ROC/Taiwan/Hualien/Hualien-and-taitung-tourism-four-days-03.jpg)
 *雪山隧道的那道光*
 
 身為一名專業的科技宅，在這種時候也就會不自主想試試看傳說中的隧道無線電。我們特別在進隧道前就打開車上收音機，並且轉到警廣廣播電台。在進隧道前只會聽到喇叭發出滋滋滋的雜訊聲音。在進入隧道後約 100 公尺左右，就能聽到收音機像是被硬切換到隧道廣播，由此可知……………………我其實沒想法，只是單純寫下當紀錄。
@@ -50,7 +50,7 @@ heroImage: ""
 
 不過我得老實和大家說，宜蘭的空氣品質其實很糟糕。即使有些人在誇耀陳定南趕走六輕的同時，他們卻選擇性沒看到這個真相，往往輕易地就被宜蘭好山好水的政策宣傳辭令誘惑了。根據中華民國氣象局公佈的酸雨值來看，宜蘭的空氣有時候甚至比臺北市還糟糕，不過這邊就當給各位補充個常識好了，說太多只會招來網軍攻擊。
 
-![雪山隧道出口（宜蘭方向）](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-04.jpg)
+![雪山隧道出口（宜蘭方向）](../../assets/images/ROC/Taiwan/Hualien/Hualien-and-taitung-tourism-four-days-04.jpg)
 *雪山隧道出口（宜蘭方向）*
 
 沿著國道五號開下交流道也到了下午一兩點，隨便找了間號稱「開業五十年」的魚丸冬粉店。既然來到以食物立名的餐廳，那點一碗魚丸冬粉也是理所當然的事。嘛，雖然上面一句根本是廢話等級，不過偏偏有人硬是要點魚丸板條。只能賞年獸四枚白眼球。
@@ -63,32 +63,32 @@ heroImage: ""
 
 走進山裡的路上，不時能發現馬路旁山壁上滿佈著一條又一條的水管，水管甚至隨著鐵橋橫過山溝，令人不禁聯想到國中時玩過的一套遊戲「黑暗之蠱」，遊戲內容跟畫風在我腦海中留下深刻的印象就如同這些水管。無邊無際蔓延的水管似乎年久失修，斷的斷破的破，水都像噴泉般噴到馬路上，有些路段更像自動洗車機一般，十來條水柱在噴著，更誇張的，其中有一個地方的水管是橫跨過馬路上方的，水就這樣大量漏了下來，我也索性停在下方，就當洗車吧，忽然想到有開天窗的車經過的話，一定很精采。
 
-![往武陵農場路上的省道台七線](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-05.jpg)
+![往武陵農場路上的省道台七線](../../assets/images/ROC/Taiwan/Hualien/Hualien-and-taitung-tourism-four-days-05.jpg)
 *往武陵農場路上的省道台七線*
 
 往武陵的路上不斷映入眼簾的一片又一片田野風光，滿滿的綠意，恰好可以讓駕駛的疲累眼睛獲得短暫的休憩。
 
-![省道台七線上的田園風光](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-06.jpg)
+![省道台七線上的田園風光](../../assets/images/ROC/Taiwan/Hualien/Hualien-and-taitung-tourism-four-days-06.jpg)
 *省道台七線上的田園風光*
 
 話說回來，武陵的入園費也是爆貴的，比起太平山有過之而無不及，不僅要算人頭還要算車頭。入園後，在遊客中心對面有著一座吊橋「兆豐橋」，橋的對面有著茶園，還有無數隻翩然於花叢間的曙鳳蝶，極搶鏡頭。
 
-![武陵農場兆豐橋](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-07.jpg)
+![武陵農場兆豐橋](../../assets/images/ROC/Taiwan/Hualien/Hualien-and-taitung-tourism-four-days-07.jpg)
 *武陵農場兆豐橋*
 
 在山頭的一角處，有著平地不易見到的可愛雲朵，美麗的藍白漸層，更令人驚豔。
 
-![武陵農場的白雲飄飄](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-08.jpg)
+![武陵農場的白雲飄飄](../../assets/images/ROC/Taiwan/Hualien/Hualien-and-taitung-tourism-four-days-08.jpg)
 *武陵農場的白雲飄飄*
 
 正在汲取花蜜的曙鳳蝶，完全不察一旁的變態狂魔正拿著相機瘋狂偷拍著。
 
-![曙鳳蝶汲蜜](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-09.jpg)
+![曙鳳蝶汲蜜](../../assets/images/ROC/Taiwan/Hualien/Hualien-and-taitung-tourism-four-days-09.jpg)
 *曙鳳蝶汲蜜*
 
 笨蛋，人都殺到正面了，還一副渾然忘我的樣子，忽然想到一首歌「蝴蝶蝴蝶生的真美麗………」，蝴蝶的美麗色彩到底是誰決定的呢？
 
-![曙鳳蝶的美麗身姿](../../assets/images/2018/11/Hualien-and-taitung-tourism-four-days-10.jpg)
+![曙鳳蝶的美麗身姿](../../assets/images/ROC/Taiwan/Hualien/Hualien-and-taitung-tourism-four-days-10.jpg)
 *曙鳳蝶的美麗身姿*
 
 第一天晚上，我們住在露營區旁的武陵山莊大通舖，二千二百元的房價硬是殺到二千，不過沒有冷氣也沒有電視，硬體設備算是相當簡陋。其實要是有攜帶帳篷、睡袋的話可以直接去睡外頭棧板了，便宜快五倍。
@@ -117,7 +117,7 @@ heroImage: ""
     * **第三日**：紅葉溫泉 → 瑞穗牧場 → 池上 → 太麻里 → 知本溫泉
     * **第四日**：知本溫泉 → 花蓮市 → 蘇花公路 → 雪山隧道 → 淡水
 
-[![花蓮、台東四日環島路線地圖](../../assets/images/2018/12/Hualien-and-taitung-tourism-four-days-71.jpg)](https://mizuc.com/hualien-and-taitung-tourism-day-four/hualien-and-taitung-tourism-four-days-71/)
+![花蓮、台東四日環島路線地圖](../../assets/images/ROC/Taiwan/Hualien/Hualien-and-taitung-tourism-four-days-71.jpg)
 *花蓮、台東四日環島路線地圖*
 
 ## 延伸閱讀

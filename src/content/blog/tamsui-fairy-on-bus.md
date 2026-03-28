@@ -4,7 +4,7 @@ description: "生動描繪一位在淡水公車上出沒的傳奇人物。詳述
 pubDate: 2025-04-24
 tags: ["公車", "活神仙", "淡水", "臭味", "高中女生"]
 category: "walk"
-heroImage: "../../assets/images/2025/Backpacker-travel-overnight-bus.jpg"
+heroImage: "../../assets/images/Story/Backpacker-travel-overnight-bus.jpg"
 ---
 
 從臺北市下班要回[淡水](https://tamsuian.com)的公車上，我偶爾會遇見一位「**活神仙**」從石牌站上車，在北淡水站下車。

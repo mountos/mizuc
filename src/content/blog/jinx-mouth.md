@@ -4,7 +4,7 @@ description: "自嘲式記錄一段超自然的「預言」之路。從隨口預
 pubDate: 2025-05-01
 tags: ["墜機", "天災", "烏鴉嘴", "自助旅行", "預言"]
 category: "roam"
-heroImage: "../../assets/images/Travel-Macbook-Camera-Coffee-Camera-Bookk-Map-Pen-Hand.jpeg"
+heroImage: "../../assets/images/shared/Travel-Macbook-Camera-Coffee-Camera-Bookk-Map-Pen-Hand.jpeg"
 ---
 
 我這人，說好聽點是「言出法隨」，說難聽點就是個不折不扣的烏鴉嘴。

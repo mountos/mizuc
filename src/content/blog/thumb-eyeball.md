@@ -4,7 +4,7 @@ description: "幽默記錄一段因沈迷於直播故事而引發的自殘烏龍
 pubDate: 2025-04-12
 tags: ["傷害", "急診", "直播間", "眼睛"]
 category: "roam"
-heroImage: "../../assets/images/gray-cat-eye-angry-pissed-off-mad-mood.jpeg"
+heroImage: "../../assets/images/shared/gray-cat-eye-angry-pissed-off-mad-mood.jpeg"
 ---
 夜晚的直播間，對我這種不是在旅行路上就是在計劃下次要去哪旅行的迷走客來說，就像一扇通往陌生世界的窗。
 

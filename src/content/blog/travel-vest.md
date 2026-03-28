@@ -4,7 +4,7 @@ description: "深度分享對瑞典 Fjällräven Reporter Lite Vest 的八年情
 pubDate: 2025-04-13
 tags: ["北極狐", "戶外服飾", "網路購物", "戰地攝影師","背心", "野外求生", "Fjallraven"]
 category: "roam"
-heroImage: "../../assets/images/Mizuc-Travel-Outdoor-Clothing-Gear.jpg"
+heroImage: "../../assets/images/shared/Mizuc-Travel-Outdoor-Clothing-Gear.jpg"
 ---
 我大概是全中華民國臺澎金馬地區，最愛穿背心的男人了。
 

@@ -4,7 +4,7 @@ description: "深入剖析為何飛機餐總成為網路吐槽的重災區。從
 pubDate: 2025-04-24
 tags: ["異國料理", "自助旅行", "飛機餐", "飲食文化", "迷因"]
 category: "walk"
-heroImage: "../../assets/images/2019/Scoot-aviation-on-the-sky-of-Yoshima-Island-Shikoku-Japan.jpeg"
+heroImage: "../../assets/images/Transport/Scoot-aviation-on-the-sky-of-Yoshima-Island-Shikoku-Japan.jpeg"
 ---
 
 每次坐飛機，當空服員推著餐車過來，向乘客遞上一份份熱騰騰的飛機餐時，我都會滿懷期待的翹首以盼。總覺得一邊欣賞著窗外的高空美景，一邊享用餐點別有一番風味。

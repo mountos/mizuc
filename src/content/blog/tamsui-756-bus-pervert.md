@@ -4,7 +4,7 @@ description: "直擊一段發生在臺北往淡水公車上的犯罪未遂現場
 pubDate: 2025-04-03
 tags: ["公車", "女高中生", "淡水", "色狼", "變態"]
 category: "walk"
-heroImage: "../../assets/images/2025/Pervert-on-the-Tamsui-bus.jpg"
+heroImage: "../../assets/images/Story/Pervert-on-the-Tamsui-bus.jpg"
 ---
 
 記得故事發生當時，我還在臺北市一家專利事務所擔任專利工程師，過著朝九晚六的牛馬生活。每天早上為了多賴會兒床、避開塞車高峰，我常不得不選擇搭乘討厭的捷運，但下班後我幾乎百分百都會搭公車回到淡水。

@@ -4,7 +4,7 @@ description: "以奇幻文學筆法記錄 2006 年在紐西蘭中土大陸上的
 pubDate: 2007-02-13
 tags: ["公主", "勇者", "彩虹", "打工度假", "流浪", "渡輪", "紐西蘭"]
 category: "roam"
-heroImage: ""
+heroImage: "../../assets/images/shared/Travel-Macbook-Camera-Coffee-Camera-Bookk-Map-Pen-Hand.jpeg"
 ---
 
 勇者迷走客，在過去曾經是魔戒戰場的中土大陸上探險著。勇者在深入各個秘境的刺激旅途中，遇到了馴服一頭白色巨獸的女戰士、總是在吃神祕食物的豔麗魔法師、被教會放逐，傳說中混過黑暗世界的暴力牧師、恐怖級的超天然流浪公主、想改行卻變成累加職業的專職機械技師兼職廚師，以及嚮往非盈利、非政府組織的笑瞇瞇商人。
