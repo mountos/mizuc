@@ -14,7 +14,7 @@ import sitemap from '@astrojs/sitemap';
 // https://astro.build/config
 export default defineConfig({
   // IMPORTANT: Replace `https://example.com` with your actual domain.
-  site: 'https://example.com',
+  site: 'https://mizuc.com',
   integrations: [sitemap()],
   markdown: {
     rehypePlugins: [rehypeExternalLinks],

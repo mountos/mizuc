@@ -1,17 +1,29 @@
 ---
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import SEO from '../components/SEO.astro';
 import { ViewTransitions } from 'astro:transitions';
 import '../styles/global.css';
 
 interface Props {
 	title: string;
 	description?: string;
+	image?: string;
+	type?: 'website' | 'article';
+	article?: {
+		publishedTime: string;
+		modifiedTime?: string;
+		tags?: string[];
+		author?: string;
+	};
 }
 
 const { 
 	title = '迷走客', 
-	description = '去探險，去感受，這個真實而獨特的世界。' 
+	description = '去探險，去感受，這個真實而獨特的世界。',
+	image,
+	type,
+	article
 } = Astro.props;
 
 const isHomepage = Astro.url.pathname === '/';
@@ -19,12 +31,13 @@ const isHomepage = Astro.url.pathname === '/';
 <!doctype html>
 <html lang="en">
 	<head>
-		<meta charset="UTF-8" />
-		<meta name="description" content={description} />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="generator" content={Astro.generator} />
-		<title>{title}</title>
+		<SEO 
+			title={title} 
+			description={description} 
+			image={image} 
+			type={type} 
+			article={article} 
+		/>
 		<ViewTransitions />
 	</head>
 	<body>

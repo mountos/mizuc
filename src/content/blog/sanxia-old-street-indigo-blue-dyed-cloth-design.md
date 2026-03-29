@@ -38,7 +38,7 @@ heroImage: "../../assets/images/ROC/Taiwan/SanXia/SanXia-Old-Street-Indigo-Blue-
 
 聽到警察哥哥們的這種說法，內心對藍染的期待都瞬間冷掉。只好安慰自己算了，或許附近有簡易版本的藍染教學，多晃一下說不定就能找到。
 
-![三峽老街街景](../../assets/images/ROC/Taiwan/SanXia/SanXia-Old-Street-Scene-1.jpg)
+![三峽老街街景](../../assets/images/ROC/Taiwan/SanXia/SanXia-Old-Street-Scene.jpg)
 *三峽老街街景：巴洛克式的紅磚老街風景*
 
 當我和盈慧走出派出所隨意繞了一下，站在幾條輻射狀路口的中央，看著四周旋轉的景色，車水馬龍般的無數靈魂，在我們兩人的四周交織起一幅，看起來色彩頗為奇特的迷幻奇景。

@@ -37,7 +37,7 @@ const displayCategory = categoryMap[category.toLowerCase()] || category;
     <ul>
       {posts.map(post => (
         <li>
-          <a href={`/blog/${post.slug}/`}>
+          <a href={`/${post.slug}/`}>
             <span class="post-title">{post.data.title}</span>
             <span class="post-date">{new Date(post.data.pubDate).toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
           </a>

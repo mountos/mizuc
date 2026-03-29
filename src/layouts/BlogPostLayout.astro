@@ -12,7 +12,18 @@ const categoryMap: Record<string, string> = {
 };
 const displayCategory = primaryCategory ? (categoryMap[primaryCategory.toLowerCase()] || primaryCategory) : null;
 ---
-<Layout title={`${frontmatter.title}`} description={frontmatter.description}>
+<Layout 
+  title={`${frontmatter.seoTitle || frontmatter.title}`} 
+  description={frontmatter.seoDescription || frontmatter.description}
+  image={frontmatter.heroImage}
+  type="article"
+  article={{
+    publishedTime: frontmatter.pubDate.toISOString(),
+    modifiedTime: frontmatter.updatedDate ? frontmatter.updatedDate.toISOString() : undefined,
+    tags: frontmatter.tags,
+    author: frontmatter.author || '迷走客'
+  }}
+>
 
   {frontmatter.heroImage &&
     <div slot="hero" class="hero-background-container">
