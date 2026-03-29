@@ -4,7 +4,7 @@ description: "打破「日本電器便宜好用」的迷思。直擊東京秋葉
 pubDate: 2025-05-05
 tags: ["BicCamera", "SD 記憶卡", "亞馬遜", "日本購物", "日本電商", "電子產品"]
 category: "guide"
-heroImage: "../../assets/images/2025/05/Japan-Shopping-Electronics-Street.jpeg"
+heroImage: "../../assets/images/Story/Japan-Shopping-Electronics-Street.jpeg"
 ---
 
 作為一個熱衷旅遊與攝影的迷走客，**日本 🇯🇵** 對我來說就像一場視覺盛宴：東京的閃爍霓虹、京都的古剎清幽、北海道的雪山連綿，每一景都讓我忍不住想按下快門，永久珍藏。

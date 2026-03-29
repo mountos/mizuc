@@ -58,7 +58,7 @@ heroImage: "../../assets/images/shared/Travel-Macbook-Camera-Coffee-Camera-Bookk
 
 ## 花蓮鯉魚潭
 
-![花蓮鯉魚潭景觀](../../assets/images/2019/01/Taiwan-Travel-around-in-Hualien-Liyutan.jpg)
+![花蓮鯉魚潭景觀](../../assets/images/ROC/Taiwan/Around/Taiwan-Travel-around-in-Hualien-Liyutan.jpg)
 *花蓮鯉魚潭景觀*
 
 先到了風景管理區參觀官方做的介紹後，旁邊的咖啡廳似乎沒有營業的樣子，就是不曉得是因為太早還是因為放暑假。我到的時候已經九點鐘，整個風景區最多人的就是清潔工了，至於遊客？沒看到！
@@ -115,7 +115,7 @@ heroImage: "../../assets/images/shared/Travel-Macbook-Camera-Coffee-Camera-Bookk
 
 開著車倒頭，沿著省道台九線公路回去台東的富里，那邊是省道臺23線公路的入口。不過當我到了公路入口處附近時，找半天竟然一時找不到公路在哪裡，挖哩咧，不是省道嗎？怎麼入口跟普通巷子差不多而已？忽然心中升起一股不妙的感覺，這條省道好像怪怪的。
 
-![省23號公路的神祕山路](../../assets/images/2019/01/Taiwan-Travel-around-in-Hualien-Mountain-Road.jpg)
+![省23號公路的神祕山路](../../assets/images/ROC/Taiwan/Around/Taiwan-Travel-around-in-Hualien-Mountain-Road.jpg)
 *神祕山路景象一*
 
 開進去沒多久，就發現好像來到太魯閣一樣，似乎是一個堪稱小太魯閣的地方。
@@ -128,7 +128,7 @@ heroImage: "../../assets/images/shared/Travel-Macbook-Camera-Coffee-Camera-Bookk
 
 嗯，如果不看一線道的去向路一大半掉落到山谷的話，用想像的話，其實省23號公路還算是蠻好開的一段路。姑且就先稱省23號公路為神秘肉包路吧！
 
-![省23號公路的山間景色](../../assets/images/2019/01/Taiwan-Travel-around-in-Hualien-Mountain-Road-Scene-02.jpg)
+![省23號公路的山間景色](../../assets/images/ROC/Taiwan/Around/Taiwan-Travel-around-in-Hualien-Mountain-Road-Scene-02.jpg)
 *山路景色之二*
 
 ## 金崙溫泉
@@ -137,7 +137,7 @@ heroImage: "../../assets/images/shared/Travel-Macbook-Camera-Coffee-Camera-Bookk
 
 延伸閱讀：《[金崙溫泉旅館：台東開車自駕旅行第二日的濕氣與泡麵](https://mizuc.com/hot-spring-hotel-of-jinlum-taitung/)》
 
-![臺東金崙溫泉旅館](../../assets/images/2019/01/Taiwan-Travel-around-in-Taitung-Jinlun-Hot-Spring.jpg)
+![臺東金崙溫泉旅館](../../assets/images/ROC/Taiwan/Around/Taiwan-Travel-around-in-Taitung-Jinlun-Hot-Spring.jpg)
 *金崙溫泉旅館*
 
 呃，因為臨時拿到台積電打工的 offer，所以得去外地當一個長工，本篇臺灣環島遊記只能先暫時在這邊告一段落。後面先簡單列出環島後續一些行程，如果有緣，以後再繼續寫吧（笑）。

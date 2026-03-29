@@ -12,7 +12,7 @@ heroImage: "../../assets/images/shared/Travel-Macbook-Camera-Coffee-Camera-Bookk
 
 在台南郊外的汽車旅館跟八爪椅和按摩浴缸伴陪了一夜，清早醒來吃過早餐後，為了避免又在陌生城市迷路浪費時間，很快地就繼續開車往台南市出發。
 
-![高雄汽車旅館的情趣用品](../../assets/images/2019/01/Taiwan-Travel-around-in-Kaohsiung-Motel-Sex-Toys-Fun-props.jpg)
+![高雄汽車旅館的情趣用品](../../assets/images/ROC/Taiwan/Around/Taiwan-Travel-around-in-Kaohsiung-Motel-Sex-Toys-Fun-props.jpg)
 *高雄汽車旅館情趣用品的八爪椅（羞）*
 
 ## 臺南
@@ -32,7 +32,7 @@ heroImage: "../../assets/images/shared/Travel-Macbook-Camera-Coffee-Camera-Bookk
 
 離開她們家後不久，在路邊小卡車上買了幾包鮮蝦餅當做伴手禮。
 
-![台南永安著名的鮮蝦餅](../../assets/images/2019/01/Taiwan-Travel-around-and-Shrimp-cake-in-Yongan-Tainan.jpg)
+![台南永安著名的鮮蝦餅](../../assets/images/ROC/Taiwan/Around/Taiwan-Travel-around-and-Shrimp-cake-in-Yongan-Tainan.jpg)
 *台南永安的鮮蝦餅*
 
 好不容易在從迷宮鑽出來後，正好可以直接開上北上高速公路北上交流道，看來小華爸跟姐夫報的路是連接駁方向都最佳解的方案了，雖然對我這種開車新手來說顯得有點越級挑戰。

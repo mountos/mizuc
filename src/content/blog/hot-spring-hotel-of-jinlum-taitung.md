@@ -47,7 +47,7 @@ heroImage: "../../assets/images/shared/Girl-Shower-take-off-clothes.jpeg"
 
 回到旅館，一打開房間門就感覺到一股濕氣撲面而來，整個房間除了浴室，幾乎就是被照片中的雙人彈簧床給佔據了整個房間。
 
-![金崙溫泉旅館充滿時代感的簡約房間](../../assets/images/ROC/Taiwan/JinLun-Hot-Spring-Hotel-TaiTung.jpg)
+![金崙溫泉旅館充滿時代感的簡約房間](../../assets/images/ROC/Taiwan/Around/JinLun-Hot-Spring-Hotel-TaiTung.jpg)
 *金崙溫泉旅館的房間實景*
 
 一台 15 吋左右的電視還只能高掛門口的天花板上，也就不用奢望有什麼節目可以選了。

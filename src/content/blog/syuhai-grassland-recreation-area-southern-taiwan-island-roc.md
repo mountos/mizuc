@@ -29,7 +29,7 @@ heroImage: "../../assets/images/shared/girl-back-view-coastal-cliff-sunset.jpeg"
 
 ## 大尖山
 
-![旭海草原遠眺大尖山](../../assets/images/ROC/Taiwan/Taiwan-Travel-around-in-Pingtung-Kenting-Dajianshan.jpg)
+![旭海草原遠眺大尖山](../../assets/images/ROC/Taiwan/Around/Taiwan-Travel-around-in-Pingtung-Kenting-Dajianshan.jpg)
 *從高處遠眺，屏東墾丁的大尖山在雲霧中若隱若現*
 
 迷走第一次前往旭海草原，就有看見親親大草原這個名字，當時雖然覺得哪裡怪怪的，倒也不以為意，畢竟那是個旅遊資訊普遍不發達的時代，迷走能一個人在環島時靠著紙本地圖集找到上去草原的方法就應該偷笑了。
@@ -42,7 +42,7 @@ heroImage: "../../assets/images/shared/girl-back-view-coastal-cliff-sunset.jpeg"
 
 即使特意繞了車城、鵝鑾鼻後歷經千辛萬苦總算達到了旭海草原，卻又找不到門路可以上去。終於幾經探索後，才在看起來不起眼的鐵皮屋外看到一個看板，寫到可以前往旭海親親大草原。
 
-![旭海草原海景](../../assets/images/ROC/Taiwan/Taiwan-Travel-around-in-Pingtung-Xuhai-Scene.jpg)
+![旭海草原海景](../../assets/images/ROC/Taiwan/Around/Taiwan-Travel-around-in-Pingtung-Xuhai-Scene.jpg)
 *綠意、藍天與海風的完美共奏*
 
 ## 恐怖山徑上的吉普車
