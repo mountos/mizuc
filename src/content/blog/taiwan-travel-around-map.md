@@ -4,7 +4,7 @@ description: "透過 Google Map 持續更新迷走客踏足過的中華民國領
 pubDate: 2025-05-05
 tags: ["Google Map", "地圖", "環島", "中華民國","臺灣"]
 category: "guide"
-heroImage: "../../assets/images/2025/04/Keep-Walking-Sign-Jinliang-LIN.jpg"
+heroImage: "../../assets/images/Transport/Keep-Walking-Sign-Jinliang-LIN.jpg"
 ---
 
 《**迷走客的中華民國 🇹🇼 環島旅行地圖**》是我第一次嘗試用 [Google Map](https://www.vedfolnir.com/technology/network/google-my-map-planning/) 記錄曾經踏足過的旅遊景點，利用科技輔助旅行，能有更好的回憶（花時間編輯就有點麻煩）。

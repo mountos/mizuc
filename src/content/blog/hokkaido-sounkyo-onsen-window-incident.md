@@ -4,7 +4,7 @@ description: "在零下低溫的北海道層雲峽溫泉飯店，迷走客因為
 pubDate: 2026-03-30T05:10
 tags: ["日本旅遊", "北海道", "層雲峽", "溫泉", "糗事", "旅行日誌"]
 category: "roam"
-heroImage: "../../assets/images/shared/Travel-Macbook-Camera-Camera-Bookk-Map-Pen-Hand.jpg"
+heroImage: "../../assets/images/shared/Travel-Macbook-Camera-Coffee-Camera-Bookk-Map-Pen-Hand.jpeg"
 ---
 
 說到冬天的日本北海道，許多人腦海中浮現的第一個畫面，絕對是那如夢似幻的銀白世界，以及冷到骨子裡卻又讓人欲罷不能的極致泡湯體驗。

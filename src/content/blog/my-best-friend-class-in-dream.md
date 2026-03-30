@@ -4,7 +4,7 @@ description: "深情記錄一場關於已故好友小祥的夢境。在鉛灰色
 pubDate: 2025-05-27
 tags: ["夢境", "東沙島", "海島", "溺水意外", "電機工程"]
 category: "roam"
-heroImage: "../../assets/2012/11/One-Piece-Companionship-Friendship.jpg"
+heroImage: "../../assets/images/shared/One-Piece-Companionship-Friendship.jpg"
 ---
 
 有些地方，一生可能都到不了，但它會在夜裡主動來找你。

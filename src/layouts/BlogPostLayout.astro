@@ -1,7 +1,14 @@
 ---
 import Layout from './Layout.astro';
 import ToC from '../components/ToC.astro';
+import { getImage } from 'astro:assets';
+
 const { frontmatter, headings } = Astro.props;
+
+const optimizedHeroImage = (frontmatter.heroImage && typeof frontmatter.heroImage !== 'string')
+  ? await getImage({ src: frontmatter.heroImage, format: 'webp' }) 
+  : null;
+const heroImageUrl = optimizedHeroImage?.src || frontmatter.heroImage;
 
 const hasHeadings = headings.filter(h => h.depth > 1 && h.depth < 4).length > 0;
 const primaryCategory = frontmatter.categories?.[0] || frontmatter.category;
@@ -15,7 +22,7 @@ const displayCategory = primaryCategory ? (categoryMap[primaryCategory.toLowerCa
 <Layout 
   title={`${frontmatter.seoTitle || frontmatter.title}`} 
   description={frontmatter.seoDescription || frontmatter.description}
-  image={frontmatter.heroImage}
+  image={heroImageUrl}
   type="article"
   article={{
     publishedTime: frontmatter.pubDate.toISOString(),
@@ -25,9 +32,9 @@ const displayCategory = primaryCategory ? (categoryMap[primaryCategory.toLowerCa
   }}
 >
 
-  {frontmatter.heroImage &&
+  {heroImageUrl &&
     <div slot="hero" class="hero-background-container">
-      <div class="hero-image" style={`background-image: url(${frontmatter.heroImage})`}></div>
+      <div class="hero-image" style={`background-image: url(${heroImageUrl})`}></div>
       <div class="hero-overlay"></div>
     </div>
   }
@@ -97,9 +104,9 @@ const displayCategory = primaryCategory ? (categoryMap[primaryCategory.toLowerCa
     padding: 0 !important;
     max-width: none !important;
     width: 100% !important;
-    background-color: var(--color-background); /* Ensure content has a background */
-    position: relative; /* Needed for z-index to work */
-    z-index: 10; /* Ensure content is above the background hero */
+    background-color: transparent !important; /* Make transparent to show hero background */
+    position: relative;
+    z-index: 10;
   }
 
   /* --- Hero as Background --- */

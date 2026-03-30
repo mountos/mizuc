@@ -4,7 +4,7 @@ description: "每次出國總是擔心遇上扒手？迷走客分享獨門的「
 pubDate: 2026-03-30T05:00
 tags: ["安全指南", "旅行哲學", "防扒手", "自助旅行", "藏錢技巧"]
 category: "guide"
-heroImage: "../../assets/images/shared/Travel-Macbook-Camera-Camera-Bookk-Map-Pen-Hand.jpg"
+heroImage: "../../assets/images/shared/Travel-Macbook-Camera-Coffee-Camera-Bookk-Map-Pen-Hand.jpeg"
 ---
 
 身為一名喜歡在世界各地大街小巷亂竄的迷走客，什麼大風大浪沒見過？但說到最讓人防不勝防、心跳漏拍的危險，那絕對是異國街頭那些擁有神乎其技的「職業扒手」。
