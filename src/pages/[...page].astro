@@ -20,15 +20,30 @@ const pageTitle = "迷走客 | Blog";
 const pageDescription = `The latest news from 迷走客${page.currentPage > 1 ? ` | Page ${page.currentPage}` : ''}`;
 ---
 <Layout title={pageTitle} description={pageDescription}>
+	{page.currentPage === 1 && (
+		<section slot="hero" class="hero-section">
+			<div class="hero-image-wrapper">
+				<img src="/images/mizuc_travel_resources_hero.png" alt="迷走客 - 探索世界" class="hero-image" />
+				<div class="hero-overlay"></div>
+			</div>
+			<div class="hero-content">
+				<h1 class="hero-title">迷走客 Mizuc</h1>
+				<p class="hero-subtitle">去探險，去感受，這個真實而獨特的世界。</p>
+			</div>
+		</section>
+	)}
+
 	<section class="post-list">
 		<h2 class="section-title">最新文章</h2>
-		<ul>
+		<ul class="article-grid">
 			{page.data.map((post) => (
-				<li>
+				<li class="article-card">
 					<a href={`/${post.slug}/`} class="post-link">
-						<h3 class="post-title">{post.data.title}</h3>
-						<span class="post-date">{post.data.pubDate.toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
-						{post.data.description && <p class="post-description">{post.data.description}</p>}
+						<div class="card-content">
+							<h3 class="post-title">{post.data.title}</h3>
+							<span class="post-date">{post.data.pubDate.toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
+							{post.data.description && <p class="post-description">{post.data.description}</p>}
+						</div>
 					</a>
 				</li>
 			))}
@@ -39,57 +54,162 @@ const pageDescription = `The latest news from 迷走客${page.currentPage > 1 ? 
 </Layout>
 
 <style>
+	/* Hero Section - 空靈感 (Ethereal feel) */
+	.hero-section {
+		position: relative;
+		width: 100%;
+		height: 60vh;
+		min-height: 400px;
+		max-height: 600px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		overflow: hidden;
+		margin-bottom: 4rem;
+	}
+	.hero-image-wrapper {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		z-index: -1;
+	}
+	.hero-image {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		object-position: center;
+		/* Add subtle scale animation for floating ethereal feel */
+		animation: floatingZoom 20s ease-out infinite alternate;
+	}
+	@keyframes floatingZoom {
+		from { transform: scale(1); }
+		to { transform: scale(1.05); }
+	}
+	.hero-overlay {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		/* A light/white elegant gradient overlay */
+		background: linear-gradient(to bottom, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.8) 100%);
+	}
+	
+	/* Adapt conditionally to dark mode if variables exist */
+	:global(.dark) .hero-overlay, :global([data-theme="dark"]) .hero-overlay, :global(body.dark-mode) .hero-overlay {
+		background: linear-gradient(to bottom, rgba(15, 23, 42, 0.2) 0%, rgba(15, 23, 42, 0.9) 100%);
+	}
+
+	.hero-content {
+		text-align: center;
+		padding: 2rem;
+		z-index: 10;
+		max-width: 800px;
+	}
+	.hero-title {
+		font-family: var(--font-serif);
+		font-size: 3.5rem;
+		font-weight: 300;
+		color: var(--color-primary, #333);
+		margin-bottom: 1rem;
+		letter-spacing: 0.15em;
+		text-shadow: 0 4px 12px rgba(255, 255, 255, 0.8);
+	}
+	:global(.dark) .hero-title, :global([data-theme="dark"]) .hero-title, :global(body.dark-mode) .hero-title {
+		text-shadow: 0 4px 12px rgba(0, 0, 0, 0.8);
+		color: var(--color-primary, #fff);
+	}
+	.hero-subtitle {
+		font-family: var(--font-serif);
+		font-size: 1.25rem;
+		color: var(--color-text, #555);
+		letter-spacing: 0.1em;
+		font-weight: 400;
+		opacity: 0.9;
+		margin-top: 0;
+	}
+
+	/* Card Layout for Posts */
 	.post-list .section-title {
 		font-size: 1.8rem;
 		font-family: var(--font-serif);
-		font-weight: 700;
+		font-weight: 300;
 		color: var(--color-primary);
-		margin-bottom: 3rem;
-		border-bottom: 2px solid var(--color-secondary); /* Sunflower gold seal line */
-		padding-bottom: 1rem;
-		letter-spacing: 0.1em;
+		margin-bottom: 2rem;
+		text-align: center;
+		letter-spacing: 0.2em;
 	}
-	.post-list ul {
+	.article-grid {
 		list-style: none;
 		padding: 0;
 		margin: 0;
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+		gap: 2.5rem;
 	}
-	.post-list li {
-		margin-bottom: 3.5rem;
+	.article-card {
+		background: var(--color-bg, #ffffff);
+		border-radius: 12px;
+		overflow: hidden;
+		transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+		/* Soft shadow for ethereal float */
+		box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+		border: 1px solid rgba(0, 0, 0, 0.02);
+		height: 100%;
 	}
+	:global(.dark) .article-card, :global([data-theme="dark"]) .article-card, :global(body.dark-mode) .article-card {
+		background: rgba(255,255,255,0.03);
+		box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+		border: 1px solid rgba(255, 255, 255, 0.05);
+	}
+	.article-card:hover {
+		transform: translateY(-6px);
+		box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
+	}
+	:global(.dark) .article-card:hover, :global([data-theme="dark"]) .article-card:hover, :global(body.dark-mode) .article-card:hover {
+		box-shadow: 0 12px 30px rgba(0, 0, 0, 0.4);
+	}
+
 	.post-link {
-		display: block;
+		display: flex;
+		flex-direction: column;
 		text-decoration: none;
 		color: var(--color-text);
-		transition: opacity 0.3s ease;
+		height: 100%;
+		padding: 2rem;
 	}
-	.post-link:hover {
-		opacity: 0.75;
+	.card-content {
+		display: flex;
+		flex-direction: column;
+		flex-grow: 1;
 	}
+
 	.post-date {
-		display: block;
-		font-family: var(--font-serif);
+		font-family: var(--font-sans, system-ui);
 		font-size: 0.85rem;
 		color: var(--color-text-muted);
-		margin-top: 0.5rem;
-		margin-bottom: 1rem;
+		margin-bottom: 0.8rem;
 		letter-spacing: 0.05em;
+		text-transform: uppercase;
+		opacity: 0.8;
 	}
 	.post-title {
 		font-family: var(--font-serif);
-		font-size: 1.6rem;
-		font-weight: 700;
-		margin: 0;
-		line-height: 1.35;
+		font-size: 1.5rem;
+		font-weight: 600;
+		margin: 0 0 1rem 0;
+		line-height: 1.4;
 		color: var(--color-text);
-		letter-spacing: 0.05em;
+		letter-spacing: 0.02em;
 		transition: color 0.3s ease;
 	}
 	.post-link:hover .post-title {
 		color: var(--color-primary);
 	}
 	.post-description {
-		font-size: 1.05rem;
+		font-size: 1rem;
 		color: var(--color-text-muted);
 		margin: 0;
 		line-height: 1.8;
@@ -97,5 +217,24 @@ const pageDescription = `The latest news from 迷走客${page.currentPage > 1 ? 
 		-webkit-line-clamp: 3;
 		-webkit-box-orient: vertical;
 		overflow: hidden;
+		flex-grow: 1;
+		font-weight: 300;
+	}
+	
+	@media (max-width: 768px) {
+		.hero-section {
+			height: 50vh;
+			min-height: 350px;
+		}
+		.hero-title {
+			font-size: 2.2rem;
+		}
+		.hero-subtitle {
+			font-size: 1rem;
+		}
+		.article-grid {
+			gap: 1.5rem;
+			grid-template-columns: 1fr;
+		}
 	}
 </style>
