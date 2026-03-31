@@ -2,8 +2,16 @@
 import Layout from './Layout.astro';
 import ToC from '../components/ToC.astro';
 import { getImage } from 'astro:assets';
+import { getCollection } from 'astro:content';
 
 const { frontmatter, headings } = Astro.props;
+
+const allPosts = await getCollection('blog');
+const readMorePosts = allPosts
+  .filter(p => p.data.title !== frontmatter.title)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 3);
+
 
 const optimizedHeroImage = (frontmatter.heroImage && typeof frontmatter.heroImage !== 'string')
   ? await getImage({ src: frontmatter.heroImage, format: 'webp' }) 
@@ -78,6 +86,21 @@ const displayCategory = primaryCategory ? (categoryMap[primaryCategory.toLowerCa
           title="Comments"
         ></iframe>
       </section>
+
+      <!-- Read More Section -->
+      {readMorePosts.length > 0 && (
+        <section class="read-more-section">
+          <h3 class="read-more-title">閱讀更多</h3>
+          <div class="read-more-grid">
+            {readMorePosts.map(p => (
+              <a href={`/${p.slug}/`} class="read-more-card">
+                <h4 class="rm-title">{p.data.title}</h4>
+                <p class="rm-date">{p.data.pubDate.toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
     </article>
 
     <script is:inline>
@@ -290,5 +313,67 @@ const displayCategory = primaryCategory ? (categoryMap[primaryCategory.toLowerCa
     overflow: hidden;
     background: transparent;
     transition: height 0.3s ease;
+  }
+
+  /* --- Read More Section --- */
+  .read-more-section {
+    margin-top: 4rem;
+    padding-top: 3rem;
+    border-top: 2px solid rgba(0, 0, 0, 0.05);
+  }
+  .read-more-title {
+    font-family: var(--font-serif);
+    font-size: 1.5rem;
+    color: var(--color-primary);
+    margin-bottom: 2rem;
+    letter-spacing: 0.1em;
+  }
+  .read-more-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.5rem;
+  }
+  .read-more-card {
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem;
+    background: var(--color-bg, #ffffff);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.02);
+  }
+  .read-more-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+  }
+  .rm-title {
+    font-family: var(--font-serif);
+    font-size: 1.15rem;
+    color: var(--color-text);
+    margin: 0 0 0.8rem 0;
+    line-height: 1.4;
+    font-weight: 600;
+  }
+  .read-more-card:hover .rm-title {
+    color: var(--color-primary);
+  }
+  .rm-date {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    font-family: var(--font-sans);
+    margin: 0;
+    margin-top: auto;
+  }
+  :global(.dark) .read-more-section {
+    border-top-color: rgba(255, 255, 255, 0.05);
+  }
+  :global(.dark) .read-more-card {
+    background: rgba(255, 255, 255, 0.03);
+    border-color: rgba(255, 255, 255, 0.05);
+  }
+  :global(.dark) .read-more-card:hover {
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
   }
 </style>
