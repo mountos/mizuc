@@ -30,10 +30,15 @@ const pageDescription = `The latest news from 迷走客${page.currentPage > 1 ? 
 				<h1 class="hero-title">迷走客 Mizuc</h1>
 				<p class="hero-subtitle">去探險，去感受，這個真實而獨特的世界。</p>
 			</div>
+			<a href="#latest-posts" class="scroll-down-icon" aria-label="向下滾動">
+				<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+					<polyline points="6 9 12 15 18 9"></polyline>
+				</svg>
+			</a>
 		</section>
 	)}
 
-	<section class="post-list">
+	<section class="post-list" id="latest-posts">
 		<h2 class="section-title">最新文章</h2>
 		<ul class="article-grid">
 			{page.data.map((post) => (
@@ -58,9 +63,7 @@ const pageDescription = `The latest news from 迷走客${page.currentPage > 1 ? 
 	.hero-section {
 		position: relative;
 		width: 100%;
-		height: 60vh;
-		min-height: 400px;
-		max-height: 600px;
+		height: 100vh;
 		display: flex;
 		align-items: center;
 		justify-content: center;
@@ -129,6 +132,28 @@ const pageDescription = `The latest news from 迷走客${page.currentPage > 1 ? 
 		font-weight: 400;
 		opacity: 0.9;
 		margin-top: 0;
+	}
+
+	.scroll-down-icon {
+		position: absolute;
+		bottom: 2rem;
+		left: 50%;
+		transform: translateX(-50%);
+		color: rgba(255, 255, 255, 0.7);
+		animation: bounce 2s infinite;
+		transition: color 0.3s ease;
+		z-index: 20;
+	}
+	:global(.dark) .scroll-down-icon, :global([data-theme="dark"]) .scroll-down-icon, :global(body.dark-mode) .scroll-down-icon {
+		color: rgba(0, 0, 0, 0.7);
+	}
+	.scroll-down-icon:hover {
+		color: var(--color-primary);
+	}
+	@keyframes bounce {
+		0%, 20%, 50%, 80%, 100% { transform: translate(-50%, 0); }
+		40% { transform: translate(-50%, -15px); }
+		60% { transform: translate(-50%, -7px); }
 	}
 
 	/* Card Layout for Posts */
@@ -223,8 +248,7 @@ const pageDescription = `The latest news from 迷走客${page.currentPage > 1 ? 
 	
 	@media (max-width: 768px) {
 		.hero-section {
-			height: 50vh;
-			min-height: 350px;
+			height: 100vh;
 		}
 		.hero-title {
 			font-size: 2.2rem;

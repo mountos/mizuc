@@ -91,11 +91,11 @@ const displayCategory = primaryCategory ? (categoryMap[primaryCategory.toLowerCa
       {readMorePosts.length > 0 && (
         <section class="read-more-section">
           <h3 class="read-more-title">閱讀更多</h3>
-          <div class="read-more-grid">
+          <div class="read-more-list">
             {readMorePosts.map(p => (
-              <a href={`/${p.slug}/`} class="read-more-card">
+              <a href={`/${p.slug}/`} class="read-more-item">
                 <h4 class="rm-title">{p.data.title}</h4>
-                <p class="rm-date">{p.data.pubDate.toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
+                <span class="rm-date">{p.data.pubDate.toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
               </a>
             ))}
           </div>
@@ -328,52 +328,49 @@ const displayCategory = primaryCategory ? (categoryMap[primaryCategory.toLowerCa
     margin-bottom: 2rem;
     letter-spacing: 0.1em;
   }
-  .read-more-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 1.5rem;
-  }
-  .read-more-card {
+  .read-more-list {
     display: flex;
     flex-direction: column;
-    padding: 1.5rem;
-    background: var(--color-bg, #ffffff);
-    border: 1px solid rgba(0, 0, 0, 0.05);
-    border-radius: 8px;
-    text-decoration: none;
-    transition: all 0.3s ease;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.02);
+    gap: 0;
   }
-  .read-more-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+  .read-more-item {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 1.25rem 1rem;
+    background: transparent;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  .read-more-item:hover {
+    background-color: rgba(0, 0, 0, 0.02);
   }
   .rm-title {
     font-family: var(--font-serif);
     font-size: 1.15rem;
     color: var(--color-text);
-    margin: 0 0 0.8rem 0;
-    line-height: 1.4;
-    font-weight: 600;
+    margin: 0;
+    font-weight: 500;
+    transition: color 0.3s ease;
   }
-  .read-more-card:hover .rm-title {
+  .read-more-item:hover .rm-title {
     color: var(--color-primary);
   }
   .rm-date {
     font-size: 0.85rem;
     color: var(--color-text-muted);
     font-family: var(--font-sans);
-    margin: 0;
-    margin-top: auto;
+    margin: 0 0 0 1rem;
+    white-space: nowrap;
   }
   :global(.dark) .read-more-section {
     border-top-color: rgba(255, 255, 255, 0.05);
   }
-  :global(.dark) .read-more-card {
-    background: rgba(255, 255, 255, 0.03);
-    border-color: rgba(255, 255, 255, 0.05);
+  :global(.dark) .read-more-item {
+    border-bottom-color: rgba(255, 255, 255, 0.05);
   }
-  :global(.dark) .read-more-card:hover {
-    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+  :global(.dark) .read-more-item:hover {
+    background-color: rgba(255, 255, 255, 0.03);
   }
 </style>
